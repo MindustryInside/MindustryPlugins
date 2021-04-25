@@ -1,0 +1,623 @@
+[
+  {
+    "repo": "Kieaer/Essentials",
+    "name": "Essentials",
+    "author": "Kieaer",
+    "lastUpdated": "2021-04-25T14:28:30Z",
+    "stars": 37,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-04-23T16:01:29Z",
+    "stars": 21,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
+    "repo": "Anuken/HexedPlugin",
+    "name": "HexedPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-01-11T05:00:38Z",
+    "stars": 18,
+    "hasJava": true,
+    "description": "A special gamemode."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
+    "repo": "Fatonndev/Matrix-plugin",
+    "name": "Matrix-plugin",
+    "author": "KeviTV",
+    "lastUpdated": "2020-05-25T18:35:52Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
+  },
+  {
+    "repo": "Fatonndev/MatrixHub",
+    "name": "MatrixHub",
+    "author": "KeviTV",
+    "lastUpdated": "2020-06-06T18:39:50Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "MindustryInside/JSEval",
+    "name": "JSEval",
+    "author": "Summet",
+    "lastUpdated": "2021-04-09T21:15:46Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Allows admins to execute JavaScript code using a special command."
+  },
+  {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2020-05-21T06:20:43Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-02-15T19:18:16Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "heck"
+  },
+  {
+    "repo": "mayli/RockTheVotePlugin",
+    "name": "RockTheVotePlugin",
+    "author": "mayli",
+    "lastUpdated": "2021-03-30T05:48:54Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
+  },
+  {
+    "repo": "skykatik/AfkPlugin",
+    "name": "AfkPlugin",
+    "author": "Skat",
+    "lastUpdated": "2021-04-06T15:00:22Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Auto kick inactive players."
+  },
+  {
+    "repo": "Gee-aitcH/GHMP-NukeAlert",
+    "name": "GHMP-NukeAlert",
+    "author": "(G_H)",
+    "lastUpdated": "2019-10-19T18:35:20Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Simple Nuke Alert plugin for server."
+  },
+  {
+    "repo": "Loxoz/MindustryJSPlugin",
+    "name": "MindustryJSPlugin",
+    "author": "Loxoz",
+    "lastUpdated": "2019-11-10T04:38:00Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
+  },
+  {
+    "repo": "deng-rui/plugins-mission",
+    "name": "plugins-mission",
+    "author": "Dr",
+    "lastUpdated": "2020-02-13T05:57:38Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugins-mission"
+  },
+  {
+    "repo": "Anuken/RateLimitPlugin",
+    "name": "RateLimitPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-05-15T19:34:01Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Imposes a configuration rate limit."
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--flatearth",
+    "name": "mindustry__plugin--flatearth",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-19T18:14:37Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A moment of silence for the solar panels."
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--reclamation",
+    "name": "mindustry__plugin--reclamation",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-20T09:18:42Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/AS-Plugin",
+    "name": "AS-Plugin",
+    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+    "lastUpdated": "2020-05-03T02:44:51Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Auto Syncs player every 5 minutes."
+  },
+  {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-05-21T07:34:04Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
+    "repo": "Kieaer/Nickname-tag",
+    "name": "Nickname-tag",
+    "author": "Kieaer",
+    "lastUpdated": "2021-02-06T21:41:17Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Set the message that appears when the player talks."
+  },
+  {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-04-25T13:26:46Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "More commands for players and admins"
+  },
+  {
+    "repo": "Anuken/EvalPlugin",
+    "name": "EvalPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2019-09-08T19:00:06Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "!weepingangel"
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--blackbox",
+    "name": "mindustry__plugin--blackbox",
+    "author": "Quezler",
+    "lastUpdated": "2020-02-07T16:59:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "That just sounds like autosave with extra steps..."
+  },
+  {
+    "repo": "J-VdS/mindustry__plugin--minduracing",
+    "name": "mindustry__plugin--minduracing",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-02-07T17:05:41Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "don't touch the brakes"
+  },
+  {
+    "repo": "Recessive/grayscale",
+    "name": "grayscale",
+    "author": "Recessive",
+    "lastUpdated": "2020-03-10T07:55:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Removes individuality and makes for a very boring lobby."
+  },
+  {
+    "repo": "jakubDoka/The-worst-mindustry-plugin",
+    "name": "The-worst-mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-04-03T05:22:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
+    "repo": "MindustryParty/Plugin",
+    "name": "Plugin",
+    "author": "NoahvdAa",
+    "lastUpdated": "2020-05-30T16:47:03Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Core plugin of the mindustry.party server."
+  },
+  {
+    "repo": "jakubDoka/TWS-plugin",
+    "name": "TWS-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-06-06T18:15:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Command extension"
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--bomberman",
+    "name": "mindustry__plugin--bomberman",
+    "author": "Quezler, Fishbuilder",
+    "lastUpdated": "2020-07-03T08:37:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "<insert thorium here>"
+  },
+  {
+    "repo": "Slava0135/Recapture",
+    "name": "Recapture",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-24T16:13:13Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Allows teams to capture cores."
+  },
+  {
+    "repo": "Kieaer/Authme",
+    "name": "Authme",
+    "author": "Kieaer",
+    "lastUpdated": "2021-02-06T21:41:52Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Simple login system"
+  },
+  {
+    "repo": "Xusk947/PUBG",
+    "name": "PUBG",
+    "author": "Xusk",
+    "lastUpdated": "2021-02-08T15:06:12Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "PUBG."
+  },
+  {
+    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
+    "name": "mindustry-recapture-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-03-06T07:33:02Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-03-28T17:54:26Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Hub plugin for Mindustry"
+  },
+  {
+    "repo": "J-VdS/pvpStatsPlugin",
+    "name": "pvpStatsPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-04-17T18:23:31Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Show the amount of games won by a player!"
+  },
+  {
+    "repo": "Gee-aitcH/GHMP-AdminChat",
+    "name": "GHMP-AdminChat",
+    "author": "(G_H)",
+    "lastUpdated": "2021-04-24T14:04:02Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Admin Chat plugin for server."
+  },
+  {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-25T13:22:30Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
+  },
+  {
+    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
+    "name": "Mindustry-Discord-Relay",
+    "author": "ArchieJaskowicz",
+    "lastUpdated": "2020-02-02T13:41:36Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
+  },
+  {
+    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
+    "name": "Xenon-Mindustry-Plugin",
+    "author": "Iapetus11",
+    "lastUpdated": "2020-02-03T18:57:34Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "idk"
+  },
+  {
+    "repo": "Blockzilla101/linker",
+    "name": "linker",
+    "author": "Blockzilla",
+    "lastUpdated": "2020-05-09T13:19:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to tie player admin status with a discord role"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/vpn",
+    "name": "vpn",
+    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+    "lastUpdated": "2020-08-20T06:09:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Detects and Blocks vpns after eough time"
+  },
+  {
+    "repo": "J-VdS/BuilderGame",
+    "name": "BuilderGame",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-09-04T09:32:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A new gamemode for mindustry."
+  },
+  {
+    "repo": "ritzip/RandomPlugin",
+    "name": "RandomPlugin",
+    "author": "Ritzip",
+    "lastUpdated": "2020-09-14T07:05:43Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": ""
+  },
+  {
+    "repo": "Vortetty/SimpleUtilsPlugin",
+    "name": "SimpleUtilsPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-09-28T03:46:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Patryk434/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2020-09-29T17:16:36Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "MindustryModSeeker1/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2020-10-07T01:43:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "Kickbut101/MultiplayerPausePlugin",
+    "name": "MultiplayerPausePlugin",
+    "author": "Andy",
+    "lastUpdated": "2020-12-20T22:11:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
+  },
+  {
+    "repo": "Volas171/AlexServerPlugin",
+    "name": "AlexServerPlugin",
+    "author": "Alex and VolasYouKnow",
+    "lastUpdated": "2020-12-31T17:43:44Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some AlexServerPlugin features."
+  },
+  {
+    "repo": "DeltaNedas/JSEval",
+    "name": "JSEval",
+    "author": "Summet, DeltaNedas",
+    "lastUpdated": "2021-01-11T11:22:08Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
+  },
+  {
+    "repo": "Slava0135/UltraHardCores",
+    "name": "UltraHardCores",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-23T12:45:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Makes all cores indestructible"
+  },
+  {
+    "repo": "J-VdS/TeamPlugin",
+    "name": "TeamPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-01-23T13:20:48Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that lets a player change teams."
+  },
+  {
+    "repo": "Slava0135/NoMoreCoreBurning",
+    "name": "NoMoreCoreBurning",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-25T12:30:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Prevents cores from burning"
+  },
+  {
+    "repo": "Slava0135/Capture",
+    "name": "Capture",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-25T13:41:01Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Allows teams to capture cores by destroying them."
+  },
+  {
+    "repo": "fuzzbuck/io-global-bans",
+    "name": "io-global-bans",
+    "author": "fuzzbuck",
+    "lastUpdated": "2021-01-26T23:57:12Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Slava0135/NoDerelictTeam",
+    "name": "NoDerelictTeam",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-28T08:11:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Doesn't allow players to join Derelict team"
+  },
+  {
+    "repo": "MindustryInside/RankedPlugin",
+    "name": "RankedPlugin",
+    "author": "MindustryInside",
+    "lastUpdated": "2021-02-02T18:15:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Slava0135/Annexation",
+    "name": "Annexation",
+    "author": "Slava0135",
+    "lastUpdated": "2021-02-03T15:56:05Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Capture cores, get points and win. Requires Slava0135/Recapture."
+  },
+  {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
+  },
+  {
+    "repo": "Minxyzgo/UpdateModPlugin",
+    "name": "UpdateModPlugin",
+    "author": "Minxyzgo",
+    "lastUpdated": "2021-03-07T10:09:49Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "一个插件用于更新模组与其他插件 (使用git api)"
+  },
+  {
+    "repo": "MindustryParty/PluginV2",
+    "name": "PluginV2",
+    "author": "NoahvdAa",
+    "lastUpdated": "2021-03-12T11:35:01Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "Shadow53/MindustryAdminPlugin",
+    "name": "MindustryAdminPlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2021-03-12T22:29:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to run admin commands from the chat"
+  },
+  {
+    "repo": "Shadow53/MindustryAutoPausePlugin",
+    "name": "MindustryAutoPausePlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2021-03-12T22:32:29Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to automatically pause the game when no one is connected."
+  },
+  {
+    "repo": "Shadow53/MindustryAuthPlugin",
+    "name": "MindustryAuthPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-03-12T22:33:25Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "mindustry-antigrief/PacketPlugin",
+    "name": "PacketPlugin",
+    "author": "foo",
+    "lastUpdated": "2021-03-17T03:08:34Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that provides a network interface for foo's client."
+  },
+  {
+    "repo": "GaviTSRA/TSR-AntiLogicVirus",
+    "name": "TSR-AntiLogicVirus",
+    "author": "GaviTSRA",
+    "lastUpdated": "2021-04-05T19:41:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "The anti-virus plugin for mindustry."
+  },
+  {
+    "repo": "MindustryInside/TheInspection",
+    "name": "TheInspection",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-25T09:06:53Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Extension for hub plugin. Allow to connect players with mods"
+  }
+]
