@@ -18,7 +18,7 @@ jobs:
         with:
           java-version: 14
       - name: Build with Gradle
-        run: ./gradlew run -Dorg.gradle.daemon=false
+        run: ./gradlew run -Dorg.gradle.daemon=false -Dgithubtoken="Bearer ${{ secrets.GITHUB_TOKEN }}"
       - name: Push changes
         run: |
           git config --global user.email "cli@github.com"

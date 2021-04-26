@@ -21,12 +21,16 @@ public class PluginUpdater {
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); // obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("Anuken/ExamplePlugin", "MindustryInside/MindustryPlugins");
 
+    static String githubToken;
+
     public static void main(String[] args) {
         Core.net = makeNet();
+        githubToken = OS.prop("githubtoken");
         new PluginUpdater();
     }
 
     {
+        Log.info("Github token is @.", githubToken != null ? "present" : "absent");
         Colors.put("accent", Color.white);
         Colors.put("unlaunched",  Color.white);
         Colors.put("highlight",  Color.white);
@@ -174,6 +178,7 @@ public class PluginUpdater {
         Net.HttpRequest req = new Net.HttpRequest()
                 .timeout(10000)
                 .method(Net.HttpMethod.GET)
+                .header("authorization", githubToken)
                 .header("accept", "application/vnd.github.baptiste-preview+json")
                 .url(api + url + (params == null ? "" : "?" + params.keys().toSeq()
                         .map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry)))

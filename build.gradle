@@ -16,5 +16,6 @@ dependencies {
 task run(dependsOn: classes, type: JavaExec){
     main = "inside.PluginUpdater"
     classpath = sourceSets.main.runtimeClasspath
+    systemProperties System.properties
     standardInput = System.in
 }
