@@ -261,6 +261,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Command extension"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--bomberman",
     "name": "mindustry__plugin--bomberman",
     "author": "Quezler, Fishbuilder",
@@ -336,7 +345,7 @@
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-25T13:22:30Z",
+    "lastUpdated": "2021-04-26T12:47:23Z",
     "stars": 1,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
