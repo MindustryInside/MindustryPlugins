@@ -456,7 +456,7 @@
     "lastUpdated": "2021-01-11T11:22:08Z",
     "stars": 0,
     "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, /js."
+    "description": "Allows admins to execute JavaScript code using a special command, [stat]/js."
   },
   {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
