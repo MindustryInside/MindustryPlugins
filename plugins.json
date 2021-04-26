@@ -261,6 +261,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Command extension"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--bomberman",
     "name": "mindustry__plugin--bomberman",
     "author": "Quezler, Fishbuilder",
