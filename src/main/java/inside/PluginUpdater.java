@@ -3,7 +3,6 @@ package inside;
 import arc.*;
 import arc.files.Fi;
 import arc.func.Cons;
-import arc.graphics.*;
 import arc.math.Mathf;
 import arc.struct.*;
 import arc.util.*;
@@ -15,26 +14,20 @@ import java.util.*;
 import static arc.struct.StringMap.of;
 
 public class PluginUpdater {
-    static final String api = "https://api.github.com", searchTerm = "mindustry plugin";
-    static final int perPage = 100;
-    static final int maxLength = 55;
-    static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); // obviously not a comprehensive list
-    static final ObjectSet<String> blacklist = ObjectSet.with("Anuken/ExamplePlugin", "MindustryInside/MindustryPlugins");
-
-    static String githubToken;
+    private static final String api = "https://api.github.com", searchTerm = "mindustry plugin";
+    private static final int perPage = 100;
+    private static final int maxLength = 55;
+    private static final ObjectSet<String> jvmLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); // obviously not a comprehensive list
+    private static final ObjectSet<String> blacklist = ObjectSet.with("Anuken/ExamplePlugin", "MindustryInside/MindustryPlugins");
+    private static final String githubToken = OS.prop("githubtoken");
 
     public static void main(String[] args) {
         Core.net = makeNet();
-        githubToken = OS.prop("githubtoken");
         new PluginUpdater();
     }
 
     {
-        Log.info("Github token is @.", githubToken != null ? "present" : "absent");
-        Colors.put("accent", Color.white);
-        Colors.put("unlaunched",  Color.white);
-        Colors.put("highlight",  Color.white);
-        Colors.put("stat",  Color.white);
+        Log.info("&lkGithub token is @.", githubToken != null ? "present" : "absent");
 
         query("/search/repositories", of("q", searchTerm, "per_page", perPage), result -> {
             int total = result.getInt("total_count", 0);
@@ -125,7 +118,7 @@ public class PluginUpdater {
                 obj.add("author", Strings.stripColors(pluginj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
-                obj.add("hasJava", Jval.valueOf(pluginj.getBool("java", false) || javaLangs.contains(lang)));
+                obj.add("hasJava", Jval.valueOf(pluginj.getBool("java", false) || jvmLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(pluginj.getString("description", "No description provided.")));
                 array.asArray().add(obj);
             }
@@ -137,7 +130,7 @@ public class PluginUpdater {
     }
 
     @Nullable
-    Jval tryList(String... queries) {
+    private Jval tryList(String... queries) {
         Jval[] result = {null};
         for (String str : queries) {
             Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
@@ -150,7 +143,7 @@ public class PluginUpdater {
     }
 
     @Nullable
-    Jval trySearchFile(String repo, String branch, String... files) {
+    private Jval trySearchFile(String repo, String branch, String... files) {
         Jval[] result = {null};
         String[] path = {null};
         for (String str : files) {
@@ -174,7 +167,7 @@ public class PluginUpdater {
         return result[0];
     }
 
-    void query(String url, @Nullable StringMap params, Cons<Jval> cons) {
+    private void query(String url, @Nullable StringMap params, Cons<Jval> cons) {
         Net.HttpRequest req = new Net.HttpRequest()
                 .timeout(10000)
                 .method(Net.HttpMethod.GET)
@@ -195,11 +188,11 @@ public class PluginUpdater {
         }, this::handleError);
     }
 
-    void handleError(Throwable error) {
+    private void handleError(Throwable error) {
         error.printStackTrace();
     }
 
-    static Net makeNet() {
+    private static Net makeNet() {
         Net net = new Net();
         //use blocking requests
         Reflect.set(NetJavaImpl.class, Reflect.get(net, "impl"), "asyncExecutor", new AsyncExecutor(1) {
