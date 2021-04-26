@@ -144,6 +144,15 @@
     "description": "A moment of silence for the solar panels."
   },
   {
+    "repo": "Quezler/mindustry__plugin--reclamation",
+    "name": "mindustry__plugin--reclamation",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-20T09:18:42Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/AS-Plugin",
     "name": "AS-Plugin",
     "author": "L0615T1C5.216AC:9437 [Impact Phd]",
@@ -520,6 +529,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
