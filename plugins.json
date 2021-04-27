@@ -456,7 +456,7 @@
     "lastUpdated": "2021-01-11T11:22:08Z",
     "stars": 0,
     "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, /js."
+    "description": "Allows admins to execute JavaScript code using a special command, [stat]/js."
   },
   {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
@@ -603,15 +603,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-03-17T03:08:34Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -628,5 +619,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "mindustry-antigrief/PacketPlugin",
+    "name": "PacketPlugin",
+    "author": "foo",
+    "lastUpdated": "2021-04-27T04:51:32Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that provides a network interface for foo's client."
   }
 ]
