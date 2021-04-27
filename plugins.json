@@ -180,10 +180,19 @@
     "description": "Set the message that appears when the player talks."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-03-28T17:54:26Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Hub plugin for Mindustry"
+  },
+  {
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-04-25T13:26:46Z",
+    "lastUpdated": "2021-04-27T16:35:21Z",
     "stars": 2,
     "hasJava": true,
     "description": "More commands for players and admins"
@@ -313,15 +322,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Recapture pvp minigame for Mindustry"
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-hub-plugin",
-    "name": "mindustry-hub-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-03-28T17:54:26Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Hub plugin for Mindustry"
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
