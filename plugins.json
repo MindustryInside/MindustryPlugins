@@ -189,15 +189,6 @@
     "description": "Hub plugin for Mindustry"
   },
   {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-04-27T16:35:21Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "More commands for players and admins"
-  },
-  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -205,6 +196,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-04-28T12:56:26Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "More commands for players and admins"
   },
   {
     "repo": "Anuken/EvalPlugin",
