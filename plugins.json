@@ -288,15 +288,6 @@
     "description": "Command extension"
   },
   {
-    "repo": "Quezler/mindustry__plugin--bomberman",
-    "name": "mindustry__plugin--bomberman",
-    "author": "Quezler, Fishbuilder",
-    "lastUpdated": "2020-07-03T08:37:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "<insert thorium here>"
-  },
-  {
     "repo": "Slava0135/Recapture",
     "name": "Recapture",
     "author": "Slava0135",
