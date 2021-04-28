@@ -135,6 +135,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-04-28T12:56:26Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "More commands for players and admins"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -196,15 +205,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-04-28T12:56:26Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "More commands for players and admins"
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -610,6 +610,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "MindustryInside/NeutralPlugin",
+    "name": "NeutralPlugin",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-03-24T09:57:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Fork of the Pandorum.su plugin."
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
