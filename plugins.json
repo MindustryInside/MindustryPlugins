@@ -198,6 +198,15 @@
     "description": "More commands for players and admins"
   },
   {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-27T18:21:04Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -349,15 +358,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-27T18:21:04Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
