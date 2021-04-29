@@ -36,6 +36,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2020-05-21T06:20:43Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -61,15 +70,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
-  },
-  {
-    "repo": "Astro36/mindustry-pause-plugin",
-    "name": "Game Pause",
-    "author": "Seungjae Park",
-    "lastUpdated": "2020-05-21T06:20:43Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
     "repo": "Anuken/CurseFilterPlugin",
