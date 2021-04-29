@@ -138,7 +138,7 @@
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-04-28T12:56:26Z",
+    "lastUpdated": "2021-04-29T18:28:09Z",
     "stars": 3,
     "hasJava": true,
     "description": "More commands for players and admins"
@@ -612,15 +612,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "MindustryInside/NeutralPlugin",
-    "name": "NeutralPlugin",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-03-24T09:57:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Fork of the Pandorum.su plugin."
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -646,5 +637,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
+  },
+  {
+    "repo": "MindustryInside/NeutralPlugin",
+    "name": "NeutralPlugin",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T18:54:16Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Fork of the Pandorum.su plugin."
   }
 ]
