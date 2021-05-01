@@ -3,7 +3,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-05-01T01:51:50Z",
+    "lastUpdated": "2021-05-01T15:39:17Z",
     "stars": 37,
     "hasJava": true,
     "description": "More commands and features."
@@ -135,6 +135,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T15:15:29Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur_YT (map)",
@@ -196,15 +205,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T15:15:29Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Anuken/EvalPlugin",
