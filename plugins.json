@@ -40,7 +40,7 @@
     "name": "Game Pause",
     "author": "Seungjae Park",
     "lastUpdated": "2020-05-21T06:20:43Z",
-    "stars": 5,
+    "stars": 6,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
   },
@@ -108,6 +108,15 @@
     "description": "A plugin to change map by /rtv."
   },
   {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-05-01T20:18:15Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "More commands for players and admins"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -142,15 +151,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Imposes a configuration rate limit."
-  },
-  {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-05-01T20:18:15Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "More commands for players and admins"
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
