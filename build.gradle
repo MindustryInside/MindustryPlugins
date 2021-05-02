@@ -6,7 +6,7 @@ repositories {
 }
 
 ext {
-    arcVersion = "126.2"
+    arcVersion = "90465fb7f747b86e59c47350272cdc021bbbc773"
 }
 
 dependencies {

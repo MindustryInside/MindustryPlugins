@@ -3,6 +3,7 @@ package inside;
 import arc.*;
 import arc.files.Fi;
 import arc.func.Cons;
+import arc.graphics.*;
 import arc.math.Mathf;
 import arc.struct.*;
 import arc.util.*;
@@ -27,6 +28,11 @@ public class PluginUpdater {
     }
 
     {
+        Colors.put("accent", Color.white);
+        Colors.put("unlaunched",  Color.white);
+        Colors.put("highlight",  Color.white);
+        Colors.put("stat",  Color.white);
+
         Log.info("&lkGithub token is @.", githubToken != null ? "present" : "absent");
 
         query("/search/repositories", of("q", searchTerm, "per_page", perPage), result -> {
@@ -94,11 +100,11 @@ public class PluginUpdater {
                     Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
 
             Log.info("&lcCreating plugins.json file...");
-            Jval array = Jval.read("[]");
+            Jval array = Jval.newArray();
             for (String name : outnames) {
                 Jval gm = ghmeta.get(name);
                 Jval pluginj = output.get(name);
-                Jval obj = Jval.read("{}");
+                Jval obj = Jval.newObject();
                 String displayName = Strings.stripColors(pluginj.getString("displayName", ""))
                         .replace("\\n", "");
 
@@ -137,7 +143,7 @@ public class PluginUpdater {
                 if (out.getStatus() == Net.HttpStatus.OK) {
                     result[0] = Jval.read(out.getResultAsString());
                 }
-            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+            }, t -> Log.info("&lc | &lr" + Strings.getSimpleMessage(t)));
         }
         return result[0];
     }
@@ -147,7 +153,7 @@ public class PluginUpdater {
         Jval[] result = {null};
         String[] path = {null};
         for (String str : files) {
-            if(path[0] != null) break;
+            if (path[0] != null) break;
             query("/search/code?q=name+repo:" + Strings.encode(repo) + "+filename:" + Strings.encode(str), null, jval -> {
                 path[0] = Optional.ofNullable(jval.get("items"))
                         .map(Jval::asArray)
@@ -162,7 +168,7 @@ public class PluginUpdater {
                 if(out.getStatus() == Net.HttpStatus.OK){
                     result[0] = Jval.read(out.getResultAsString());
                 }
-            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+            }, t -> Log.info("&lc | &lr" + Strings.getSimpleMessage(t)));
         }
         return result[0];
     }
@@ -194,7 +200,7 @@ public class PluginUpdater {
 
     private static Net makeNet() {
         Net net = new Net();
-        //use blocking requests
+        // use blocking requests
         Reflect.set(NetJavaImpl.class, Reflect.get(net, "impl"), "asyncExecutor", new AsyncExecutor(1) {
             public <T> AsyncResult<T> submit(final AsyncTask<T> task){
                 try {
