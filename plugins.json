@@ -90,15 +90,6 @@
     "description": "heck"
   },
   {
-    "repo": "skykatik/AfkPlugin",
-    "name": "AfkPlugin",
-    "author": "Skat",
-    "lastUpdated": "2021-04-06T15:00:22Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Auto kick inactive players."
-  },
-  {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
@@ -108,10 +99,19 @@
     "description": "A plugin to change map by /rtv."
   },
   {
+    "repo": "skykatik/AfkPlugin",
+    "name": "AfkPlugin",
+    "author": "Skat",
+    "lastUpdated": "2021-05-02T15:50:17Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Auto kick inactive players."
+  },
+  {
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-05-02T12:37:09Z",
+    "lastUpdated": "2021-05-02T15:55:47Z",
     "stars": 4,
     "hasJava": true,
     "description": "More commands for players and admins"
