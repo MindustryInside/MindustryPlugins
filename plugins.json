@@ -387,15 +387,6 @@
     "description": "A plugin to tie player admin status with a discord role"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/vpn",
-    "name": "vpn",
-    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
-    "lastUpdated": "2020-08-20T06:09:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Detects and Blocks vpns after eough time"
-  },
-  {
     "repo": "J-VdS/BuilderGame",
     "name": "BuilderGame",
     "author": "Fishbuilder",
