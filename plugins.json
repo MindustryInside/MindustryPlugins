@@ -90,6 +90,15 @@
     "description": "Auto kick inactive players."
   },
   {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T15:15:29Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
@@ -133,15 +142,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Imposes a configuration rate limit."
-  },
-  {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T15:15:29Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Susideur/moreCommands",
