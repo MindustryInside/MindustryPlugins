@@ -3,7 +3,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-04-25T14:28:30Z",
+    "lastUpdated": "2021-05-01T15:39:17Z",
     "stars": 37,
     "hasJava": true,
     "description": "More commands and features."
@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2021-01-11T05:00:38Z",
-    "stars": 18,
+    "stars": 19,
     "hasJava": true,
     "description": "A special gamemode."
   },
@@ -34,6 +34,15 @@
     "stars": 13,
     "hasJava": true,
     "description": "More commands and features."
+  },
+  {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2020-05-21T06:20:43Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -63,15 +72,6 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "Astro36/mindustry-pause-plugin",
-    "name": "Game Pause",
-    "author": "Seungjae Park",
-    "lastUpdated": "2020-05-21T06:20:43Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -81,15 +81,6 @@
     "description": "heck"
   },
   {
-    "repo": "mayli/RockTheVotePlugin",
-    "name": "RockTheVotePlugin",
-    "author": "mayli",
-    "lastUpdated": "2021-03-30T05:48:54Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
-  },
-  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -97,6 +88,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Auto kick inactive players."
+  },
+  {
+    "repo": "mayli/RockTheVotePlugin",
+    "name": "RockTheVotePlugin",
+    "author": "mayli",
+    "lastUpdated": "2021-04-29T15:20:54Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -133,6 +133,24 @@
     "stars": 3,
     "hasJava": true,
     "description": "Imposes a configuration rate limit."
+  },
+  {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T15:15:29Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-05-01T20:18:15Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "More commands for players and admins"
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
@@ -180,13 +198,13 @@
     "description": "Set the message that appears when the player talks."
   },
   {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-04-25T13:26:46Z",
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-03-28T17:54:26Z",
     "stars": 2,
     "hasJava": true,
-    "description": "More commands for players and admins"
+    "description": "Hub plugin for Mindustry"
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -315,15 +333,6 @@
     "description": "Recapture pvp minigame for Mindustry"
   },
   {
-    "repo": "ObvilionNetwork/mindustry-hub-plugin",
-    "name": "mindustry-hub-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-03-28T17:54:26Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Hub plugin for Mindustry"
-  },
-  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -345,7 +354,7 @@
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-26T12:47:23Z",
+    "lastUpdated": "2021-04-29T18:01:36Z",
     "stars": 1,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
@@ -621,10 +630,19 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "MindustryInside/NeutralPlugin",
+    "name": "NeutralPlugin",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T18:54:16Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Fork of the Pandorum.su plugin."
+  },
+  {
     "repo": "mindustry-antigrief/PacketPlugin",
     "name": "PacketPlugin",
     "author": "foo",
-    "lastUpdated": "2021-04-27T04:51:32Z",
+    "lastUpdated": "2021-05-01T17:09:35Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
