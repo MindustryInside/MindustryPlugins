@@ -36,15 +36,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "Astro36/mindustry-pause-plugin",
-    "name": "Game Pause",
-    "author": "Seungjae Park",
-    "lastUpdated": "2020-05-21T06:20:43Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -88,15 +79,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "heck"
-  },
-  {
-    "repo": "mayli/RockTheVotePlugin",
-    "name": "RockTheVotePlugin",
-    "author": "mayli",
-    "lastUpdated": "2021-04-29T15:20:54Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -162,24 +144,6 @@
     "description": "A moment of silence for the solar panels."
   },
   {
-    "repo": "Quezler/mindustry__plugin--reclamation",
-    "name": "mindustry__plugin--reclamation",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-20T09:18:42Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/AS-Plugin",
-    "name": "AS-Plugin",
-    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
-    "lastUpdated": "2020-05-03T02:44:51Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Auto Syncs player every 5 minutes."
-  },
-  {
     "repo": "J-VdS/DiscordPlugin",
     "name": "DiscordPlugin",
     "author": "Fishbuilder",
@@ -223,24 +187,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "!weepingangel"
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
-  },
-  {
-    "repo": "J-VdS/mindustry__plugin--minduracing",
-    "name": "mindustry__plugin--minduracing",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-02-07T17:05:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "don't touch the brakes"
   },
   {
     "repo": "Recessive/grayscale",
@@ -315,15 +261,6 @@
     "description": "Simple login system"
   },
   {
-    "repo": "Xusk947/PUBG",
-    "name": "PUBG",
-    "author": "Xusk",
-    "lastUpdated": "2021-02-08T15:06:12Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "PUBG."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
@@ -387,6 +324,15 @@
     "description": "A plugin to tie player admin status with a discord role"
   },
   {
+    "repo": "L0615T1C5-216AC-9437/vpn",
+    "name": "vpn",
+    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+    "lastUpdated": "2020-08-20T06:09:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Detects and Blocks vpns after eough time"
+  },
+  {
     "repo": "J-VdS/BuilderGame",
     "name": "BuilderGame",
     "author": "Fishbuilder",
@@ -430,15 +376,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "Kickbut101/MultiplayerPausePlugin",
-    "name": "MultiplayerPausePlugin",
-    "author": "Andy",
-    "lastUpdated": "2020-12-20T22:11:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "Volas171/AlexServerPlugin",
