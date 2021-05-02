@@ -72,6 +72,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T15:15:29Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -90,15 +99,6 @@
     "description": "Auto kick inactive players."
   },
   {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T15:15:29Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
@@ -111,7 +111,7 @@
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-05-01T20:18:15Z",
+    "lastUpdated": "2021-05-02T12:37:09Z",
     "stars": 4,
     "hasJava": true,
     "description": "More commands for players and admins"
