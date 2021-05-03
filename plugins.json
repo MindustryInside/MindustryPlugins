@@ -81,6 +81,15 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-05-02T18:40:21Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "More commands for players and admins"
+  },
+  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -106,15 +115,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Auto kick inactive players."
-  },
-  {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-05-02T18:40:21Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "More commands for players and admins"
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
