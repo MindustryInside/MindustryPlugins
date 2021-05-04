@@ -72,15 +72,6 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-02T14:19:08Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur_YT (map)",
@@ -88,6 +79,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "More commands for players and admins"
+  },
+  {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-04T14:05:00Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Anuken/CurseFilterPlugin",
