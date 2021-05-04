@@ -216,6 +216,15 @@
     "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
   },
   {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "!weepingangel"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--blackbox",
     "name": "mindustry__plugin--blackbox",
     "author": "Quezler",
