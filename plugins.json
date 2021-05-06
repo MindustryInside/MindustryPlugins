@@ -45,6 +45,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-05T16:59:26Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -79,15 +88,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "More commands for players and admins"
-  },
-  {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-05T16:59:26Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Anuken/CurseFilterPlugin",
