@@ -189,15 +189,6 @@
     "description": "Auto Syncs player every 5 minutes."
   },
   {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-05-21T07:34:04Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "interaction with discord"
-  },
-  {
     "repo": "Kieaer/Nickname-tag",
     "name": "Nickname-tag",
     "author": "Kieaer",
@@ -250,15 +241,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
-    "repo": "MindustryParty/Plugin",
-    "name": "Plugin",
-    "author": "NoahvdAa",
-    "lastUpdated": "2020-05-30T16:47:03Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Core plugin of the mindustry.party server."
   },
   {
     "repo": "jakubDoka/TWS-plugin",
@@ -468,15 +450,6 @@
     "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
-  },
-  {
     "repo": "Slava0135/UltraHardCores",
     "name": "UltraHardCores",
     "author": "Slava0135",
@@ -651,7 +624,7 @@
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
-    "lastUpdated": "2021-05-10T19:55:34Z",
+    "lastUpdated": "2021-05-10T20:09:16Z",
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
