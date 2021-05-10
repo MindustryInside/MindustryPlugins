@@ -252,15 +252,6 @@
     "description": "Removes individuality and makes for a very boring lobby."
   },
   {
-    "repo": "jakubDoka/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-04-03T05:22:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
-  },
-  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -376,6 +367,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/The-worst-mindustry-plugin",
+    "name": "The-worst-mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-28T14:39:31Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Blockzilla101/linker",
@@ -646,5 +646,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-05-10T15:26:34Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
   }
 ]
