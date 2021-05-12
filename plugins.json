@@ -459,6 +459,15 @@
     "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
+    "repo": "Volas171/UnitSpawn",
+    "name": "UnitSpawn",
+    "author": "VolasYouknow",
+    "lastUpdated": "2021-01-03T20:55:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
+  },
+  {
     "repo": "DeltaNedas/JSEval",
     "name": "JSEval",
     "author": "Summet, DeltaNedas",
@@ -610,6 +619,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Volas171/Anti-Spam",
+    "name": "Anti-Spam",
+    "author": "VolasYouKnow",
+    "lastUpdated": "2021-03-16T16:34:46Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "heck"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
