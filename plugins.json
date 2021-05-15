@@ -3,7 +3,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-05-01T15:39:17Z",
+    "lastUpdated": "2021-05-08T00:10:18Z",
     "stars": 37,
     "hasJava": true,
     "description": "More commands and features."
@@ -12,8 +12,8 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2021-04-23T16:01:29Z",
-    "stars": 21,
+    "lastUpdated": "2021-05-05T08:30:47Z",
+    "stars": 22,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -40,9 +40,18 @@
     "name": "Game Pause",
     "author": "Seungjae Park",
     "lastUpdated": "2020-05-21T06:20:43Z",
-    "stars": 5,
+    "stars": 6,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-05T16:59:26Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -72,6 +81,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur_YT (map)",
+    "lastUpdated": "2021-05-12T18:32:30Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "More commands for players and admins"
+  },
+  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -81,15 +99,6 @@
     "description": "heck"
   },
   {
-    "repo": "skykatik/AfkPlugin",
-    "name": "AfkPlugin",
-    "author": "Skat",
-    "lastUpdated": "2021-04-06T15:00:22Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Auto kick inactive players."
-  },
-  {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
@@ -97,6 +106,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
+  },
+  {
+    "repo": "skykatik/AfkPlugin",
+    "name": "AfkPlugin",
+    "author": "Skat",
+    "lastUpdated": "2021-05-11T11:05:24Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Auto kick inactive players."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -135,24 +153,6 @@
     "description": "Imposes a configuration rate limit."
   },
   {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T15:15:29Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-05-01T20:18:15Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "More commands for players and admins"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -169,6 +169,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "!weepingangel"
   },
   {
     "repo": "L0615T1C5-216AC-9437/AS-Plugin",
@@ -216,15 +225,6 @@
     "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
   },
   {
-    "repo": "Quezler/mindustry__plugin--weepingangel",
-    "name": "mindustry__plugin--weepingangel",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-22T18:09:11Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "!weepingangel"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--blackbox",
     "name": "mindustry__plugin--blackbox",
     "author": "Quezler",
@@ -250,15 +250,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
-    "repo": "jakubDoka/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-04-03T05:22:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "MindustryParty/Plugin",
@@ -354,7 +345,7 @@
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T18:01:36Z",
+    "lastUpdated": "2021-05-03T17:25:28Z",
     "stars": 1,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
@@ -376,6 +367,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/The-worst-mindustry-plugin",
+    "name": "The-worst-mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-28T14:39:31Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Blockzilla101/linker",
@@ -459,13 +459,22 @@
     "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
+    "repo": "Volas171/UnitSpawn",
+    "name": "UnitSpawn",
+    "author": "VolasYouknow",
+    "lastUpdated": "2021-01-03T20:55:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
+  },
+  {
     "repo": "DeltaNedas/JSEval",
     "name": "JSEval",
     "author": "Summet, DeltaNedas",
     "lastUpdated": "2021-01-11T11:22:08Z",
     "stars": 0,
     "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, [stat]/js."
+    "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
@@ -612,6 +621,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Volas171/Anti-Spam",
+    "name": "Anti-Spam",
+    "author": "VolasYouKnow",
+    "lastUpdated": "2021-03-16T16:34:46Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "heck"
+  },
+  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -619,15 +637,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "MindustryInside/TheInspection",
-    "name": "TheInspection",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-25T09:06:53Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
     "repo": "MindustryInside/NeutralPlugin",
@@ -646,5 +655,23 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
+  },
+  {
+    "repo": "MindustryInside/TheInspection",
+    "name": "TheInspection",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-02T16:22:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-05-15T08:54:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
   }
 ]
