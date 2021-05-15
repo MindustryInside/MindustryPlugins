@@ -7,7 +7,6 @@ import arc.graphics.*;
 import arc.math.Mathf;
 import arc.struct.*;
 import arc.util.*;
-import arc.util.async.*;
 import arc.util.serialization.Jval;
 
 import java.util.*;
@@ -23,7 +22,8 @@ public class PluginUpdater {
     private static final String githubToken = OS.prop("githubtoken");
 
     public static void main(String[] args) {
-        Core.net = makeNet();
+        Core.net = new Net();
+        Core.net.setBlock(true);
         new PluginUpdater();
     }
 
@@ -196,22 +196,5 @@ public class PluginUpdater {
 
     private void handleError(Throwable error) {
         error.printStackTrace();
-    }
-
-    private static Net makeNet() {
-        Net net = new Net();
-        // use blocking requests
-        Reflect.set(NetJavaImpl.class, Reflect.get(net, "impl"), "asyncExecutor", new AsyncExecutor(1) {
-            public <T> AsyncResult<T> submit(final AsyncTask<T> task){
-                try {
-                    task.call();
-                } catch(Exception e) {
-                    throw new RuntimeException(e);
-                }
-                return null;
-            }
-        });
-
-        return net;
     }
 }
