@@ -495,15 +495,6 @@
     "description": "Makes all cores indestructible"
   },
   {
-    "repo": "J-VdS/TeamPlugin",
-    "name": "TeamPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-01-23T13:20:48Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that lets a player change teams."
-  },
-  {
     "repo": "Slava0135/NoMoreCoreBurning",
     "name": "NoMoreCoreBurning",
     "author": "Slava0135",
@@ -669,9 +660,18 @@
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
-    "lastUpdated": "2021-05-15T12:58:30Z",
+    "lastUpdated": "2021-05-16T09:44:28Z",
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "J-VdS/TeamPlugin",
+    "name": "TeamPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-05-16T14:14:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that lets a player change teams."
   }
 ]
