@@ -673,5 +673,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that lets a player change teams."
+  },
+  {
+    "repo": "skykatik/AntiBot",
+    "name": "Anti Bot",
+    "author": "Skat",
+    "lastUpdated": "2021-05-16T21:19:53Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A simple plugin for kick bot accounts."
   }
 ]
