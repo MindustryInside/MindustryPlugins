@@ -657,15 +657,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-05-16T09:44:28Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
     "repo": "J-VdS/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -682,5 +673,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
+  },
+  {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-05-17T07:55:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
   }
 ]
