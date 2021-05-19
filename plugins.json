@@ -162,15 +162,6 @@
     "description": "A moment of silence for the solar panels."
   },
   {
-    "repo": "Quezler/mindustry__plugin--reclamation",
-    "name": "mindustry__plugin--reclamation",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-20T09:18:42Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
