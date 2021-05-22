@@ -216,6 +216,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-15T19:02:15Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -333,13 +342,22 @@
     "description": "Admin Chat plugin for server."
   },
   {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
+    "repo": "MindustryInside/NeutralPlugin",
+    "name": "NeutralPlugin",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-15T19:02:15Z",
+    "lastUpdated": "2021-04-29T18:54:16Z",
     "stars": 1,
     "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
+    "description": "Fork of the Pandorum.su plugin."
+  },
+  {
+    "repo": "MindustryInside/TheInspection",
+    "name": "TheInspection",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-02T16:22:04Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
@@ -630,15 +648,6 @@
     "description": "The anti-virus plugin for mindustry."
   },
   {
-    "repo": "MindustryInside/NeutralPlugin",
-    "name": "NeutralPlugin",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T18:54:16Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Fork of the Pandorum.su plugin."
-  },
-  {
     "repo": "mindustry-antigrief/PacketPlugin",
     "name": "PacketPlugin",
     "author": "foo",
@@ -646,15 +655,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
-    "repo": "MindustryInside/TheInspection",
-    "name": "TheInspection",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-02T16:22:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
     "repo": "J-VdS/TeamPlugin",
