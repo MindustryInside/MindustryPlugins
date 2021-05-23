@@ -666,15 +666,6 @@
     "description": "A plugin that lets a player change teams."
   },
   {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-05-19T08:36:07Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -682,5 +673,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
+  },
+  {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-05-23T16:00:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
   }
 ]
