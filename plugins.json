@@ -216,6 +216,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "MindustryInside/NeutralPlugin",
+    "name": "NeutralPlugin",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-04-29T18:54:16Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Fork of the Pandorum.su plugin."
+  },
+  {
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
@@ -340,15 +349,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Admin Chat plugin for server."
-  },
-  {
-    "repo": "MindustryInside/NeutralPlugin",
-    "name": "NeutralPlugin",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T18:54:16Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Fork of the Pandorum.su plugin."
   },
   {
     "repo": "MindustryInside/TheInspection",
