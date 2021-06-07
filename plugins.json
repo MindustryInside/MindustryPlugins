@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2021-01-11T05:00:38Z",
-    "stars": 19,
+    "stars": 20,
     "hasJava": true,
     "description": "A special gamemode."
   },
@@ -72,6 +72,15 @@
     "description": "Better Hub plugin for servers"
   },
   {
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-02-15T19:18:16Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "heck"
+  },
+  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -88,15 +97,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "More commands for players and admins"
-  },
-  {
-    "repo": "Anuken/CurseFilterPlugin",
-    "name": "CurseFilterPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-02-15T19:18:16Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "heck"
   },
   {
     "repo": "mayli/RockTheVotePlugin",
