@@ -549,6 +549,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "Slava0135/NoDerelictTeam",
+    "name": "NoDerelictTeam",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-28T08:11:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Doesn't allow players to join Derelict team"
+  },
+  {
     "repo": "MindustryInside/RankedPlugin",
     "name": "RankedPlugin",
     "author": "MindustryInside",
