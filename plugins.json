@@ -189,15 +189,6 @@
     "description": "Auto Syncs player every 5 minutes."
   },
   {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-05-21T07:34:04Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "interaction with discord"
-  },
-  {
     "repo": "Kieaer/Nickname-tag",
     "name": "Nickname-tag",
     "author": "Kieaer",
@@ -232,6 +223,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
+  },
+  {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-09T10:58:57Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "interaction with discord"
   },
   {
     "repo": "Anuken/EvalPlugin",
