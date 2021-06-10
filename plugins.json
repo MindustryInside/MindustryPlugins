@@ -432,15 +432,6 @@
     "description": "A new gamemode for mindustry."
   },
   {
-    "repo": "ritzip/RandomPlugin",
-    "name": "RandomPlugin",
-    "author": "Ritzip",
-    "lastUpdated": "2020-09-14T07:05:43Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "Vortetty/SimpleUtilsPlugin",
     "name": "SimpleUtilsPlugin",
     "author": "Anuke",
