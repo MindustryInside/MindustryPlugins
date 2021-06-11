@@ -63,15 +63,6 @@
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
   },
   {
-    "repo": "Fatonndev/MatrixHub",
-    "name": "MatrixHub",
-    "author": "KeviTV",
-    "lastUpdated": "2020-06-06T18:39:50Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Better Hub plugin for servers"
-  },
-  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -97,6 +88,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "More commands for players and admins"
+  },
+  {
+    "repo": "Fatonndev/MatrixHub",
+    "name": "MatrixHub",
+    "author": "KeviTV",
+    "lastUpdated": "2020-06-06T18:39:50Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
   },
   {
     "repo": "mayli/RockTheVotePlugin",
