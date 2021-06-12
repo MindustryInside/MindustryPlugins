@@ -234,6 +234,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "shugen002/MDTSteamLobbyPlugin",
+    "name": "MDTSteamLobbyPlugin",
+    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
+    "lastUpdated": "2021-06-12T12:01:27Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -277,6 +286,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Core plugin of the mindustry.party server."
+  },
+  {
+    "repo": "jakubDoka/TWS-plugin",
+    "name": "TWS-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-06-06T18:15:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "deng-rui/Command-Extension",
@@ -358,15 +376,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Recapture pvp minigame for Mindustry"
-  },
-  {
-    "repo": "shugen002/MDTSteamLobbyPlugin",
-    "name": "MDTSteamLobbyPlugin",
-    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
-    "lastUpdated": "2021-06-12T12:01:27Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
