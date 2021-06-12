@@ -700,5 +700,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Spawns enemies in a random location..."
+  },
+  {
+    "repo": "shugen002/MDTSteamLobbyPlugin",
+    "name": "MDTSteamLobbyPlugin",
+    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
+    "lastUpdated": "2021-06-12T12:01:27Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
