@@ -36,6 +36,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2020-05-21T06:20:43Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -88,6 +97,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "mayli/RockTheVotePlugin",
+    "name": "RockTheVotePlugin",
+    "author": "mayli",
+    "lastUpdated": "2021-04-29T15:20:54Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -160,6 +178,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "!weepingangel"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/AS-Plugin",
+    "name": "AS-Plugin",
+    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+    "lastUpdated": "2020-05-03T02:44:51Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Auto Syncs player every 5 minutes."
   },
   {
     "repo": "Kieaer/Nickname-tag",
@@ -261,6 +288,15 @@
     "description": "Core plugin of the mindustry.party server."
   },
   {
+    "repo": "jakubDoka/TWS-plugin",
+    "name": "TWS-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-06-06T18:15:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
     "repo": "deng-rui/Command-Extension",
     "name": "Command-Extension",
     "author": "Dr",
@@ -295,6 +331,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Simple login system"
+  },
+  {
+    "repo": "Xusk947/PUBG",
+    "name": "PUBG",
+    "author": "Xusk",
+    "lastUpdated": "2021-02-08T15:06:12Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "PUBG."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
@@ -396,6 +441,15 @@
     "description": "A new gamemode for mindustry."
   },
   {
+    "repo": "Vortetty/SimpleUtilsPlugin",
+    "name": "SimpleUtilsPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-09-28T03:46:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
     "repo": "Patryk434/spawnUnit",
     "name": "spawnUnit",
     "author": "Nipple",
@@ -412,6 +466,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "Kickbut101/MultiplayerPausePlugin",
+    "name": "MultiplayerPausePlugin",
+    "author": "Andy",
+    "lastUpdated": "2020-12-20T22:11:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "Volas171/AlexServerPlugin",
@@ -475,6 +538,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows teams to capture cores by destroying them."
+  },
+  {
+    "repo": "fuzzbuck/io-global-bans",
+    "name": "io-global-bans",
+    "author": "fuzzbuck",
+    "lastUpdated": "2021-01-26T23:57:12Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
     "repo": "Slava0135/NoDerelictTeam",
