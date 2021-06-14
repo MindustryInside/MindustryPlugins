@@ -648,15 +648,6 @@
     "description": "heck"
   },
   {
-    "repo": "GaviTSRA/TSR-AntiLogicVirus",
-    "name": "TSR-AntiLogicVirus",
-    "author": "GaviTSRA",
-    "lastUpdated": "2021-04-05T19:41:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "The anti-virus plugin for mindustry."
-  },
-  {
     "repo": "mindustry-antigrief/PacketPlugin",
     "name": "PacketPlugin",
     "author": "foo",
