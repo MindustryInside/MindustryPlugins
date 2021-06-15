@@ -441,15 +441,6 @@
     "description": "A new gamemode for mindustry."
   },
   {
-    "repo": "Vortetty/SimpleUtilsPlugin",
-    "name": "SimpleUtilsPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2020-09-28T03:46:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "Patryk434/spawnUnit",
     "name": "spawnUnit",
     "author": "Nipple",
