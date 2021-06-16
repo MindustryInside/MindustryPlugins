@@ -9,15 +9,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2021-05-05T08:30:47Z",
-    "stars": 22,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -403,15 +394,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Blockzilla101/linker",
