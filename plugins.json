@@ -450,6 +450,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Patryk434/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2020-09-29T17:16:36Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for spawn units."
+  },
+  {
     "repo": "MindustryModSeeker1/spawnUnit",
     "name": "spawnUnit",
     "author": "Nipple",
