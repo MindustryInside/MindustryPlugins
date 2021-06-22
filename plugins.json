@@ -153,6 +153,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-09T10:58:57Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -223,15 +232,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-09T10:58:57Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "interaction with discord"
   },
   {
     "repo": "shugen002/MDTSteamLobbyPlugin",
