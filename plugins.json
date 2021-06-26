@@ -84,10 +84,10 @@
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-06-26T19:49:15Z",
+    "lastUpdated": "2021-06-26T21:27:21Z",
     "stars": 5,
     "hasJava": true,
-    "description": "More commands for players and admins"
+    "description": "This mindustry plugin add more commands for admins and players"
   },
   {
     "repo": "Fatonndev/MatrixHub",
