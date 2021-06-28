@@ -54,6 +54,15 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-06-27T19:38:38Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players"
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -81,15 +90,6 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur (map)",
-    "lastUpdated": "2021-06-27T19:38:38Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "This mindustry plugin add more commands for admins and players"
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -99,15 +99,6 @@
     "description": "Better Hub plugin for servers"
   },
   {
-    "repo": "mayli/RockTheVotePlugin",
-    "name": "RockTheVotePlugin",
-    "author": "mayli",
-    "lastUpdated": "2021-04-29T15:20:54Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
-  },
-  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -115,6 +106,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Auto kick inactive players."
+  },
+  {
+    "repo": "mayli/RockTheVotePlugin",
+    "name": "RockTheVotePlugin",
+    "author": "mayli",
+    "lastUpdated": "2021-06-28T05:31:19Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
