@@ -156,7 +156,7 @@
     "repo": "J-VdS/DiscordPlugin",
     "name": "DiscordPlugin",
     "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T22:59:41Z",
+    "lastUpdated": "2021-06-27T23:14:11Z",
     "stars": 3,
     "hasJava": true,
     "description": "interaction with discord"
@@ -486,15 +486,6 @@
     "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
-    "repo": "Volas171/UnitSpawn",
-    "name": "UnitSpawn",
-    "author": "VolasYouknow",
-    "lastUpdated": "2021-01-03T20:55:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for spawn units."
-  },
-  {
     "repo": "DeltaNedas/JSEval",
     "name": "JSEval",
     "author": "Summet, DeltaNedas",
@@ -718,5 +709,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Spawns enemies in a random location..."
+  },
+  {
+    "repo": "Volas171/UnitSpawn",
+    "name": "UnitSpawn",
+    "author": "VolasYouknow",
+    "lastUpdated": "2021-06-27T23:38:02Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
   }
 ]
