@@ -72,15 +72,6 @@
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
   },
   {
-    "repo": "Anuken/CurseFilterPlugin",
-    "name": "CurseFilterPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-02-15T19:18:16Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "heck"
-  },
-  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -88,6 +79,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
+  },
+  {
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-06-29T05:23:13Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "heck"
   },
   {
     "repo": "Fatonndev/MatrixHub",
