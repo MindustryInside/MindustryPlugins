@@ -252,6 +252,15 @@
     "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
   },
   {
+    "repo": "Quezler/mindustry__plugin--blackbox",
+    "name": "mindustry__plugin--blackbox",
+    "author": "Quezler",
+    "lastUpdated": "2020-02-07T16:59:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "That just sounds like autosave with extra steps..."
+  },
+  {
     "repo": "J-VdS/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
@@ -705,7 +714,7 @@
     "repo": "King-BR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "KingBR",
-    "lastUpdated": "2021-06-29T02:37:38Z",
+    "lastUpdated": "2021-06-29T17:55:19Z",
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
