@@ -162,6 +162,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "Quezler/mindustry__plugin--flatearth",
+    "name": "mindustry__plugin--flatearth",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-19T18:14:37Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A moment of silence for the solar panels."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--reclamation",
     "name": "mindustry__plugin--reclamation",
     "author": "Quezler",
