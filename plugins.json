@@ -21,10 +21,10 @@
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
-    "lastUpdated": "2021-01-11T05:00:38Z",
+    "lastUpdated": "2021-06-30T17:35:19Z",
     "stars": 20,
     "hasJava": true,
-    "description": "A special gamemode."
+    "description": "A battle-royale-like gamemode."
   },
   {
     "repo": "way-zer/MyMindustryPlugin",
@@ -57,7 +57,7 @@
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-06-27T19:38:38Z",
+    "lastUpdated": "2021-06-30T17:16:07Z",
     "stars": 6,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players"
@@ -153,6 +153,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-24T11:39:46Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
+  },
+  {
     "repo": "J-VdS/DiscordPlugin",
     "name": "DiscordPlugin",
     "author": "Fishbuilder",
@@ -223,15 +232,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
-  },
-  {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-24T11:39:46Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
   },
   {
     "repo": "shugen002/MDTSteamLobbyPlugin",
