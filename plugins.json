@@ -657,15 +657,6 @@
     "description": "A plugin that provides a network interface for foo's client."
   },
   {
-    "repo": "J-VdS/TeamPlugin",
-    "name": "TeamPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-05-16T14:14:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that lets a player change teams."
-  },
-  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -718,5 +709,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "J-VdS/TeamPlugin",
+    "name": "TeamPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-07-01T12:43:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that lets a player change teams."
   }
 ]
