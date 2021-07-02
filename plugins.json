@@ -702,15 +702,6 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "King-BR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "KingBR",
-    "lastUpdated": "2021-06-30T23:20:20Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR server"
-  },
-  {
     "repo": "J-VdS/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -718,5 +709,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that lets a player change teams."
+  },
+  {
+    "repo": "King-BR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "KingBR",
+    "lastUpdated": "2021-07-02T22:51:57Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR server"
   }
 ]
