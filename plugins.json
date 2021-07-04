@@ -27,6 +27,15 @@
     "description": "A battle-royale-like gamemode."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Astro36/mindustry-pause-plugin",
     "name": "Game Pause",
     "author": "Seungjae Park",
