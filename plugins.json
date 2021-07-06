@@ -718,5 +718,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin Library",
+    "author": "Phinner",
+    "lastUpdated": "2021-07-06T20:52:20Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A library for easier development."
   }
 ]
