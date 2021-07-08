@@ -57,7 +57,7 @@
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-07-08T14:52:23Z",
+    "lastUpdated": "2021-07-08T15:26:48Z",
     "stars": 6,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -493,15 +493,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
-  },
-  {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "Slava0135/UltraHardCores",
