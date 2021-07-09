@@ -237,7 +237,7 @@
     "repo": "MindustryInside/NeutralPlugin",
     "name": "NeutralPlugin",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-07-09T07:39:27Z",
+    "lastUpdated": "2021-07-09T08:20:26Z",
     "stars": 2,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
@@ -675,15 +675,6 @@
     "description": "Units spawn a nuke on death"
   },
   {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-06-10T03:31:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
     "repo": "J-VdS/randomEnemySpawn",
     "name": "randomEnemySpawn",
     "author": "Fishbuilder",
@@ -720,10 +711,19 @@
     "description": "Plugin made for the MindustryBR server"
   },
   {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-07-09T08:15:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
     "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin Library",
-    "author": "Phinner",
-    "lastUpdated": "2021-07-08T13:05:22Z",
+    "name": "Xpdustry Distributor Core Lib",
+    "author": "Xpdustry",
+    "lastUpdated": "2021-07-09T09:58:35Z",
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier development."
