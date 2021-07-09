@@ -378,6 +378,15 @@
     "description": "Recapture pvp minigame for Mindustry"
   },
   {
+    "repo": "Susideur/UnitsForAll-plugin",
+    "name": "UnitsForAll-plugin",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-07-09T15:47:38Z",
+    "stars": 1,
+    "hasJava": false,
+    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
+  },
+  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
@@ -720,12 +729,12 @@
     "description": "Mindustry Server Plugin Template written by Kotlin"
   },
   {
-    "repo": "Susideur/UnitsForAll-plugin",
-    "name": "UnitsForAll-plugin",
-    "author": "Susideur (map)",
-    "lastUpdated": "2021-07-09T15:47:38Z",
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Core Lib",
+    "author": "Xpdustry",
+    "lastUpdated": "2021-07-09T10:28:46Z",
     "stars": 0,
-    "hasJava": false,
-    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
+    "hasJava": true,
+    "description": "A library for easier development."
   }
 ]
