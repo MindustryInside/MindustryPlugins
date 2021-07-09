@@ -57,7 +57,7 @@
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-07-08T15:26:48Z",
+    "lastUpdated": "2021-07-09T15:48:10Z",
     "stars": 6,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -727,5 +727,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier development."
+  },
+  {
+    "repo": "Susideur/UnitsForAll-plugin",
+    "name": "UnitsForAll-plugin",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-07-09T15:47:38Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   }
 ]
