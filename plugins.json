@@ -381,7 +381,7 @@
     "repo": "Susideur/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-07-12T16:00:23Z",
+    "lastUpdated": "2021-07-12T16:56:08Z",
     "stars": 1,
     "hasJava": true,
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
@@ -727,5 +727,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Core Lib",
+    "author": "Xpdustry",
+    "lastUpdated": "2021-07-10T21:00:00Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A library for easier development."
   }
 ]
