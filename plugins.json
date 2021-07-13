@@ -225,15 +225,6 @@
     "description": "Hub plugin for Mindustry"
   },
   {
-    "repo": "shugen002/MDTSteamLobbyPlugin",
-    "name": "MDTSteamLobbyPlugin",
-    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
-    "lastUpdated": "2021-07-03T23:55:01Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "MindustryInside/NeutralPlugin",
     "name": "NeutralPlugin",
     "author": "Mindustry Inside",
@@ -241,6 +232,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
+  },
+  {
+    "repo": "shugen002/MDTSteamLobbyPlugin",
+    "name": "MDTSteamLobbyPlugin",
+    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
+    "lastUpdated": "2021-07-13T01:10:25Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -727,14 +727,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Core Lib",
-    "author": "Xpdustry",
-    "lastUpdated": "2021-07-10T21:00:00Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A library for easier development."
   }
 ]
