@@ -12,7 +12,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2021-07-13T04:54:42Z",
+    "lastUpdated": "2021-07-13T05:36:34Z",
     "stars": 22,
     "hasJava": true,
     "description": "More commands and features."
@@ -727,14 +727,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Core Lib",
-    "author": "Xpdustry",
-    "lastUpdated": "2021-07-10T21:00:00Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A library for easier development."
   }
 ]
