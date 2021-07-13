@@ -180,15 +180,6 @@
     "description": "A moment of silence for the solar panels."
   },
   {
-    "repo": "Quezler/mindustry__plugin--reclamation",
-    "name": "mindustry__plugin--reclamation",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-20T09:18:42Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -381,7 +372,7 @@
     "repo": "Susideur/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-07-12T16:56:08Z",
+    "lastUpdated": "2021-07-13T10:45:17Z",
     "stars": 1,
     "hasJava": true,
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
