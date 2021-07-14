@@ -270,15 +270,6 @@
     "description": "don't touch the brakes"
   },
   {
-    "repo": "Recessive/grayscale",
-    "name": "grayscale",
-    "author": "Recessive",
-    "lastUpdated": "2020-03-10T07:55:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
