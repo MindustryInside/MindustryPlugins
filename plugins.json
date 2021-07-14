@@ -90,6 +90,15 @@
     "description": "heck"
   },
   {
+    "repo": "mayli/RockTheVotePlugin",
+    "name": "RockTheVotePlugin",
+    "author": "mayli",
+    "lastUpdated": "2021-07-02T05:30:30Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
+  },
+  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -106,15 +115,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Auto kick inactive players."
-  },
-  {
-    "repo": "mayli/RockTheVotePlugin",
-    "name": "RockTheVotePlugin",
-    "author": "mayli",
-    "lastUpdated": "2021-07-02T05:30:30Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -727,5 +727,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Core Lib",
+    "author": "Xpdustry",
+    "lastUpdated": "2021-07-10T21:00:00Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A library for easier development."
   }
 ]
