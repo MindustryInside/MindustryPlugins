@@ -270,6 +270,15 @@
     "description": "don't touch the brakes"
   },
   {
+    "repo": "Recessive/grayscale",
+    "name": "grayscale",
+    "author": "Recessive",
+    "lastUpdated": "2020-03-10T07:55:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Removes individuality and makes for a very boring lobby."
+  },
+  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -718,14 +727,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Core Lib",
-    "author": "Xpdustry",
-    "lastUpdated": "2021-07-10T21:00:00Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A library for easier development."
   }
 ]
