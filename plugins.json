@@ -558,15 +558,6 @@
     "description": "Doesn't allow players to join Derelict team"
   },
   {
-    "repo": "MindustryInside/RankedPlugin",
-    "name": "RankedPlugin",
-    "author": "MindustryInside",
-    "lastUpdated": "2021-02-02T18:15:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Base PvP ranked gamemode."
-  },
-  {
     "repo": "Redstonneur1256/LobbyPlugin",
     "name": "LobbyPlugin",
     "author": "Redstonneur1256",
