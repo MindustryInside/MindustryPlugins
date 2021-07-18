@@ -693,15 +693,6 @@
     "description": "Spawns enemies in a random location..."
   },
   {
-    "repo": "Volas171/UnitSpawn",
-    "name": "UnitSpawn",
-    "author": "VolasYouknow",
-    "lastUpdated": "2021-06-27T23:38:02Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for spawn units."
-  },
-  {
     "repo": "J-VdS/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -729,12 +720,12 @@
     "description": "Mindustry Server Plugin Template written by Kotlin"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Core Lib",
-    "author": "Xpdustry",
-    "lastUpdated": "2021-07-16T19:13:08Z",
+    "repo": "Volas171/UnitSpawn",
+    "name": "UnitSpawn",
+    "author": "VolasYouknow",
+    "lastUpdated": "2021-07-18T02:27:22Z",
     "stars": 0,
     "hasJava": true,
-    "description": "A library for easier development."
+    "description": "A plugin for spawn units."
   }
 ]
