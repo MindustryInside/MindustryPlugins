@@ -387,15 +387,6 @@
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
