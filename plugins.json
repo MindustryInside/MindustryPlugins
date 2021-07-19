@@ -495,6 +495,15 @@
     "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
+    "repo": "DeltaNedas/JSEval",
+    "name": "JSEval",
+    "author": "Summet, DeltaNedas",
+    "lastUpdated": "2021-01-11T11:22:08Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
     "name": "Mindustry-Web-Dashboard-Plugin",
     "author": "MochaBoom",
@@ -709,15 +718,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Core Lib",
-    "author": "Xpdustry",
-    "lastUpdated": "2021-07-16T19:13:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A library for easier development."
   },
   {
     "repo": "Volas171/UnitSpawn",
