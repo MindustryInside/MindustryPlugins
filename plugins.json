@@ -3,8 +3,8 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-05-08T00:10:18Z",
-    "stars": 36,
+    "lastUpdated": "2021-07-18T08:49:47Z",
+    "stars": 37,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -12,7 +12,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2021-05-05T08:30:47Z",
+    "lastUpdated": "2021-07-13T05:36:34Z",
     "stars": 22,
     "hasJava": true,
     "description": "More commands and features."
@@ -21,17 +21,17 @@
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
-    "lastUpdated": "2021-01-11T05:00:38Z",
+    "lastUpdated": "2021-06-30T17:35:19Z",
     "stars": 20,
     "hasJava": true,
-    "description": "A special gamemode."
+    "description": "A battle-royale-like gamemode."
   },
   {
     "repo": "way-zer/MyMindustryPlugin",
     "name": "MyMindustryPlugin",
     "author": "WayZer",
     "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
+    "stars": 12,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -54,6 +54,15 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-07-09T15:48:10Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -61,24 +70,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
-  },
-  {
-    "repo": "Fatonndev/MatrixHub",
-    "name": "MatrixHub",
-    "author": "KeviTV",
-    "lastUpdated": "2020-06-06T18:39:50Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Anuken/CurseFilterPlugin",
-    "name": "CurseFilterPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-02-15T19:18:16Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "heck"
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -90,22 +81,31 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur_YT (map)",
-    "lastUpdated": "2021-05-15T18:32:14Z",
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-06-29T05:23:13Z",
     "stars": 5,
     "hasJava": true,
-    "description": "More commands for players and admins"
+    "description": "heck"
   },
   {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
-    "lastUpdated": "2021-04-29T15:20:54Z",
-    "stars": 4,
+    "lastUpdated": "2021-07-02T05:30:30Z",
+    "stars": 5,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
+  },
+  {
+    "repo": "Fatonndev/MatrixHub",
+    "name": "MatrixHub",
+    "author": "KeviTV",
+    "lastUpdated": "2020-06-06T18:39:50Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -153,6 +153,24 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-24T11:39:46Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
+  },
+  {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T23:14:11Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -189,15 +207,6 @@
     "description": "Auto Syncs player every 5 minutes."
   },
   {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-05-21T07:34:04Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "interaction with discord"
-  },
-  {
     "repo": "Kieaer/Nickname-tag",
     "name": "Nickname-tag",
     "author": "Kieaer",
@@ -219,19 +228,19 @@
     "repo": "MindustryInside/NeutralPlugin",
     "name": "NeutralPlugin",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-04-29T18:54:16Z",
+    "lastUpdated": "2021-07-09T08:20:26Z",
     "stars": 2,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
   },
   {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-24T11:39:46Z",
+    "repo": "shugen002/MDTSteamLobbyPlugin",
+    "name": "MDTSteamLobbyPlugin",
+    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
+    "lastUpdated": "2021-07-17T01:10:28Z",
     "stars": 2,
     "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -363,10 +372,19 @@
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
-    "lastUpdated": "2021-05-21T19:09:55Z",
+    "lastUpdated": "2021-06-17T19:18:14Z",
     "stars": 1,
     "hasJava": true,
     "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
+    "repo": "Susideur/UnitsForAll-plugin",
+    "name": "UnitsForAll-plugin",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-07-16T21:57:36Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -432,15 +450,6 @@
     "description": "A new gamemode for mindustry."
   },
   {
-    "repo": "ritzip/RandomPlugin",
-    "name": "RandomPlugin",
-    "author": "Ritzip",
-    "lastUpdated": "2020-09-14T07:05:43Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "Vortetty/SimpleUtilsPlugin",
     "name": "SimpleUtilsPlugin",
     "author": "Anuke",
@@ -484,15 +493,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some AlexServerPlugin features."
-  },
-  {
-    "repo": "Volas171/UnitSpawn",
-    "name": "UnitSpawn",
-    "author": "VolasYouknow",
-    "lastUpdated": "2021-01-03T20:55:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for spawn units."
   },
   {
     "repo": "DeltaNedas/JSEval",
@@ -547,6 +547,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Slava0135/NoDerelictTeam",
+    "name": "NoDerelictTeam",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-28T08:11:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Doesn't allow players to join Derelict team"
   },
   {
     "repo": "MindustryInside/RankedPlugin",
@@ -657,15 +666,6 @@
     "description": "A plugin that provides a network interface for foo's client."
   },
   {
-    "repo": "J-VdS/TeamPlugin",
-    "name": "TeamPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-05-16T14:14:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that lets a player change teams."
-  },
-  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -675,15 +675,6 @@
     "description": "A simple plugin for kick bot accounts."
   },
   {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-05-25T14:23:20Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
     "repo": "Slava0135/Nukedustry",
     "name": "Nukedustry",
     "author": "Slava0135",
@@ -691,5 +682,59 @@
     "stars": 0,
     "hasJava": true,
     "description": "Units spawn a nuke on death"
+  },
+  {
+    "repo": "J-VdS/randomEnemySpawn",
+    "name": "randomEnemySpawn",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T17:54:44Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Spawns enemies in a random location..."
+  },
+  {
+    "repo": "J-VdS/TeamPlugin",
+    "name": "TeamPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-07-01T12:43:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that lets a player change teams."
+  },
+  {
+    "repo": "King-BR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "KingBR",
+    "lastUpdated": "2021-07-04T03:33:25Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-07-09T08:15:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "Volas171/UnitSpawn",
+    "name": "UnitSpawn",
+    "author": "VolasYouknow",
+    "lastUpdated": "2021-07-18T02:27:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
+    "name": "blank-mindustry-plugin",
+    "author": "AnoyingShulker",
+    "lastUpdated": "2021-07-18T23:06:54Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A recreation of IO's plugin"
   }
 ]
