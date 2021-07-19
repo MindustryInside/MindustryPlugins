@@ -1,6 +1,5 @@
 package inside;
 
-import arc.*;
 import arc.files.Fi;
 import arc.func.Cons;
 import arc.graphics.*;
@@ -9,28 +8,22 @@ import arc.struct.*;
 import arc.util.*;
 import arc.util.serialization.Jval;
 
-import java.util.*;
+import java.util.Optional;
 
 import static arc.struct.StringMap.of;
 
 public class PluginUpdater {
     private static final String api = "https://api.github.com", searchTerm = "mindustry plugin";
     private static final int perPage = 100;
-    private static final int maxLength = 55;
+    private static final int maxLength = 125; // + '...'
     private static final ObjectSet<String> jvmLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); // obviously not a comprehensive list
     private static final ObjectSet<String> blacklist = ObjectSet.with("Anuken/ExamplePlugin", "MindustryInside/MindustryPlugins");
     private static final String githubToken = OS.prop("githubtoken");
 
     public static void main(String[] args) {
-        Core.net = new Net();
-        Core.net.setBlock(true);
-        new PluginUpdater();
-    }
-
-    {
         Colors.put("accent", Color.white);
-        Colors.put("unlaunched",  Color.white);
-        Colors.put("highlight",  Color.white);
+        Colors.put("unlaunched", Color.white);
+        Colors.put("highlight", Color.white);
         Colors.put("stat",  Color.white);
 
         Log.info("&lkGithub token is @.", githubToken != null ? "present" : "absent");
@@ -96,7 +89,7 @@ public class PluginUpdater {
 
             Log.info("&lcFound @ valid plugins.", output.size);
             Seq<String> outnames = output.keys().toSeq();
-            outnames.sort(Structs.comps(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)),
+            outnames.sort(Structs.comps(Structs.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)),
                     Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
 
             Log.info("&lcCreating plugins.json file...");
@@ -112,6 +105,13 @@ public class PluginUpdater {
                     displayName = gm.getString("name");
                 }
 
+                //skip outdated mods
+                String version = pluginj.getString("minGameVersion", "104");
+                int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
+                if (minBuild < 105) {
+                    continue;
+                }
+
                 String lang = gm.getString("language", "");
 
                 String metaName = Strings.stripColors(displayName).replace("\n", "");
@@ -124,6 +124,7 @@ public class PluginUpdater {
                 obj.add("author", Strings.stripColors(pluginj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
+                obj.add("minGameVersion", version);
                 obj.add("hasJava", Jval.valueOf(pluginj.getBool("java", false) || jvmLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(pluginj.getString("description", "No description provided.")));
                 array.asArray().add(obj);
@@ -136,20 +137,22 @@ public class PluginUpdater {
     }
 
     @Nullable
-    private Jval tryList(String... queries) {
+    private static Jval tryList(String... queries) {
         Jval[] result = {null};
         for (String str : queries) {
-            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
-                if (out.getStatus() == Net.HttpStatus.OK) {
-                    result[0] = Jval.read(out.getResultAsString());
-                }
-            }, t -> Log.info("&lc | &lr" + Strings.getSimpleMessage(t)));
+            Http.get("https://raw.githubusercontent.com/" + str)
+                    .error(PluginUpdater::simpleError)
+                    .block(res -> {
+                        if (res.getStatus() == Http.HttpStatus.OK) {
+                            result[0] = Jval.read(res.getResultAsString());
+                        }
+                    });
         }
         return result[0];
     }
 
     @Nullable
-    private Jval trySearchFile(String repo, String branch, String... files) {
+    private static Jval trySearchFile(String repo, String branch, String... files) {
         Jval[] result = {null};
         String[] path = {null};
         for (String str : files) {
@@ -164,37 +167,34 @@ public class PluginUpdater {
         }
 
         if (path[0] != null) {
-            Core.net.httpGet("https://raw.githubusercontent.com/" + repo + "/" + branch + "/" + path[0], out -> {
-                if(out.getStatus() == Net.HttpStatus.OK){
-                    result[0] = Jval.read(out.getResultAsString());
-                }
-            }, t -> Log.info("&lc | &lr" + Strings.getSimpleMessage(t)));
+            Http.get("https://raw.githubusercontent.com/" + repo + "/" + branch + "/" + path[0])
+                    .error(PluginUpdater::simpleError)
+                    .block(res -> {
+                        if (res.getStatus() == Http.HttpStatus.OK) {
+                            result[0] = Jval.read(res.getResultAsString());
+                        }
+                    });
         }
         return result[0];
     }
 
-    private void query(String url, @Nullable StringMap params, Cons<Jval> cons) {
-        Net.HttpRequest req = new Net.HttpRequest()
-                .timeout(10000)
-                .method(Net.HttpMethod.GET)
-                .header("authorization", githubToken)
-                .header("accept", "application/vnd.github.baptiste-preview+json")
-                .url(api + url + (params == null ? "" : "?" + params.keys().toSeq()
-                        .map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry)))
-                        .toString("&")));
-
-        Core.net.http(req, response -> {
-            Log.info("&lcSending search query. Status: @; Queries remaining: @/@", response.getStatus(),
-                    response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
-            try {
-                cons.get(Jval.read(response.getResultAsString()));
-            } catch(Throwable error) {
-                handleError(error);
-            }
-        }, this::handleError);
+    private static void simpleError(Throwable t){
+        Log.info("&lc| &lr" + Strings.getSimpleMessage(t));
     }
 
-    private void handleError(Throwable error) {
-        error.printStackTrace();
+    private static void query(String url, @Nullable StringMap params, Cons<Jval> cons) {
+        Http.get(api + url + (params == null ? "" : "?" + params.keys().toSeq()
+                .map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry)))
+                .toString("&")))
+                .timeout(10000)
+                .method(Http.HttpMethod.GET)
+                .header("authorization", githubToken)
+                .header("accept", "application/vnd.github.baptiste-preview+json")
+                .block(res -> {
+                    Log.info("&lcSending search query. Status: @; Queries remaining: @/@", res.getStatus(),
+                            res.getHeader("X-RateLimit-Remaining"), res.getHeader("X-RateLimit-Limit"));
+
+                    cons.get(Jval.read(res.getResultAsString()));
+                });
     }
 }
