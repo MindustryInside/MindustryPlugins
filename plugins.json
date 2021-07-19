@@ -306,6 +306,15 @@
     "description": "Command extension"
   },
   {
+    "repo": "Quezler/mindustry__plugin--bomberman",
+    "name": "mindustry__plugin--bomberman",
+    "author": "Quezler, Fishbuilder",
+    "lastUpdated": "2020-07-03T08:37:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "<insert thorium here>"
+  },
+  {
     "repo": "Slava0135/Recapture",
     "name": "Recapture",
     "author": "Slava0135",
@@ -484,15 +493,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some AlexServerPlugin features."
-  },
-  {
-    "repo": "DeltaNedas/JSEval",
-    "name": "JSEval",
-    "author": "Summet, DeltaNedas",
-    "lastUpdated": "2021-01-11T11:22:08Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
@@ -727,5 +727,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
+    "name": "blank-mindustry-plugin",
+    "author": "AnoyingShulker",
+    "lastUpdated": "2021-07-18T23:06:54Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A recreation of IO's plugin"
   }
 ]
