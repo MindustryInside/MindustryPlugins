@@ -179,7 +179,9 @@ public class PluginUpdater {
     }
 
     private static void simpleError(Throwable t){
-        Log.info("&lc| &lr" + Strings.getSimpleMessage(t));
+        if (!t.getMessage().contains("404")) {
+            Log.info("&lc| &lr" + Strings.getSimpleMessage(t));
+        }
     }
 
     private static void query(String url, @Nullable StringMap params, Cons<Jval> cons) {
