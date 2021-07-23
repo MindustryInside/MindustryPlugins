@@ -18,5 +18,15 @@
     "minGameVersion": "126.2",
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
+  },
+  {
+    "repo": "Xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-07-23T22:12:31Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasJava": true,
+    "description": "Kick afk bois."
   }
 ]
