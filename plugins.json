@@ -729,6 +729,15 @@
     "description": "Plugin made for the MindustryBR server"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Core Lib",
+    "author": "Xpdustry",
+    "lastUpdated": "2021-07-16T19:13:08Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A library for easier development."
+  },
+  {
     "repo": "Xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
