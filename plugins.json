@@ -405,6 +405,24 @@
     "description": "A plugin for spawn units."
   },
   {
+    "repo": "Slava0135/CargoPods",
+    "name": "CargoPods",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T08:57:42Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Help from above"
+  },
+  {
+    "repo": "Slava0135/LuckyRouters",
+    "name": "LuckyRouters",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T13:51:00Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Totally unfair mindustry experience"
+  },
+  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
@@ -756,15 +774,6 @@
     "description": "A recreation of IO's plugin"
   },
   {
-    "repo": "Slava0135/CargoPods",
-    "name": "CargoPods",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T08:57:42Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Help from above"
-  },
-  {
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Library",
     "author": "Xpdustry",
@@ -772,14 +781,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier plugin development."
-  },
-  {
-    "repo": "Slava0135/LuckyRouters",
-    "name": "LuckyRouters",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T13:51:00Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Totally unfair mindustry experience"
   }
 ]
