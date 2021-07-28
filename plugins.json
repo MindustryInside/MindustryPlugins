@@ -135,6 +135,15 @@
     "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
   },
   {
+    "repo": "deng-rui/plugins-mission",
+    "name": "plugins-mission",
+    "author": "Dr",
+    "lastUpdated": "2020-02-13T05:57:38Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugins-mission"
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -763,5 +772,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier plugin development."
+  },
+  {
+    "repo": "Slava0135/LuckyRouters",
+    "name": "LuckyRouters",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T13:51:00Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Totally unfair mindustry experience"
   }
 ]
