@@ -105,13 +105,6 @@ public class PluginUpdater {
                     displayName = gm.getString("name");
                 }
 
-                //skip outdated mods
-                String version = pluginj.getString("minGameVersion", "104");
-                int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
-                if (minBuild < 105) {
-                    continue;
-                }
-
                 String lang = gm.getString("language", "");
 
                 String metaName = Strings.stripColors(displayName).replace("\n", "");
@@ -124,7 +117,6 @@ public class PluginUpdater {
                 obj.add("author", Strings.stripColors(pluginj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
-                obj.add("minGameVersion", version);
                 obj.add("hasJava", Jval.valueOf(pluginj.getBool("java", false) || jvmLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(pluginj.getString("description", "No description provided.")));
                 array.asArray().add(obj);
