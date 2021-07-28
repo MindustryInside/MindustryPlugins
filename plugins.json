@@ -306,15 +306,6 @@
     "description": "Core plugin of the mindustry.party server."
   },
   {
-    "repo": "jakubDoka/TWS-plugin",
-    "name": "TWS-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-06-06T18:15:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "deng-rui/Command-Extension",
     "name": "Command-Extension",
     "author": "Dr",
@@ -585,15 +576,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Slava0135/Annexation",
     "name": "Annexation",
     "author": "Slava0135",
@@ -727,15 +709,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Core Lib",
-    "author": "Xpdustry",
-    "lastUpdated": "2021-07-16T19:13:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A library for easier development."
   },
   {
     "repo": "Xpdustry/AfkPlugin",
