@@ -576,6 +576,15 @@
     "description": "Doesn't allow players to join Derelict team"
   },
   {
+    "repo": "MindustryInside/RankedPlugin",
+    "name": "RankedPlugin",
+    "author": "MindustryInside",
+    "lastUpdated": "2021-02-02T18:15:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Base PvP ranked gamemode."
+  },
+  {
     "repo": "Redstonneur1256/LobbyPlugin",
     "name": "LobbyPlugin",
     "author": "Redstonneur1256",
@@ -720,6 +729,15 @@
     "description": "Plugin made for the MindustryBR server"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Core Lib",
+    "author": "Xpdustry",
+    "lastUpdated": "2021-07-16T19:13:08Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A library for easier development."
+  },
+  {
     "repo": "Xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
@@ -745,5 +763,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "Slava0135/CargoPods",
+    "name": "CargoPods",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T08:57:42Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Help from above"
   }
 ]
