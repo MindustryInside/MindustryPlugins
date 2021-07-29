@@ -246,7 +246,7 @@
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
-    "lastUpdated": "2021-07-22T18:22:21Z",
+    "lastUpdated": "2021-07-28T23:12:07Z",
     "stars": 2,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
