@@ -36,6 +36,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "MindustryInside/PluginBrowser",
+    "name": "Plugin Browser",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-07-30T15:12:21Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
     "repo": "Astro36/mindustry-pause-plugin",
     "name": "Game Pause",
     "author": "Seungjae Park",
@@ -43,15 +52,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "MindustryInside/PluginBrowser",
-    "name": "Plugin Browser",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-05T16:59:26Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
     "repo": "Susideur/moreCommands",
