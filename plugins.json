@@ -45,15 +45,6 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
-    "repo": "Astro36/mindustry-pause-plugin",
-    "name": "Game Pause",
-    "author": "Seungjae Park",
-    "lastUpdated": "2020-05-21T06:20:43Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
     "repo": "Susideur/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
@@ -61,6 +52,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-07-31T05:34:49Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -243,6 +243,24 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Slava0135/CargoPods",
+    "name": "CargoPods",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T08:57:42Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Help from above"
+  },
+  {
+    "repo": "Slava0135/LuckyRouters",
+    "name": "LuckyRouters",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T13:51:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Totally unfair mindustry experience"
+  },
+  {
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
@@ -403,24 +421,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "Slava0135/CargoPods",
-    "name": "CargoPods",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T08:57:42Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Help from above"
-  },
-  {
-    "repo": "Slava0135/LuckyRouters",
-    "name": "LuckyRouters",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T13:51:00Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Totally unfair mindustry experience"
   },
   {
     "repo": "Brandons404/BasicsPlugin",
