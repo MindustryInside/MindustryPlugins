@@ -781,5 +781,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier plugin development."
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Plugin",
+    "author": "Darkdustry",
+    "lastUpdated": "2021-08-03T10:04:29Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "It is a plugin"
   }
 ]
