@@ -117,6 +117,15 @@
     "description": "Auto kick inactive players."
   },
   {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-03T12:51:11Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -781,14 +790,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier plugin development."
-  },
-  {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Plugin",
-    "author": "Darkdustry",
-    "lastUpdated": "2021-08-03T10:04:29Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "It is a plugin"
   }
 ]
