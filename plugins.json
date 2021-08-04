@@ -126,6 +126,15 @@
     "description": "Auto kick inactive players."
   },
   {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T23:14:11Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -178,15 +187,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T23:14:11Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "interaction with discord"
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
