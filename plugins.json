@@ -99,6 +99,15 @@
     "description": "A plugin to change map by /rtv."
   },
   {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-03T12:51:11Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -495,6 +504,15 @@
     "description": "A plugin for spawn units."
   },
   {
+    "repo": "MindustryModSeeker1/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2020-10-07T01:43:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for spawn units."
+  },
+  {
     "repo": "Kickbut101/MultiplayerPausePlugin",
     "name": "MultiplayerPausePlugin",
     "author": "Andy",
@@ -583,6 +601,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
