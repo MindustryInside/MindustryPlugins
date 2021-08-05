@@ -781,5 +781,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A library for easier plugin development."
+  },
+  {
+    "repo": "hezhenwei/MTDDirtyWordMask",
+    "name": "MTDDirtyWordMask",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-05T18:45:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mask dirty words."
   }
 ]
