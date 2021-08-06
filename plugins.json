@@ -12,7 +12,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2021-07-19T13:11:26Z",
+    "lastUpdated": "2021-08-06T10:37:28Z",
     "stars": 23,
     "hasJava": true,
     "description": "More commands and features."
@@ -795,7 +795,7 @@
     "repo": "hezhenwei/MTDDirtyWordMask",
     "name": "MTDDirtyWordMask",
     "author": "Myke.H",
-    "lastUpdated": "2021-08-06T04:13:43Z",
+    "lastUpdated": "2021-08-06T10:18:11Z",
     "stars": 0,
     "hasJava": true,
     "description": "Mask dirty words."
@@ -804,7 +804,7 @@
     "repo": "hezhenwei/MTDChatBot",
     "name": "MTDChatBot",
     "author": "Myke.H",
-    "lastUpdated": "2021-08-06T10:08:14Z",
+    "lastUpdated": "2021-08-06T14:33:38Z",
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
