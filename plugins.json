@@ -450,6 +450,15 @@
     "description": "idk"
   },
   {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
     "name": "The-worst-mindustry-plugin",
     "author": "Mlokis",
@@ -790,5 +799,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mask dirty words."
+  },
+  {
+    "repo": "hezhenwei/MTDChatBot",
+    "name": "MTDChatBot",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-06T10:08:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Chat Bot."
   }
 ]
