@@ -612,15 +612,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Slava0135/Annexation",
     "name": "Annexation",
     "author": "Slava0135",
@@ -792,15 +783,6 @@
     "description": "A library for easier plugin development."
   },
   {
-    "repo": "hezhenwei/MTDChatBot",
-    "name": "MTDChatBot",
-    "author": "Myke.H",
-    "lastUpdated": "2021-08-09T02:45:00Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Chat Bot."
-  },
-  {
     "repo": "hezhenwei/MTDDirtyWordMask",
     "name": "MTDDirtyWordMask",
     "author": "Myke.H",
@@ -808,5 +790,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mask dirty words."
+  },
+  {
+    "repo": "hezhenwei/MTDChatBot",
+    "name": "MTDChatBot",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-09T13:35:47Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Chat Bot."
   }
 ]
