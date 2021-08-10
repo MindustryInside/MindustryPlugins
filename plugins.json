@@ -126,15 +126,6 @@
     "description": "Auto kick inactive players."
   },
   {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T23:14:11Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "interaction with discord"
-  },
-  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -315,15 +306,6 @@
     "description": "Removes individuality and makes for a very boring lobby."
   },
   {
-    "repo": "MindustryParty/Plugin",
-    "name": "Plugin",
-    "author": "NoahvdAa",
-    "lastUpdated": "2020-05-30T16:47:03Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Core plugin of the mindustry.party server."
-  },
-  {
     "repo": "jakubDoka/TWS-plugin",
     "name": "TWS-plugin",
     "author": "Mlokis",
@@ -432,24 +414,6 @@
     "description": "A plugin that adds some basic features."
   },
   {
-    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
-    "name": "Mindustry-Discord-Relay",
-    "author": "ArchieJaskowicz",
-    "lastUpdated": "2020-02-02T13:41:36Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
-  },
-  {
-    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
-    "name": "Xenon-Mindustry-Plugin",
-    "author": "Iapetus11",
-    "lastUpdated": "2020-02-03T18:57:34Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "idk"
-  },
-  {
     "repo": "Neba-MD/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "Mlokis",
@@ -475,24 +439,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to tie player admin status with a discord role"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/vpn",
-    "name": "vpn",
-    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
-    "lastUpdated": "2020-08-20T06:09:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Detects and Blocks vpns after eough time"
-  },
-  {
-    "repo": "J-VdS/BuilderGame",
-    "name": "BuilderGame",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-09-04T09:32:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A new gamemode for mindustry."
   },
   {
     "repo": "Vortetty/SimpleUtilsPlugin",
@@ -547,15 +493,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
-  },
-  {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "Slava0135/UltraHardCores",
@@ -709,15 +646,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
-    "repo": "skykatik/AntiBot",
-    "name": "Anti Bot",
-    "author": "Skat",
-    "lastUpdated": "2021-05-21T21:58:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A simple plugin for kick bot accounts."
   },
   {
     "repo": "Slava0135/Nukedustry",
