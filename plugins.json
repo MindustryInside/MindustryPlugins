@@ -423,13 +423,13 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "pisceskkk/ServerAutoPause",
-    "name": "ServerAutoPause",
+    "repo": "pisceskkk/Mindustry_ServerAutoPause",
+    "name": "Mindustry_ServerAutoPause",
     "author": "pisceskkk",
-    "lastUpdated": "2021-08-09T19:05:56Z",
+    "lastUpdated": "2021-08-11T09:28:59Z",
     "stars": 1,
     "hasJava": true,
-    "description": "A plugin to auto pause(continue) server when empty(or not)."
+    "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
