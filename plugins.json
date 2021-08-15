@@ -835,5 +835,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to auto save the game."
+  },
+  {
+    "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
+    "name": "mindustry-ai-antigrief-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-08-15T15:29:49Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Based on AI antigrief plugin for Mindustry"
   }
 ]
