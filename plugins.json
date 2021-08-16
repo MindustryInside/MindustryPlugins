@@ -639,15 +639,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Slava0135/Annexation",
     "name": "Annexation",
     "author": "Slava0135",
@@ -774,15 +765,6 @@
     "description": "A plugin that lets a player change teams."
   },
   {
-    "repo": "King-BR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "KingBR",
-    "lastUpdated": "2021-07-04T03:33:25Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR server"
-  },
-  {
     "repo": "Xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
@@ -844,5 +826,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Based on AI antigrief plugin for Mindustry"
+  },
+  {
+    "repo": "King-BR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "King-BR",
+    "lastUpdated": "2021-08-16T01:11:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR server"
   }
 ]
