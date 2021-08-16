@@ -90,6 +90,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T23:14:11Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -124,15 +133,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Auto kick inactive players."
-  },
-  {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T23:14:11Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "interaction with discord"
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -637,6 +637,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
