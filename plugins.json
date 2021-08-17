@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-08-06T15:39:13Z",
+    "stars": 24,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -34,6 +43,15 @@
     "stars": 7,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
+  },
+  {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-07-25T15:26:45Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players."
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -322,6 +340,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Command extension"
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--bomberman",
+    "name": "mindustry__plugin--bomberman",
+    "author": "Quezler, Fishbuilder",
+    "lastUpdated": "2020-07-03T08:37:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "<insert thorium here>"
   },
   {
     "repo": "Slava0135/Recapture",
