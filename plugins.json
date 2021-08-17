@@ -612,15 +612,6 @@
     "description": "Allows teams to capture cores by destroying them."
   },
   {
-    "repo": "fuzzbuck/io-global-bans",
-    "name": "io-global-bans",
-    "author": "fuzzbuck",
-    "lastUpdated": "2021-01-26T23:57:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
     "repo": "Slava0135/NoDerelictTeam",
     "name": "NoDerelictTeam",
     "author": "Slava0135",
@@ -637,15 +628,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
@@ -727,15 +709,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
   },
   {
     "repo": "skykatik/AntiBot",
