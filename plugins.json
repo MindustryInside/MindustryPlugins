@@ -180,6 +180,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "MindustryInside/TheInspection",
+    "name": "TheInspection",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-02T16:22:04Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
@@ -214,15 +223,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Set the message that appears when the player talks."
-  },
-  {
-    "repo": "MindustryInside/TheInspection",
-    "name": "TheInspection",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-02T16:22:04Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
     "repo": "MindustryInside/NeutralPlugin",
@@ -646,6 +646,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
