@@ -45,15 +45,6 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
-    "repo": "Susideur/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur (map)",
-    "lastUpdated": "2021-07-25T15:26:45Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "This mindustry plugin add more commands for admins and players."
-  },
-  {
     "repo": "Astro36/mindustry-pause-plugin",
     "name": "Game Pause",
     "author": "Seungjae Park",
@@ -70,6 +61,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "Example plugin to show some basic features."
+  },
+  {
+    "repo": "Susideur/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-08-21T20:44:19Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -111,7 +111,7 @@
     "repo": "J-VdS/DiscordPlugin",
     "name": "DiscordPlugin",
     "author": "Fishbuilder",
-    "lastUpdated": "2021-08-21T16:42:39Z",
+    "lastUpdated": "2021-08-21T20:30:48Z",
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
@@ -646,15 +646,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
