@@ -111,7 +111,7 @@
     "repo": "J-VdS/DiscordPlugin",
     "name": "DiscordPlugin",
     "author": "Fishbuilder",
-    "lastUpdated": "2021-08-21T20:30:48Z",
+    "lastUpdated": "2021-08-22T09:38:17Z",
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
@@ -646,15 +646,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Slava0135/Annexation",
