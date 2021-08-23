@@ -396,6 +396,15 @@
     "description": "Admin Chat plugin for server."
   },
   {
+    "repo": "Slava0135/Nukedustry",
+    "name": "Nukedustry",
+    "author": "Slava0135",
+    "lastUpdated": "2021-05-26T12:35:54Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Units spawn a nuke on death"
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
@@ -754,15 +763,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
-  },
-  {
-    "repo": "Slava0135/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
