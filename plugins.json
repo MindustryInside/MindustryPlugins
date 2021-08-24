@@ -459,6 +459,15 @@
     "description": "A plugin to auto save the game."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
