@@ -216,6 +216,15 @@
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
   },
   {
+    "repo": "Slava0135/Recapture",
+    "name": "Recapture",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-24T16:13:13Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Allows teams to capture cores."
+  },
+  {
     "repo": "Kieaer/Nickname-tag",
     "name": "Nickname-tag",
     "author": "Kieaer",
@@ -349,15 +358,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "<insert thorium here>"
-  },
-  {
-    "repo": "Slava0135/Recapture",
-    "name": "Recapture",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-24T16:13:13Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Allows teams to capture cores."
   },
   {
     "repo": "Kieaer/Authme",
