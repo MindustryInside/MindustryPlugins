@@ -783,15 +783,6 @@
     "description": "Kick afk bois."
   },
   {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-07-25T08:48:28Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
     "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
     "name": "blank-mindustry-plugin",
     "author": "AnoyingShulker",
@@ -835,5 +826,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-08-26T11:11:53Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
   }
 ]
