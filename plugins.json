@@ -513,6 +513,15 @@
     "description": "A plugin for the worst server ewer."
   },
   {
+    "repo": "Blockzilla101/linker",
+    "name": "linker",
+    "author": "Blockzilla",
+    "lastUpdated": "2020-05-09T13:19:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to tie player admin status with a discord role"
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/vpn",
     "name": "vpn",
     "author": "L0615T1C5.216AC:9437 [Impact Phd]",
@@ -774,15 +783,6 @@
     "description": "A plugin that lets a player change teams."
   },
   {
-    "repo": "Xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-07-23T22:12:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
-  },
-  {
     "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
     "name": "blank-mindustry-plugin",
     "author": "AnoyingShulker",
@@ -828,10 +828,19 @@
     "description": "Plugin made for the MindustryBR server"
   },
   {
+    "repo": "Xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-08-30T08:07:48Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Kick afk bois."
+  },
+  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
-    "lastUpdated": "2021-08-26T11:11:53Z",
+    "lastUpdated": "2021-08-30T09:12:08Z",
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
