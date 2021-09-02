@@ -657,6 +657,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Slava0135/Annexation",
     "name": "Annexation",
     "author": "Slava0135",
@@ -819,15 +828,6 @@
     "description": "Plugin made for the MindustryBR server"
   },
   {
-    "repo": "Xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-08-30T08:07:48Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
-  },
-  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -835,5 +835,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "Xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-09-02T13:55:36Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Kick afk bois."
   }
 ]
