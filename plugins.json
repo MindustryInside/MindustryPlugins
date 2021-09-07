@@ -396,15 +396,6 @@
     "description": "Admin Chat plugin for server."
   },
   {
-    "repo": "Slava0135/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Units spawn a nuke on death"
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
@@ -457,15 +448,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A plugin to auto save the game."
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -603,33 +585,6 @@
     "description": "A plugin to communicate with a dashboard web server."
   },
   {
-    "repo": "Slava0135/UltraHardCores",
-    "name": "UltraHardCores",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-23T12:45:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Makes all cores indestructible"
-  },
-  {
-    "repo": "Slava0135/NoMoreCoreBurning",
-    "name": "NoMoreCoreBurning",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-25T12:30:14Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Prevents cores from burning"
-  },
-  {
-    "repo": "Slava0135/Capture",
-    "name": "Capture",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-25T13:41:01Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows teams to capture cores by destroying them."
-  },
-  {
     "repo": "fuzzbuck/io-global-bans",
     "name": "io-global-bans",
     "author": "fuzzbuck",
@@ -637,15 +592,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Slava0135/NoDerelictTeam",
-    "name": "NoDerelictTeam",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-28T08:11:14Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Doesn't allow players to join Derelict team"
   },
   {
     "repo": "MindustryInside/RankedPlugin",
@@ -664,15 +610,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Adding /lobby and /hub commands"
-  },
-  {
-    "repo": "Slava0135/Annexation",
-    "name": "Annexation",
-    "author": "Slava0135",
-    "lastUpdated": "2021-02-03T15:56:05Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Capture cores, get points and win. Requires Slava0135/Recapture."
   },
   {
     "repo": "unjown/playerDam",
@@ -763,6 +700,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
+  },
+  {
+    "repo": "Quezler/Nukedustry",
+    "name": "Nukedustry",
+    "author": "Slava0135",
+    "lastUpdated": "2021-05-26T12:35:54Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
