@@ -378,15 +378,6 @@
     "description": "PUBG."
   },
   {
-    "repo": "J-VdS/pvpStatsPlugin",
-    "name": "pvpStatsPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-04-17T18:23:31Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Show the amount of games won by a player!"
-  },
-  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -457,6 +448,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "plugin for discord chatting connection."
+  },
+  {
+    "repo": "J-VdS/pvpStatsPlugin",
+    "name": "pvpStatsPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-09-13T15:28:20Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Show the amount of games won by a player!"
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -610,15 +610,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
