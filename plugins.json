@@ -799,5 +799,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
+  },
+  {
+    "repo": "devlaq/Shard",
+    "name": "Shard",
+    "author": "Anuke",
+    "lastUpdated": "2021-09-13T02:07:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
