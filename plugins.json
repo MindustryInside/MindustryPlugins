@@ -774,15 +774,6 @@
     "description": "Based on AI antigrief plugin for Mindustry"
   },
   {
-    "repo": "King-BR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "King-BR",
-    "lastUpdated": "2021-08-20T21:42:05Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR server"
-  },
-  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -808,5 +799,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "King-BR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "King-BR",
+    "lastUpdated": "2021-09-14T23:09:51Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR server"
   }
 ]
