@@ -306,15 +306,6 @@
     "description": "That just sounds like autosave with extra steps..."
   },
   {
-    "repo": "J-VdS/mindustry__plugin--minduracing",
-    "name": "mindustry__plugin--minduracing",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-02-07T17:05:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "don't touch the brakes"
-  },
-  {
     "repo": "Recessive/grayscale",
     "name": "grayscale",
     "author": "Recessive",
@@ -646,15 +637,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
-    "repo": "Shadow53/MindustryAdminPlugin",
-    "name": "MindustryAdminPlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2021-03-12T22:29:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to run admin commands from the chat"
   },
   {
     "repo": "Shadow53/MindustryAutoPausePlugin",
