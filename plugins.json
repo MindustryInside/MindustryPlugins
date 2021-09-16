@@ -63,10 +63,10 @@
     "description": "Example plugin to show some basic features."
   },
   {
-    "repo": "Susideur/moreCommands",
+    "repo": "ZetaMap/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-08-22T14:32:02Z",
+    "lastUpdated": "2021-09-16T17:08:30Z",
     "stars": 6,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -306,6 +306,15 @@
     "description": "That just sounds like autosave with extra steps..."
   },
   {
+    "repo": "J-VdS/mindustry__plugin--minduracing",
+    "name": "mindustry__plugin--minduracing",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-02-07T17:05:41Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "don't touch the brakes"
+  },
+  {
     "repo": "Recessive/grayscale",
     "name": "grayscale",
     "author": "Recessive",
@@ -387,15 +396,6 @@
     "description": "Recapture pvp minigame for Mindustry"
   },
   {
-    "repo": "Susideur/UnitsForAll-plugin",
-    "name": "UnitsForAll-plugin",
-    "author": "Susideur (map)",
-    "lastUpdated": "2021-07-16T21:57:36Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
-  },
-  {
     "repo": "Volas171/UnitSpawn",
     "name": "UnitSpawn",
     "author": "VolasYouknow",
@@ -448,6 +448,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Show the amount of games won by a player!"
+  },
+  {
+    "repo": "ZetaMap/UnitsForAll-plugin",
+    "name": "UnitsForAll-plugin",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-09-16T17:10:09Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -637,6 +646,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "Shadow53/MindustryAdminPlugin",
+    "name": "MindustryAdminPlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2021-03-12T22:29:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to run admin commands from the chat"
   },
   {
     "repo": "Shadow53/MindustryAutoPausePlugin",
