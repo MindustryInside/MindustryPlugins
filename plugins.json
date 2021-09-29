@@ -612,6 +612,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -792,15 +801,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "King-BR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "King-BR",
-    "lastUpdated": "2021-09-23T23:45:41Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR server"
-  },
-  {
     "repo": "Ilya246/mapChange",
     "name": "mapChange",
     "author": "[USMP]Ilya246",
@@ -808,5 +808,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover."
+  },
+  {
+    "repo": "King-BR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "King-BR",
+    "lastUpdated": "2021-09-28T23:07:27Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR server"
   }
 ]
