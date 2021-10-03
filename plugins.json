@@ -549,15 +549,6 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "MindustryModSeeker1/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2020-10-07T01:43:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for spawn units."
-  },
-  {
     "repo": "Kickbut101/MultiplayerPausePlugin",
     "name": "MultiplayerPausePlugin",
     "author": "Andy",
@@ -808,5 +799,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "MindustryModSeeker1/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2021-10-02T21:42:16Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
   }
 ]
