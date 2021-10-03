@@ -783,15 +783,6 @@
     "description": "Allows players to vote to override next map and vote to gameover."
   },
   {
-    "repo": "Xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-10-01T16:40:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
-  },
-  {
     "repo": "King-BR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -808,5 +799,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "Xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-10-03T18:15:45Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Kick afk bois."
   }
 ]
