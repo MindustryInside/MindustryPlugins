@@ -603,6 +603,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -783,15 +792,6 @@
     "description": "Allows players to vote to override next map and vote to gameover."
   },
   {
-    "repo": "King-BR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "King-BR",
-    "lastUpdated": "2021-10-02T20:06:29Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR server"
-  },
-  {
     "repo": "MindustryModSeeker1/spawnUnit",
     "name": "spawnUnit",
     "author": "Nipple",
@@ -808,5 +808,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
+  },
+  {
+    "repo": "King-BR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "King-BR",
+    "lastUpdated": "2021-10-03T22:35:11Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR server"
   }
 ]
