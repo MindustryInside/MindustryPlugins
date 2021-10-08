@@ -54,6 +54,15 @@
     "description": "Example plugin to show some basic features."
   },
   {
+    "repo": "ZetaMap/moreCommands",
+    "name": "moreCommands",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-10-08T14:08:18Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -79,15 +88,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "ZetaMap/moreCommands",
-    "name": "moreCommands",
-    "author": "Susideur (map)",
-    "lastUpdated": "2021-09-16T17:08:30Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "This mindustry plugin add more commands for admins and players."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
