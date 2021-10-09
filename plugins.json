@@ -3,7 +3,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-08-14T21:22:34Z",
+    "lastUpdated": "2021-10-09T18:08:30Z",
     "stars": 38,
     "hasJava": true,
     "description": "More commands and features."
@@ -21,8 +21,8 @@
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
-    "lastUpdated": "2021-07-27T13:02:58Z",
-    "stars": 20,
+    "lastUpdated": "2021-10-09T19:10:02Z",
+    "stars": 21,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -270,15 +270,6 @@
     "description": "Totally unfair mindustry experience"
   },
   {
-    "repo": "mindustry-antigrief/SteamServer",
-    "name": "SteamServer",
-    "author": "mindustry-antigrief",
-    "lastUpdated": "2021-07-29T15:03:09Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
-  },
-  {
     "repo": "janu8ry/MinDiscord",
     "name": "MinDiscord",
     "author": "janu8ry",
@@ -286,6 +277,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "plugin for discord chatting connection."
+  },
+  {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-09T18:51:33Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -601,6 +601,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
