@@ -198,6 +198,15 @@
     "description": "A lightweight hub plugin for servers."
   },
   {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-09T18:51:33Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -277,15 +286,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "plugin for discord chatting connection."
-  },
-  {
-    "repo": "mindustry-antigrief/SteamServer",
-    "name": "SteamServer",
-    "author": "mindustry-antigrief",
-    "lastUpdated": "2021-10-09T18:51:33Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
     "repo": "Anuken/EvalPlugin",
