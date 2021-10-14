@@ -738,15 +738,6 @@
     "description": "A recreation of IO's plugin"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Library",
-    "author": "Phinner",
-    "lastUpdated": "2021-07-29T23:30:45Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A library for easier plugin development."
-  },
-  {
     "repo": "hezhenwei/MTDChatBot",
     "name": "MTDChatBot",
     "author": "Myke.H",
@@ -817,5 +808,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-10-13T22:47:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A template plugin for easier development, enjoy."
   }
 ]
