@@ -198,6 +198,15 @@
     "description": "A lightweight hub plugin for servers."
   },
   {
+    "repo": "Slava0135/CargoPods",
+    "name": "CargoPods",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T08:57:42Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Help from above"
+  },
+  {
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
@@ -259,15 +268,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Slava0135/CargoPods",
-    "name": "CargoPods",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T08:57:42Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Help from above"
   },
   {
     "repo": "Slava0135/LuckyRouters",
@@ -813,7 +813,7 @@
     "repo": "King-BR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
-    "lastUpdated": "2021-10-14T21:40:05Z",
+    "lastUpdated": "2021-10-15T00:42:48Z",
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
