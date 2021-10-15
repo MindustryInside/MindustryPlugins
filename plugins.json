@@ -57,7 +57,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-10-11T17:32:45Z",
+    "lastUpdated": "2021-10-15T20:02:33Z",
     "stars": 7,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -450,10 +450,19 @@
     "description": "Show the amount of games won by a player!"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-10-14T21:03:03Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A template plugin for easier development, enjoy."
+  },
+  {
     "repo": "ZetaMap/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
-    "lastUpdated": "2021-09-16T17:10:09Z",
+    "lastUpdated": "2021-10-15T19:58:50Z",
     "stars": 1,
     "hasJava": true,
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
@@ -601,15 +610,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
@@ -799,15 +799,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-10-14T21:03:03Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A template plugin for easier development, enjoy."
   },
   {
     "repo": "King-BR/MindustryBR-plugin",
