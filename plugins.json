@@ -3,7 +3,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-10-13T10:58:51Z",
+    "lastUpdated": "2021-10-16T15:26:05Z",
     "stars": 38,
     "hasJava": true,
     "description": "More commands and features."
@@ -774,15 +774,6 @@
     "description": "Mindustry Server Plugin Template written by Kotlin"
   },
   {
-    "repo": "devlaq/Shard",
-    "name": "Shard",
-    "author": "Anuke",
-    "lastUpdated": "2021-09-13T02:07:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "Ilya246/mapChange",
     "name": "mapChange",
     "author": "[USMP]Ilya246",
@@ -817,5 +808,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
+  },
+  {
+    "repo": "devlaq/EssentialsX",
+    "name": "EssentialsX",
+    "author": "Anuke",
+    "lastUpdated": "2021-10-16T16:53:12Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
