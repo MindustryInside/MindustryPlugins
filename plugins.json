@@ -45,15 +45,6 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
