@@ -799,14 +799,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR server"
-  },
-  {
-    "repo": "devlaq/EssentialsX",
-    "name": "EssentialsX",
-    "author": "Anuke",
-    "lastUpdated": "2021-10-16T16:53:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   }
 ]
