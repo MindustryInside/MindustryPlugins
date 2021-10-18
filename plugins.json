@@ -27,15 +27,6 @@
     "description": "A battle-royale-like gamemode."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -142,15 +133,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Simple Nuke Alert plugin for server."
-  },
-  {
-    "repo": "Loxoz/MindustryJSPlugin",
-    "name": "MindustryJSPlugin",
-    "author": "Loxoz",
-    "lastUpdated": "2019-11-10T04:38:00Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
   },
   {
     "repo": "deng-rui/plugins-mission",
@@ -387,15 +369,6 @@
     "description": "PUBG."
   },
   {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
@@ -612,15 +585,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -691,15 +655,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
   },
   {
     "repo": "skykatik/AntiBot",
