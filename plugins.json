@@ -225,6 +225,15 @@
     "description": "A moment of silence for the solar panels."
   },
   {
+    "repo": "Quezler/mindustry__plugin--reclamation",
+    "name": "mindustry__plugin--reclamation",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-20T09:18:42Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
+  },
+  {
     "repo": "Slava0135/Recapture",
     "name": "Recapture",
     "author": "Slava0135",
@@ -250,6 +259,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
+  },
+  {
+    "repo": "shugen002/MDTSteamLobbyPlugin",
+    "name": "MDTSteamLobbyPlugin",
+    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
+    "lastUpdated": "2021-07-17T01:10:28Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Slava0135/LuckyRouters",
@@ -295,6 +313,24 @@
     "stars": 1,
     "hasJava": true,
     "description": "!weepingangel"
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--blackbox",
+    "name": "mindustry__plugin--blackbox",
+    "author": "Quezler",
+    "lastUpdated": "2020-02-07T16:59:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "That just sounds like autosave with extra steps..."
+  },
+  {
+    "repo": "J-VdS/mindustry__plugin--minduracing",
+    "name": "mindustry__plugin--minduracing",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-02-07T17:05:41Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "don't touch the brakes"
   },
   {
     "repo": "Recessive/grayscale",
@@ -700,6 +736,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Spawns enemies in a random location..."
+  },
+  {
+    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
+    "name": "blank-mindustry-plugin",
+    "author": "AnoyingShulker",
+    "lastUpdated": "2021-07-26T00:25:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "hezhenwei/MTDChatBot",
