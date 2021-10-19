@@ -210,7 +210,7 @@
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
-    "lastUpdated": "2021-10-09T18:51:33Z",
+    "lastUpdated": "2021-10-19T02:04:14Z",
     "stars": 3,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
@@ -223,15 +223,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A moment of silence for the solar panels."
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--reclamation",
-    "name": "mindustry__plugin--reclamation",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-20T09:18:42Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
   },
   {
     "repo": "Slava0135/Recapture",
@@ -261,15 +252,6 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
-    "repo": "shugen002/MDTSteamLobbyPlugin",
-    "name": "MDTSteamLobbyPlugin",
-    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
-    "lastUpdated": "2021-07-17T01:10:28Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "Slava0135/LuckyRouters",
     "name": "LuckyRouters",
     "author": "Slava0135",
@@ -288,6 +270,15 @@
     "description": "plugin for discord chatting connection."
   },
   {
+    "repo": "J-VdS/pvpStatsPlugin",
+    "name": "pvpStatsPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-09-13T15:28:20Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Show the amount of games won by a player!"
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -304,24 +295,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "!weepingangel"
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
-  },
-  {
-    "repo": "J-VdS/mindustry__plugin--minduracing",
-    "name": "mindustry__plugin--minduracing",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-02-07T17:05:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "don't touch the brakes"
   },
   {
     "repo": "Recessive/grayscale",
@@ -369,6 +342,15 @@
     "description": "<insert thorium here>"
   },
   {
+    "repo": "MindustryInside/RankedPlugin",
+    "name": "RankedPlugin",
+    "author": "MindustryInside",
+    "lastUpdated": "2021-02-02T18:15:52Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Base PvP ranked gamemode."
+  },
+  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -403,6 +385,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
+    "repo": "J-VdS/TeamPlugin",
+    "name": "TeamPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-07-01T12:43:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin that lets a player change teams."
   },
   {
     "repo": "Volas171/UnitSpawn",
@@ -441,15 +432,6 @@
     "description": "A plugin to auto save the game."
   },
   {
-    "repo": "J-VdS/pvpStatsPlugin",
-    "name": "pvpStatsPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-09-13T15:28:20Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Show the amount of games won by a player!"
-  },
-  {
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
@@ -466,6 +448,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
+  },
+  {
+    "repo": "MindustryBR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "King-BR",
+    "lastUpdated": "2021-10-19T01:44:33Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR servers"
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -603,15 +594,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "MindustryInside/RankedPlugin",
-    "name": "RankedPlugin",
-    "author": "MindustryInside",
-    "lastUpdated": "2021-02-02T18:15:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Base PvP ranked gamemode."
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -720,24 +702,6 @@
     "description": "Spawns enemies in a random location..."
   },
   {
-    "repo": "J-VdS/TeamPlugin",
-    "name": "TeamPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-07-01T12:43:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that lets a player change teams."
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
-  },
-  {
     "repo": "hezhenwei/MTDChatBot",
     "name": "MTDChatBot",
     "author": "Myke.H",
@@ -790,14 +754,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
-  },
-  {
-    "repo": "King-BR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "King-BR",
-    "lastUpdated": "2021-10-18T03:17:45Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR servers"
   }
 ]
