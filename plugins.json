@@ -630,13 +630,13 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "unjown/playerDam",
-    "name": "playerDam",
-    "author": "Unjown",
-    "lastUpdated": "2021-03-04T05:03:58Z",
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
     "stars": 0,
     "hasJava": true,
-    "description": "lol"
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Minxyzgo/UpdateModPlugin",
