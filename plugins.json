@@ -639,6 +639,15 @@
     "description": "Adding /lobby and /hub commands"
   },
   {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
+  },
+  {
     "repo": "Minxyzgo/UpdateModPlugin",
     "name": "UpdateModPlugin",
     "author": "Minxyzgo",
