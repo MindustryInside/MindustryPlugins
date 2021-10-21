@@ -630,15 +630,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -808,5 +799,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
+  },
+  {
+    "repo": "gerdoe-jr/Discustry",
+    "name": "Discustry",
+    "author": "gerdoe",
+    "lastUpdated": "2021-10-20T20:30:06Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Simple as fuck Discord-Mindustry bridge plugin."
   }
 ]
