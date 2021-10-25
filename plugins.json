@@ -594,15 +594,6 @@
     "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
-    "repo": "DeltaNedas/JSEval",
-    "name": "JSEval",
-    "author": "Summet, DeltaNedas",
-    "lastUpdated": "2021-01-11T11:22:08Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, /js."
-  },
-  {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
     "name": "Mindustry-Web-Dashboard-Plugin",
     "author": "MochaBoom",
@@ -610,15 +601,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to communicate with a dashboard web server."
-  },
-  {
-    "repo": "fuzzbuck/io-global-bans",
-    "name": "io-global-bans",
-    "author": "fuzzbuck",
-    "lastUpdated": "2021-01-26T23:57:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
     "repo": "Redstonneur1256/LobbyPlugin",
@@ -781,15 +763,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2021-09-26T14:38:11Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover."
   },
   {
     "repo": "MindustryModSeeker1/spawnUnit",
