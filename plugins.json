@@ -171,6 +171,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "Slava0135/Recapture",
+    "name": "Recapture",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-24T16:13:13Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows teams to capture cores."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -232,15 +241,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
-  },
-  {
-    "repo": "Slava0135/Recapture",
-    "name": "Recapture",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-24T16:13:13Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows teams to capture cores."
   },
   {
     "repo": "Kieaer/Nickname-tag",
@@ -619,6 +619,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
