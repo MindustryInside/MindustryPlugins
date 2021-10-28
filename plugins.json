@@ -189,15 +189,6 @@
     "description": "Hub plugin for Mindustry"
   },
   {
-    "repo": "MindustryInside/TheInspection",
-    "name": "TheInspection",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-02T16:22:04Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
@@ -223,6 +214,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
+    "repo": "MindustryInside/TheInspection",
+    "name": "TheInspection",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-10-28T09:29:25Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
@@ -619,15 +619,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
