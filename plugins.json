@@ -40,7 +40,7 @@
     "name": "JSEval",
     "author": "Summet",
     "lastUpdated": "2021-04-09T21:15:46Z",
-    "stars": 7,
+    "stars": 8,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
   },
