@@ -54,6 +54,15 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "ZetaMap/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
@@ -471,7 +480,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2021-11-01T22:38:56Z",
+    "lastUpdated": "2021-11-02T11:35:48Z",
     "stars": 1,
     "hasJava": true,
     "description": "A template plugin for easier development, enjoy."
