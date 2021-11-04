@@ -480,10 +480,19 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2021-11-02T23:58:06Z",
+    "lastUpdated": "2021-11-03T20:58:21Z",
     "stars": 1,
     "hasJava": true,
     "description": "A template plugin for easier development, enjoy."
+  },
+  {
+    "repo": "FitmoF/MindustryPlaguePublic",
+    "name": "MindustryPlaguePublic",
+    "author": "Fitmo",
+    "lastUpdated": "2021-11-04T00:10:13Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plague Plugin"
   },
   {
     "repo": "Brandons404/BasicsPlugin",
