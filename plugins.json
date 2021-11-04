@@ -477,22 +477,22 @@
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-11-03T20:58:21Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A template plugin for easier development, enjoy."
-  },
-  {
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-11-04T04:38:32Z",
+    "lastUpdated": "2021-11-04T07:03:42Z",
     "stars": 1,
     "hasJava": true,
     "description": "Plague Plugin"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-11-04T09:54:31Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A template plugin for easier development, enjoy."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -628,6 +628,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
