@@ -45,15 +45,6 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "moreCommands",
     "author": "Susideur (map)",
@@ -88,6 +79,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -477,22 +477,22 @@
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-11-04T23:01:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A template plugin for easier development, enjoy."
-  },
-  {
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-11-05T00:58:59Z",
+    "lastUpdated": "2021-11-05T12:52:06Z",
     "stars": 1,
     "hasJava": true,
     "description": "Plague Plugin"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-11-05T14:01:33Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A template plugin for easier development, enjoy."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
