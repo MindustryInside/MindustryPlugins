@@ -309,7 +309,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-11-05T12:52:06Z",
+    "lastUpdated": "2021-11-06T19:24:03Z",
     "stars": 2,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -801,15 +801,6 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "Xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-10-05T11:45:32Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
-  },
-  {
     "repo": "gerdoe-jr/Discustry",
     "name": "Discustry",
     "author": "gerdoe",
@@ -826,5 +817,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
+    "repo": "Xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-11-06T17:37:50Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Kick afk bois."
   }
 ]
