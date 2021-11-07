@@ -219,7 +219,7 @@
     "repo": "MindustryInside/TheInspection",
     "name": "TheInspection",
     "author": "Mindustry Inside",
-    "lastUpdated": "2021-10-31T19:30:11Z",
+    "lastUpdated": "2021-11-07T09:29:36Z",
     "stars": 3,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
@@ -628,15 +628,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
