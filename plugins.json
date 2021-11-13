@@ -489,10 +489,10 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2021-11-12T11:18:51Z",
+    "lastUpdated": "2021-11-12T23:07:14Z",
     "stars": 1,
     "hasJava": true,
-    "description": "A template plugin for easier development, enjoy."
+    "description": "A plugin/library to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
