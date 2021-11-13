@@ -207,6 +207,15 @@
     "description": "Help from above"
   },
   {
+    "repo": "MindustryBR/MindustryBR-plugin",
+    "name": "MindustryBR-plugin",
+    "author": "King-BR",
+    "lastUpdated": "2021-10-19T01:44:33Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugin made for the MindustryBR servers"
+  },
+  {
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
@@ -295,15 +304,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Show the amount of games won by a player!"
-  },
-  {
-    "repo": "MindustryBR/MindustryBR-plugin",
-    "name": "MindustryBR-plugin",
-    "author": "King-BR",
-    "lastUpdated": "2021-10-19T01:44:33Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Plugin made for the MindustryBR servers"
   },
   {
     "repo": "FitmoF/MindustryPlaguePublic",
@@ -657,15 +657,6 @@
     "description": "一个插件用于更新模组与其他插件 (使用git api)"
   },
   {
-    "repo": "MindustryParty/PluginV2",
-    "name": "PluginV2",
-    "author": "NoahvdAa",
-    "lastUpdated": "2021-03-12T11:35:01Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
     "repo": "Shadow53/MindustryAdminPlugin",
     "name": "MindustryAdminPlugin",
     "author": "Shadow53",
@@ -826,5 +817,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
+  },
+  {
+    "repo": "MindustryParty/PluginV2",
+    "name": "PluginV2",
+    "author": "NoahvdAa",
+    "lastUpdated": "2021-11-13T16:57:26Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "The new plugin that powers Mindustry.Party. "
   }
 ]
