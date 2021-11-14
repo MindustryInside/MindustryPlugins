@@ -826,5 +826,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "laxtiz/mindustry-cheat",
+    "name": "mindustry-cheat",
+    "author": "laxtiz",
+    "lastUpdated": "2021-11-14T14:11:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Cheat like in StarCraft, need admin."
   }
 ]
