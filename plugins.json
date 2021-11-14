@@ -234,6 +234,15 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "FitmoF/MindustryPlaguePublic",
+    "name": "MindustryPlaguePublic",
+    "author": "Fitmo",
+    "lastUpdated": "2021-11-14T00:00:26Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plague Plugin"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -304,15 +313,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Show the amount of games won by a player!"
-  },
-  {
-    "repo": "FitmoF/MindustryPlaguePublic",
-    "name": "MindustryPlaguePublic",
-    "author": "Fitmo",
-    "lastUpdated": "2021-11-14T00:00:26Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Plague Plugin"
   },
   {
     "repo": "Anuken/EvalPlugin",
