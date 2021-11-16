@@ -49,7 +49,7 @@
     "name": "moreCommands",
     "author": "ZetaMap",
     "lastUpdated": "2021-11-15T19:12:27Z",
-    "stars": 8,
+    "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
   },
@@ -246,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-11-15T21:22:21Z",
+    "lastUpdated": "2021-11-16T14:40:06Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
