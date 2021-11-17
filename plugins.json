@@ -198,15 +198,6 @@
     "description": "Allows teams to capture cores."
   },
   {
-    "repo": "ObvilionNetwork/mindustry-hub-plugin",
-    "name": "mindustry-hub-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-03-28T17:54:26Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Hub plugin for Mindustry"
-  },
-  {
     "repo": "MindustryInside/NeutralPlugin",
     "name": "NeutralPlugin",
     "author": "Mindustry Inside",
@@ -246,10 +237,19 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-11-17T14:09:12Z",
+    "lastUpdated": "2021-11-17T17:25:16Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
+  },
+  {
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-11-17T18:13:13Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Hub plugin for Mindustry"
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
@@ -486,15 +486,6 @@
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-11-12T23:07:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin/library to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "MindustryParty/PluginV2",
     "name": "PluginV2",
     "author": "NoahvdAa",
@@ -502,6 +493,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-11-17T18:04:51Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin/library to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -637,15 +637,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
