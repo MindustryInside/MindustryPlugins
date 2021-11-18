@@ -153,6 +153,15 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-11-17T18:13:13Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Hub plugin for Mindustry"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -243,15 +252,6 @@
     "description": "Plague Plugin"
   },
   {
-    "repo": "ObvilionNetwork/mindustry-hub-plugin",
-    "name": "mindustry-hub-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-11-17T18:13:13Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Hub plugin for Mindustry"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -313,6 +313,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Show the amount of games won by a player!"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-11-18T14:02:17Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin/library to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -495,15 +504,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-11-17T23:59:04Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin/library to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
@@ -637,6 +637,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
