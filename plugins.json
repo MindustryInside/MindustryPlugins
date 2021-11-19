@@ -549,15 +549,6 @@
     "description": "A plugin for the worst server ewer."
   },
   {
-    "repo": "Blockzilla101/linker",
-    "name": "linker",
-    "author": "Blockzilla",
-    "lastUpdated": "2020-05-09T13:19:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to tie player admin status with a discord role"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/vpn",
     "name": "vpn",
     "author": "L0615T1C5.216AC:9437 [Impact Phd]",
