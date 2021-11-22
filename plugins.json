@@ -477,6 +477,15 @@
     "description": "Mask dirty words."
   },
   {
+    "repo": "pisceskkk/Mindustry_ServerAutoPause",
+    "name": "Mindustry_ServerAutoPause",
+    "author": "pisceskkk",
+    "lastUpdated": "2021-08-11T09:28:59Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to auto pause(resume) server when empty(or not)."
+  },
+  {
     "repo": "pisceskkk/Mindustry_ServerAutoSave",
     "name": "Mindustry_ServerAutoSave",
     "author": "pisceskkk",
@@ -639,15 +648,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -763,15 +763,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
-  },
-  {
-    "repo": "pisceskkk/Mindustry_ServerAutoPause",
-    "name": "Mindustry_ServerAutoPause",
-    "author": "pisceskkk",
-    "lastUpdated": "2021-08-11T09:28:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
