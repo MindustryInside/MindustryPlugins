@@ -48,7 +48,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2021-11-21T18:17:42Z",
+    "lastUpdated": "2021-11-25T17:17:12Z",
     "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -558,15 +558,6 @@
     "description": "A plugin for the worst server ewer."
   },
   {
-    "repo": "Blockzilla101/linker",
-    "name": "linker",
-    "author": "Blockzilla",
-    "lastUpdated": "2020-05-09T13:19:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to tie player admin status with a discord role"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/vpn",
     "name": "vpn",
     "author": "L0615T1C5.216AC:9437 [Impact Phd]",
@@ -736,6 +727,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
+  },
+  {
+    "repo": "Quezler/Nukedustry",
+    "name": "Nukedustry",
+    "author": "Slava0135",
+    "lastUpdated": "2021-05-26T12:35:54Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
