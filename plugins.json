@@ -738,15 +738,6 @@
     "description": "A simple plugin for kick bot accounts."
   },
   {
-    "repo": "Quezler/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Units spawn a nuke on death"
-  },
-  {
     "repo": "J-VdS/randomEnemySpawn",
     "name": "randomEnemySpawn",
     "author": "Fishbuilder",
