@@ -48,7 +48,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2021-11-25T21:02:50Z",
+    "lastUpdated": "2021-11-26T21:45:21Z",
     "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -727,15 +727,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
-  },
-  {
-    "repo": "Quezler/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
