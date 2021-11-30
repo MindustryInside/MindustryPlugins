@@ -378,15 +378,6 @@
     "description": "Core plugin of the mindustry.party server."
   },
   {
-    "repo": "jakubDoka/TWS-plugin",
-    "name": "TWS-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-06-06T18:15:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "deng-rui/Command-Extension",
     "name": "Command-Extension",
     "author": "Dr",
