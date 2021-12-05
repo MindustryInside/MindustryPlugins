@@ -48,7 +48,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2021-12-04T16:16:42Z",
+    "lastUpdated": "2021-12-04T21:16:26Z",
     "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -646,15 +646,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
