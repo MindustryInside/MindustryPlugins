@@ -180,15 +180,6 @@
     "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
   },
   {
-    "repo": "deng-rui/plugins-mission",
-    "name": "plugins-mission",
-    "author": "Dr",
-    "lastUpdated": "2020-02-13T05:57:38Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Plugins-mission"
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -556,15 +547,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for the worst server ewer."
-  },
-  {
-    "repo": "Blockzilla101/linker",
-    "name": "linker",
-    "author": "Blockzilla",
-    "lastUpdated": "2020-05-09T13:19:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to tie player admin status with a discord role"
   },
   {
     "repo": "L0615T1C5-216AC-9437/vpn",
