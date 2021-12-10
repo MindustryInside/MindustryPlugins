@@ -246,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-11-19T21:08:00Z",
+    "lastUpdated": "2021-12-10T14:59:09Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -318,7 +318,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2021-11-18T14:02:17Z",
+    "lastUpdated": "2021-12-10T14:02:00Z",
     "stars": 2,
     "hasJava": true,
     "description": "A plugin/library to make plugin development easier and faster, enjoy."
@@ -648,6 +648,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -727,15 +736,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
-  },
-  {
-    "repo": "Quezler/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
