@@ -513,6 +513,24 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
+    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
+    "name": "GlobalImageBan",
+    "author": "L0615T1C5.216AC:9437's cat",
+    "lastUpdated": "2021-12-12T20:32:32Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Checks if logic image code is banned"
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -529,6 +547,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -630,15 +657,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -718,6 +736,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
+  },
+  {
+    "repo": "Quezler/Nukedustry",
+    "name": "Nukedustry",
+    "author": "Slava0135",
+    "lastUpdated": "2021-05-26T12:35:54Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
@@ -817,14 +844,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
-    "name": "GlobalImageBan",
-    "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2021-12-12T20:32:32Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Checks if logic image code is banned"
   }
 ]
