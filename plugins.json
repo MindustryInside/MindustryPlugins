@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-11-04T17:26:49Z",
+    "stars": 28,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -27,15 +36,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "MindustryInside/JSEval",
-    "name": "JSEval",
-    "author": "Summet",
-    "lastUpdated": "2021-04-09T21:15:46Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "Allows admins to execute JavaScript code using a special command."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -43,6 +43,15 @@
     "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "MindustryInside/JSEval",
+    "name": "JSEval",
+    "author": "Summet",
+    "lastUpdated": "2021-04-09T21:15:46Z",
+    "stars": 8,
+    "hasJava": true,
+    "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
