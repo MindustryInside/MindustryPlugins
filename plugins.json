@@ -327,7 +327,7 @@
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2021-12-17T21:34:29Z",
+    "lastUpdated": "2021-12-19T01:50:29Z",
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic image code is banned"
@@ -655,15 +655,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
