@@ -576,15 +576,6 @@
     "description": "A plugin to tie player admin status with a discord role"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/vpn",
-    "name": "vpn",
-    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
-    "lastUpdated": "2020-08-20T06:09:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Detects and Blocks vpns after eough time"
-  },
-  {
     "repo": "J-VdS/BuilderGame",
     "name": "BuilderGame",
     "author": "Fishbuilder",
@@ -655,6 +646,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
