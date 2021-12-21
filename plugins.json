@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-11-04T17:26:49Z",
+    "stars": 28,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -30,7 +39,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2021-12-20T14:43:15Z",
+    "lastUpdated": "2021-12-21T17:22:55Z",
     "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
