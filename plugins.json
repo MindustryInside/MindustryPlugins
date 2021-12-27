@@ -315,15 +315,6 @@
     "description": "Show the amount of games won by a player!"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
-    "name": "GlobalImageBan",
-    "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2021-12-19T01:50:29Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Checks if logic image code is banned"
-  },
-  {
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
@@ -331,6 +322,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin/library to make plugin development easier and faster, enjoy."
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
+    "name": "GlobalImageBan",
+    "author": "L0615T1C5.216AC:9437's cat",
+    "lastUpdated": "2021-12-27T04:12:26Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Checks if logic image code is banned"
   },
   {
     "repo": "Anuken/EvalPlugin",
