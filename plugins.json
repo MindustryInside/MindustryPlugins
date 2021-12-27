@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-11-04T17:26:49Z",
+    "stars": 28,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -30,7 +39,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2021-12-26T18:03:17Z",
+    "lastUpdated": "2021-12-26T20:54:37Z",
     "stars": 9,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -79,6 +88,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Fatonndev/MatrixHub",
