@@ -246,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2021-12-30T18:44:56Z",
+    "lastUpdated": "2021-12-30T23:43:00Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -315,15 +315,6 @@
     "description": "Show the amount of games won by a player!"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-12-22T01:39:59Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin/library to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
@@ -331,6 +322,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic image code is banned"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2021-12-30T23:45:13Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin/library to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/EvalPlugin",
