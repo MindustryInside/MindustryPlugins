@@ -3,17 +3,8 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2021-10-16T15:26:05Z",
+    "lastUpdated": "2021-12-31T10:55:10Z",
     "stars": 39,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2021-11-04T17:26:49Z",
-    "stars": 28,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -520,6 +511,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
