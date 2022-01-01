@@ -246,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-01T00:28:47Z",
+    "lastUpdated": "2022-01-01T18:25:25Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -327,7 +327,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2021-12-30T23:45:13Z",
+    "lastUpdated": "2022-01-01T15:50:40Z",
     "stars": 2,
     "hasJava": true,
     "description": "A plugin/library to make plugin development easier and faster, enjoy."
@@ -853,5 +853,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
+  },
+  {
+    "repo": "Ilya246/teamChange",
+    "name": "teamChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-01-01T15:46:39Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Allows players to change team."
   }
 ]
