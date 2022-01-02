@@ -90,15 +90,6 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -246,7 +237,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-01T21:38:13Z",
+    "lastUpdated": "2022-01-02T03:16:30Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
