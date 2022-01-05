@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-11-04T17:26:49Z",
+    "stars": 28,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -243,6 +252,15 @@
     "description": "Plague Plugin"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2022-01-04T17:24:17Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "A plugin/library to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -313,15 +331,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic image code is banned"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2022-01-04T17:24:17Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin/library to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/EvalPlugin",
