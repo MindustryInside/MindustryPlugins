@@ -162,6 +162,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Xpdustry Distributor Plugin",
+    "author": "Phinner",
+    "lastUpdated": "2022-01-05T19:34:13Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A plugin/library to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -250,15 +259,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Xpdustry Distributor Plugin",
-    "author": "Phinner",
-    "lastUpdated": "2022-01-04T17:24:17Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "A plugin/library to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
@@ -655,15 +655,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
