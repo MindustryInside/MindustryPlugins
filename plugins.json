@@ -165,7 +165,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2022-01-05T19:34:13Z",
+    "lastUpdated": "2022-01-05T22:11:51Z",
     "stars": 4,
     "hasJava": true,
     "description": "A plugin/library to make plugin development easier and faster, enjoy."
@@ -657,6 +657,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -745,15 +754,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "J-VdS/randomEnemySpawn",
-    "name": "randomEnemySpawn",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T17:54:44Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Spawns enemies in a random location..."
   },
   {
     "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
