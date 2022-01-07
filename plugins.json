@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2021-11-04T17:26:49Z",
+    "stars": 28,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -61,15 +70,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
-  },
-  {
-    "repo": "Anuken/CurseFilterPlugin",
-    "name": "CurseFilterPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-06-29T05:23:13Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "heck"
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -772,15 +772,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "hezhenwei/MTDChatBot",
-    "name": "MTDChatBot",
-    "author": "Myke.H",
-    "lastUpdated": "2021-08-10T09:29:25Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Chat Bot."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
