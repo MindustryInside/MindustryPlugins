@@ -432,15 +432,6 @@
     "description": "Simple login system"
   },
   {
-    "repo": "Xusk947/PUBG",
-    "name": "PUBG",
-    "author": "Xusk",
-    "lastUpdated": "2021-02-08T15:06:12Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "PUBG."
-  },
-  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -664,6 +655,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
