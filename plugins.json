@@ -72,6 +72,15 @@
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
   },
   {
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-06-29T05:23:13Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "heck"
+  },
+  {
     "repo": "Astro36/mindustry-pause-plugin",
     "name": "Game Pause",
     "author": "Seungjae Park",
@@ -657,15 +666,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -772,6 +772,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "hezhenwei/MTDChatBot",
+    "name": "MTDChatBot",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-10T09:29:25Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Chat Bot."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
