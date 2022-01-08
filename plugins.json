@@ -18,15 +18,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "Anuken/HexedPlugin",
-    "name": "HexedPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-10-09T19:10:02Z",
-    "stars": 22,
-    "hasJava": true,
-    "description": "A battle-royale-like gamemode."
-  },
-  {
     "repo": "way-zer/MyMindustryPlugin",
     "name": "MyMindustryPlugin",
     "author": "WayZer",
@@ -63,6 +54,15 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-07-31T05:34:49Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -79,15 +79,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "heck"
-  },
-  {
-    "repo": "Astro36/mindustry-pause-plugin",
-    "name": "Game Pause",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-07-31T05:34:49Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
     "repo": "Darkness6030/ExamplePlugin",
@@ -187,15 +178,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
-  },
-  {
-    "repo": "deng-rui/plugins-mission",
-    "name": "plugins-mission",
-    "author": "Dr",
-    "lastUpdated": "2020-02-13T05:57:38Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Plugins-mission"
   },
   {
     "repo": "Anuken/RateLimitPlugin",
