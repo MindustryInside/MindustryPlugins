@@ -135,15 +135,6 @@
     "description": "Auto kick inactive players."
   },
   {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-24T11:39:46Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
-  },
-  {
     "repo": "MindustryInside/TheInspection",
     "name": "TheInspection",
     "author": "Mindustry Inside",
@@ -286,6 +277,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Set the message that appears when the player talks."
+  },
+  {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-24T11:39:46Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
   },
   {
     "repo": "shugen002/MDTSteamLobbyPlugin",
