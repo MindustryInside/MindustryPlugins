@@ -9,15 +9,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-01-08T10:28:03Z",
-    "stars": 28,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -156,7 +147,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2022-01-05T22:11:51Z",
+    "lastUpdated": "2022-01-09T16:26:42Z",
     "stars": 4,
     "hasJava": true,
     "description": "A plugin/library to make plugin development easier and faster, enjoy."
@@ -178,15 +169,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
-  },
-  {
-    "repo": "deng-rui/plugins-mission",
-    "name": "plugins-mission",
-    "author": "Dr",
-    "lastUpdated": "2020-02-13T05:57:38Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Plugins-mission"
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -214,15 +196,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
-  },
-  {
-    "repo": "Slava0135/CargoPods",
-    "name": "CargoPods",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T08:57:42Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Help from above"
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -306,6 +279,15 @@
     "description": "Totally unfair mindustry experience"
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -376,15 +358,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Core plugin of the mindustry.party server."
-  },
-  {
-    "repo": "jakubDoka/TWS-plugin",
-    "name": "TWS-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-06-06T18:15:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "deng-rui/Command-Extension",
