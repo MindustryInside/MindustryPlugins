@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-01-08T10:28:03Z",
+    "stars": 28,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -147,7 +156,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Xpdustry Distributor Plugin",
     "author": "Phinner",
-    "lastUpdated": "2022-01-09T16:26:42Z",
+    "lastUpdated": "2022-01-09T23:43:14Z",
     "stars": 4,
     "hasJava": true,
     "description": "A plugin/library to make plugin development easier and faster, enjoy."
@@ -169,6 +178,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
+  },
+  {
+    "repo": "deng-rui/plugins-mission",
+    "name": "plugins-mission",
+    "author": "Dr",
+    "lastUpdated": "2020-02-13T05:57:38Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugins-mission"
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -198,6 +216,15 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
+    "repo": "Slava0135/CargoPods",
+    "name": "CargoPods",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T08:57:42Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Help from above"
+  },
+  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -219,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-08T07:02:52Z",
+    "lastUpdated": "2022-01-09T20:41:41Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -232,15 +259,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A moment of silence for the solar panels."
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--reclamation",
-    "name": "mindustry__plugin--reclamation",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-20T09:18:42Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
   },
   {
     "repo": "Kieaer/Nickname-tag",
@@ -358,6 +376,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Core plugin of the mindustry.party server."
+  },
+  {
+    "repo": "jakubDoka/TWS-plugin",
+    "name": "TWS-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-06-06T18:15:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "deng-rui/Command-Extension",
