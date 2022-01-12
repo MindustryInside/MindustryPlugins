@@ -13,7 +13,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2022-01-12T08:13:06Z",
-    "stars": 29,
+    "stars": 30,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -25,15 +25,6 @@
     "stars": 22,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
-  },
-  {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "More commands and features."
   },
   {
     "repo": "ZetaMap/moreCommands",
@@ -246,7 +237,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-12T01:11:43Z",
+    "lastUpdated": "2022-01-12T12:10:58Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -441,15 +432,6 @@
     "description": "Admin Chat plugin for server."
   },
   {
-    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
-    "name": "mindustry-recapture-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-06-17T19:18:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Recapture pvp minigame for Mindustry"
-  },
-  {
     "repo": "J-VdS/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -549,15 +531,6 @@
     "description": "idk"
   },
   {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
-  },
-  {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
     "name": "The-worst-mindustry-plugin",
     "author": "Mlokis",
@@ -574,15 +547,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to tie player admin status with a discord role"
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/vpn",
-    "name": "vpn",
-    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
-    "lastUpdated": "2020-08-20T06:09:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Detects and Blocks vpns after eough time"
   },
   {
     "repo": "J-VdS/BuilderGame",
@@ -655,15 +619,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
@@ -844,15 +799,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Cheat like in StarCraft, need admin."
-  },
-  {
-    "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
-    "name": "MindustryUndergroundServer",
-    "author": "Forest",
-    "lastUpdated": "2021-12-02T19:47:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
     "repo": "Ilya246/teamChange",
