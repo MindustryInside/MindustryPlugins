@@ -63,6 +63,15 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-07-31T05:34:49Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -117,6 +126,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "skykatik/AfkPlugin",
+    "name": "AfkPlugin",
+    "author": "Skat",
+    "lastUpdated": "2021-05-11T11:05:24Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Auto kick inactive players."
+  },
+  {
     "repo": "MindustryInside/TheInspection",
     "name": "TheInspection",
     "author": "Mindustry Inside",
@@ -151,6 +169,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Simple Nuke Alert plugin for server."
+  },
+  {
+    "repo": "Loxoz/MindustryJSPlugin",
+    "name": "MindustryJSPlugin",
+    "author": "Loxoz",
+    "lastUpdated": "2019-11-10T04:38:00Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
   },
   {
     "repo": "deng-rui/plugins-mission",
@@ -219,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-10T21:49:27Z",
+    "lastUpdated": "2022-01-12T01:11:43Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -324,6 +351,15 @@
     "description": "!weepingangel"
   },
   {
+    "repo": "Quezler/mindustry__plugin--blackbox",
+    "name": "mindustry__plugin--blackbox",
+    "author": "Quezler",
+    "lastUpdated": "2020-02-07T16:59:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "That just sounds like autosave with extra steps..."
+  },
+  {
     "repo": "J-VdS/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
@@ -331,6 +367,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "don't touch the brakes"
+  },
+  {
+    "repo": "Recessive/grayscale",
+    "name": "grayscale",
+    "author": "Recessive",
+    "lastUpdated": "2020-03-10T07:55:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Removes individuality and makes for a very boring lobby."
   },
   {
     "repo": "MindustryParty/Plugin",
@@ -396,6 +441,15 @@
     "description": "Admin Chat plugin for server."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
+    "name": "mindustry-recapture-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-06-17T19:18:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
     "repo": "J-VdS/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -459,6 +513,15 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
@@ -466,6 +529,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that adds some basic features."
+  },
+  {
+    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
+    "name": "Mindustry-Discord-Relay",
+    "author": "ArchieJaskowicz",
+    "lastUpdated": "2020-02-02T13:41:36Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -493,6 +565,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for the worst server ewer."
+  },
+  {
+    "repo": "Blockzilla101/linker",
+    "name": "linker",
+    "author": "Blockzilla",
+    "lastUpdated": "2020-05-09T13:19:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to tie player admin status with a discord role"
   },
   {
     "repo": "L0615T1C5-216AC-9437/vpn",
@@ -745,6 +826,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
+  },
+  {
+    "repo": "laxtiz/mindustry-cheat",
+    "name": "mindustry-cheat",
+    "author": "laxtiz",
+    "lastUpdated": "2021-11-15T14:19:11Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Cheat like in StarCraft, need admin."
   },
   {
     "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
