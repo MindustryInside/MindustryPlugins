@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-01-12T08:13:06Z",
+    "stars": 30,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -237,7 +246,7 @@
     "repo": "FitmoF/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-14T18:16:07Z",
+    "lastUpdated": "2022-01-14T23:45:53Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plague Plugin"
@@ -538,6 +547,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
