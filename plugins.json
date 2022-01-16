@@ -3,7 +3,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2022-01-08T11:34:00Z",
+    "lastUpdated": "2022-01-16T04:04:02Z",
     "stars": 39,
     "hasJava": true,
     "description": "More commands and features."
@@ -574,15 +574,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/vpn",
-    "name": "vpn",
-    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
-    "lastUpdated": "2020-08-20T06:09:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Detects and Blocks vpns after eough time"
   },
   {
     "repo": "J-VdS/BuilderGame",
