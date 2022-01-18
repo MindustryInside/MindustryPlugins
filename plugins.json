@@ -243,15 +243,6 @@
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
-    "repo": "FitmoF/MindustryPlaguePublic",
-    "name": "MindustryPlaguePublic",
-    "author": "Fitmo",
-    "lastUpdated": "2022-01-17T15:09:18Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Plague Plugin"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -862,6 +853,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Tile History Plugin"
+  },
+  {
+    "repo": "bendnuts/MindustryPlaguePublic",
+    "name": "MindustryPlaguePublic",
+    "author": "Fitmo",
+    "lastUpdated": "2022-01-08T07:02:43Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plague Plugin"
   },
   {
     "repo": "KotMilkMeoWtwo/MeowLnadPlugin",
