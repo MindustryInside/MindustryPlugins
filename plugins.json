@@ -13,7 +13,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2022-01-15T07:09:43Z",
-    "stars": 30,
+    "stars": 31,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -657,15 +657,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -892,11 +883,11 @@
   },
   {
     "repo": "mindustry-ddns-net/XioPlugin",
-    "name": "Xpdustry TemplatePlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-01-19T15:07:29Z",
+    "name": "MDN XioPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2022-01-19T15:21:42Z",
     "stars": 0,
     "hasJava": true,
-    "description": "A template plugin for easier development, enjoy."
+    "description": "A plugin for better IO management."
   }
 ]
