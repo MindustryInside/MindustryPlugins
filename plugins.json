@@ -324,6 +324,15 @@
     "description": "Checks if logic image code is banned"
   },
   {
+    "repo": "devlaq/Shard",
+    "name": "Shard",
+    "author": "devlaq",
+    "lastUpdated": "2022-01-19T11:18:14Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Anti-grief, Vote kick/ban/map and, more"
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -880,5 +889,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "MeowLand plugin meowwww"
+  },
+  {
+    "repo": "mindustry-ddns-net/XioPlugin",
+    "name": "Xpdustry TemplatePlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-01-19T15:07:29Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A template plugin for easier development, enjoy."
   }
 ]
