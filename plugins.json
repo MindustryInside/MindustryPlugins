@@ -889,5 +889,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "MeowLand plugin meowwww"
+  },
+  {
+    "repo": "Xpdustry/ChatManagerPlugin",
+    "name": "Xpdustry TemplatePlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-01-21T16:21:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A template plugin for easier development, enjoy."
   }
 ]
