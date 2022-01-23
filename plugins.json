@@ -369,15 +369,6 @@
     "description": "don't touch the brakes"
   },
   {
-    "repo": "Recessive/grayscale",
-    "name": "grayscale",
-    "author": "Recessive",
-    "lastUpdated": "2020-03-10T07:55:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -558,15 +549,6 @@
     "description": "A plugin for the worst server ewer."
   },
   {
-    "repo": "Blockzilla101/linker",
-    "name": "linker",
-    "author": "Blockzilla",
-    "lastUpdated": "2020-05-09T13:19:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to tie player admin status with a discord role"
-  },
-  {
     "repo": "jakubDoka/TWS-plugin",
     "name": "TWS-plugin",
     "author": "Mlokis",
@@ -621,15 +603,6 @@
     "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
-    "repo": "Volas171/AlexServerPlugin",
-    "name": "AlexServerPlugin",
-    "author": "Alex and VolasYouKnow",
-    "lastUpdated": "2020-12-31T17:43:44Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some AlexServerPlugin features."
-  },
-  {
     "repo": "DeltaNedas/JSEval",
     "name": "JSEval",
     "author": "Summet, DeltaNedas",
@@ -655,15 +628,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
@@ -729,15 +693,6 @@
     "description": "The anti-virus plugin for mindustry."
   },
   {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -745,15 +700,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
-  },
-  {
-    "repo": "Quezler/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
@@ -853,15 +799,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
-  },
-  {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-01-02T09:37:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to change team."
   },
   {
     "repo": "FitmoF/FHistory",
