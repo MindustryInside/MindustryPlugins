@@ -657,6 +657,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -885,7 +894,7 @@
     "repo": "Xpdustry/ChatManagerPlugin",
     "name": "Xpdustry TemplatePlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2022-01-21T16:21:10Z",
+    "lastUpdated": "2022-01-22T23:31:50Z",
     "stars": 0,
     "hasJava": true,
     "description": "A template plugin for easier development, enjoy."
