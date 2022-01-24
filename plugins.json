@@ -156,7 +156,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2022-01-20T01:42:59Z",
+    "lastUpdated": "2022-01-24T14:25:57Z",
     "stars": 4,
     "hasJava": true,
     "description": "No description provided."
@@ -315,15 +315,6 @@
     "description": "Show the amount of games won by a player!"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
-    "name": "GlobalImageBan",
-    "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2021-12-27T04:12:26Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Checks if logic image code is banned"
-  },
-  {
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
@@ -331,6 +322,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
+    "name": "GlobalImageBan",
+    "author": "L0615T1C5.216AC:9437's cat",
+    "lastUpdated": "2022-01-24T13:26:40Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Checks if logic image code is banned"
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -657,15 +657,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -894,7 +885,7 @@
     "repo": "Xpdustry/ChatManagerPlugin",
     "name": "Xpdustry ChatManagerPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2022-01-24T03:00:33Z",
+    "lastUpdated": "2022-01-24T13:01:18Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for chat management."
