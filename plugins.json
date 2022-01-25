@@ -504,15 +504,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-01-10T13:30:00Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
-  },
-  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
