@@ -657,15 +657,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -682,33 +673,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "一个插件用于更新模组与其他插件 (使用git api)"
-  },
-  {
-    "repo": "Shadow53/MindustryAdminPlugin",
-    "name": "MindustryAdminPlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2021-03-12T22:29:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to run admin commands from the chat"
-  },
-  {
-    "repo": "Shadow53/MindustryAutoPausePlugin",
-    "name": "MindustryAutoPausePlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2021-03-12T22:32:29Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to automatically pause the game when no one is connected."
-  },
-  {
-    "repo": "Shadow53/MindustryAuthPlugin",
-    "name": "MindustryAuthPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-03-12T22:33:25Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Volas171/Anti-Spam",
@@ -898,5 +862,32 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for chat management."
+  },
+  {
+    "repo": "Shadow53/MindustryAuthPlugin",
+    "name": "MindustryAuthPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2022-01-27T12:40:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Shadow53/MindustryAutoPausePlugin",
+    "name": "MindustryAutoPausePlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2022-01-27T12:40:29Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to automatically pause the game when no one is connected."
+  },
+  {
+    "repo": "Shadow53/MindustryAdminPlugin",
+    "name": "MindustryAdminPlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2022-01-27T12:40:32Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to run admin commands from the chat"
   }
 ]
