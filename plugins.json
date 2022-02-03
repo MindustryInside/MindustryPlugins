@@ -72,15 +72,6 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
-    "repo": "Fatonndev/Matrix-plugin",
-    "name": "Matrix-plugin",
-    "author": "KeviTV",
-    "lastUpdated": "2020-05-25T18:35:52Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
-  },
-  {
     "repo": "Anuken/CurseFilterPlugin",
     "name": "CurseFilterPlugin",
     "author": "Anuke",
@@ -156,7 +147,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2022-02-01T18:06:58Z",
+    "lastUpdated": "2022-02-03T02:33:08Z",
     "stars": 4,
     "hasJava": true,
     "description": "No description provided."
@@ -504,15 +495,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-01-10T13:30:00Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -529,15 +511,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
