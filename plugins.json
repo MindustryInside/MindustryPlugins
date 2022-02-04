@@ -819,15 +819,6 @@
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-01-02T09:37:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to change team."
-  },
-  {
     "repo": "FitmoF/FHistory",
     "name": "FHistory",
     "author": "Fitmo",
