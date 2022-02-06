@@ -315,15 +315,6 @@
     "description": "Show the amount of games won by a player!"
   },
   {
-    "repo": "devlaq/Shard",
-    "name": "Shard",
-    "author": "devlaq",
-    "lastUpdated": "2022-01-20T11:10:36Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Anti-grief, Vote kick/ban/map and, more"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
@@ -331,6 +322,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic image code is banned"
+  },
+  {
+    "repo": "devlaq/Shard",
+    "name": "Shard",
+    "author": "devlaq",
+    "lastUpdated": "2022-02-06T03:19:26Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Anti-grief, Vote kick/ban/map and, more"
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -655,15 +655,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
