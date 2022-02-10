@@ -846,10 +846,10 @@
     "description": "Tile History Plugin"
   },
   {
-    "repo": "bendnuts/MindustryPlaguePublic",
+    "repo": "nilederg/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
-    "lastUpdated": "2022-01-08T07:02:43Z",
+    "lastUpdated": "2022-01-10T16:21:01Z",
     "stars": 0,
     "hasJava": true,
     "description": "Plague Plugin"
