@@ -225,6 +225,15 @@
     "description": "Help from above"
   },
   {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-19T02:04:14Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -450,6 +459,15 @@
     "description": "A plugin for spawn units."
   },
   {
+    "repo": "hezhenwei/MTDDirtyWordMask",
+    "name": "MTDDirtyWordMask",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-09T06:50:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Mask dirty words."
+  },
+  {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
     "name": "Mindustry_ServerAutoPause",
     "author": "pisceskkk",
@@ -655,6 +673,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Adding /lobby and /hub commands"
+  },
+  {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
   },
   {
     "repo": "Minxyzgo/UpdateModPlugin",
@@ -885,7 +912,7 @@
     "repo": "ilya034/mindustry_plugin",
     "name": "mindustry_plugin",
     "author": "ilya034",
-    "lastUpdated": "2022-02-10T04:37:51Z",
+    "lastUpdated": "2022-02-10T07:09:23Z",
     "stars": 0,
     "hasJava": true,
     "description": "plugin"
