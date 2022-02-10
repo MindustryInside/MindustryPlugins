@@ -909,12 +909,12 @@
     "description": "A plugin to automatically pause the game when no one is connected."
   },
   {
-    "repo": "ilya034/mindustry_plugin",
-    "name": "mindustry_plugin",
-    "author": "ilya034",
-    "lastUpdated": "2022-02-10T07:09:23Z",
+    "repo": "ilya034/MindustryPlugin",
+    "name": "MindustryPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2022-02-10T14:18:42Z",
     "stars": 0,
     "hasJava": true,
-    "description": "plugin"
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
