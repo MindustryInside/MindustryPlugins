@@ -156,7 +156,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2022-02-07T17:43:54Z",
+    "lastUpdated": "2022-02-11T00:38:42Z",
     "stars": 4,
     "hasJava": true,
     "description": "No description provided."
@@ -295,15 +295,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Totally unfair mindustry experience"
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
