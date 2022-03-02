@@ -90,15 +90,6 @@
     "description": "heck"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -675,6 +666,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -801,15 +801,6 @@
     "description": "Simple as fuck Discord-Mindustry bridge plugin."
   },
   {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2021-10-26T18:53:43Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
     "repo": "Xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
@@ -916,5 +907,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Ilya246/mapChange",
+    "name": "mapChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-03-02T16:22:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   }
 ]
