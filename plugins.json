@@ -9,15 +9,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-03-04T10:27:36Z",
-    "stars": 37,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -675,15 +666,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -930,7 +912,7 @@
     "repo": "catsz/Midustry-Chat-Format",
     "name": "Midustry-Chat-Format",
     "author": "Cat700",
-    "lastUpdated": "2022-03-05T00:28:38Z",
+    "lastUpdated": "2022-03-05T01:04:26Z",
     "stars": 0,
     "hasJava": true,
     "description": "Chat format api and command."
