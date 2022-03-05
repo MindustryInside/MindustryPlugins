@@ -925,5 +925,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
+    "repo": "catsz/Midustry-Chat-Format",
+    "name": "Midustry-Chat-Format",
+    "author": "Cat700",
+    "lastUpdated": "2022-03-05T00:28:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Chat format api and command."
   }
 ]
