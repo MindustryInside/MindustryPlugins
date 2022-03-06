@@ -12,7 +12,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-03-04T10:27:36Z",
+    "lastUpdated": "2022-03-06T12:06:16Z",
     "stars": 37,
     "hasJava": true,
     "description": "More commands and features."
@@ -88,6 +88,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "heck"
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Fatonndev/MatrixHub",
@@ -268,15 +277,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Totally unfair mindustry experience"
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
