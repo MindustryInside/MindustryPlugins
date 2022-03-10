@@ -154,12 +154,12 @@
   },
   {
     "repo": "Xpdustry/Distributor",
-    "name": "Distributor",
+    "name": "Distributor core",
     "author": "Xpdustry",
-    "lastUpdated": "2022-03-06T19:11:47Z",
+    "lastUpdated": "2022-03-10T17:40:41Z",
     "stars": 4,
     "hasJava": true,
-    "description": "No description provided."
+    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -664,15 +664,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
