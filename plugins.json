@@ -9,15 +9,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-03-06T12:06:16Z",
-    "stars": 37,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -151,15 +142,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-10T17:40:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
