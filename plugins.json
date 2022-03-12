@@ -522,15 +522,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -612,15 +603,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Patryk434/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2020-09-29T17:16:36Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for spawn units."
-  },
-  {
     "repo": "Kickbut101/MultiplayerPausePlugin",
     "name": "MultiplayerPausePlugin",
     "author": "Andy",
@@ -666,15 +648,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -709,15 +682,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
   },
   {
     "repo": "skykatik/AntiBot",
