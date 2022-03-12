@@ -153,15 +153,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-10T23:20:33Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -205,6 +196,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Allows teams to capture cores."
+  },
+  {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-05-24T11:39:46Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
   },
   {
     "repo": "MindustryInside/NeutralPlugin",
@@ -259,15 +259,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Set the message that appears when the player talks."
-  },
-  {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-05-24T11:39:46Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
   },
   {
     "repo": "Slava0135/LuckyRouters",
@@ -664,15 +655,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
