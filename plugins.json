@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-03-06T12:06:16Z",
+    "stars": 37,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -16,6 +25,15 @@
     "stars": 23,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "ZetaMap/moreCommands",
@@ -252,6 +270,15 @@
     "description": "Totally unfair mindustry experience"
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -484,6 +511,24 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds bots to assist players."
+  },
+  {
+    "repo": "catsz/Midustry-Chat-Format",
+    "name": "Midustry-Chat-Format",
+    "author": "Cat700",
+    "lastUpdated": "2022-03-05T19:26:54Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Chat format api and command."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -862,14 +907,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
-    "repo": "catsz/Midustry-Chat-Format",
-    "name": "Midustry-Chat-Format",
-    "author": "Cat700",
-    "lastUpdated": "2022-03-05T19:26:54Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Chat format api and command."
   }
 ]
