@@ -9,6 +9,15 @@
     "description": "More commands and features."
   },
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-03-16T10:49:52Z",
+    "stars": 37,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -144,10 +153,19 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-03-17T11:37:40Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "xzxADIxzx/Hex-Industry",
     "name": "Hex Industry",
     "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-03-16T12:50:38Z",
+    "lastUpdated": "2022-03-17T18:50:24Z",
     "stars": 4,
     "hasJava": true,
     "description": "It will work soon, I promise."
@@ -520,6 +538,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Chat format api and command."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -903,7 +930,7 @@
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2022-03-16T22:15:35Z",
+    "lastUpdated": "2022-03-17T11:38:21Z",
     "stars": 0,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
