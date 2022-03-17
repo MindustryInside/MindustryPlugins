@@ -153,19 +153,10 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-03-16T12:50:38Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Xpdustry/Distributor",
     "name": "Distributor core",
     "author": "Xpdustry",
-    "lastUpdated": "2022-03-16T19:14:42Z",
+    "lastUpdated": "2022-03-16T21:33:12Z",
     "stars": 4,
     "hasJava": true,
     "description": "A Framework to make plugin development easier and faster, enjoy."
@@ -684,6 +675,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -925,5 +925,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
+    "repo": "Xpdustry/Router",
+    "name": "Xpdustry RouterPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-03-16T22:15:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A Reddit-like server for sharing schematics."
   }
 ]
