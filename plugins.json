@@ -12,7 +12,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-03-16T10:49:52Z",
+    "lastUpdated": "2022-03-18T09:43:04Z",
     "stars": 37,
     "hasJava": true,
     "description": "More commands and features."
@@ -153,13 +153,13 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-03-17T20:25:57Z",
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-03-17T11:37:40Z",
     "stars": 4,
     "hasJava": true,
-    "description": "It will work soon, I promise."
+    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -547,6 +547,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
