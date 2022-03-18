@@ -9,15 +9,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-03-16T10:49:52Z",
-    "stars": 37,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
@@ -25,15 +16,6 @@
     "stars": 23,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
-  },
-  {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "More commands and features."
   },
   {
     "repo": "ZetaMap/moreCommands",
@@ -160,15 +142,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-03-17T18:50:24Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
