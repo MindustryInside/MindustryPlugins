@@ -153,6 +153,24 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-03-20T17:12:59Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-03-21T13:56:26Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -268,6 +286,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Totally unfair mindustry experience"
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
@@ -484,6 +511,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "Ilya246/assistBots",
