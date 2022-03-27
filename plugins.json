@@ -13,7 +13,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2022-03-26T05:56:36Z",
-    "stars": 37,
+    "stars": 38,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -306,15 +306,6 @@
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
-    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
-    "name": "GlobalImageBan",
-    "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2022-02-07T03:09:30Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Checks if logic image code is banned"
-  },
-  {
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
@@ -513,6 +504,15 @@
     "description": "Fight against hordes of crawlers"
   },
   {
+    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
+    "name": "GlobalImageBan",
+    "author": "L0615T1C5.216AC:9437's cat",
+    "lastUpdated": "2022-02-07T03:09:30Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Checks if logic image code is banned"
+  },
+  {
     "repo": "Ilya246/assistBots",
     "name": "assistBots",
     "author": "[USMP]Ilya246",
@@ -664,15 +664,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
