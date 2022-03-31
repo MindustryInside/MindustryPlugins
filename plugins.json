@@ -27,6 +27,15 @@
     "description": "A battle-royale-like gamemode."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -135,6 +144,15 @@
     "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-03-31T18:14:33Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -151,15 +169,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-03-31T14:02:56Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -279,6 +288,15 @@
     "description": "Totally unfair mindustry experience"
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -300,7 +318,7 @@
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
-    "lastUpdated": "2022-03-23T13:36:04Z",
+    "lastUpdated": "2022-03-31T15:29:46Z",
     "stars": 2,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
@@ -484,6 +502,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
