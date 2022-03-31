@@ -27,15 +27,6 @@
     "description": "A battle-royale-like gamemode."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -165,7 +156,7 @@
     "repo": "xzxADIxzx/Hex-Industry",
     "name": "Hex Industry",
     "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-03-31T07:08:30Z",
+    "lastUpdated": "2022-03-31T14:02:56Z",
     "stars": 4,
     "hasJava": true,
     "description": "It will work soon, I promise."
@@ -286,15 +277,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Totally unfair mindustry experience"
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
@@ -502,15 +484,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-01-10T13:30:00Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
