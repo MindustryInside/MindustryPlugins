@@ -144,6 +144,24 @@
     "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-04-02T09:20:23Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
+    "repo": "Anuken/RateLimitPlugin",
+    "name": "RateLimitPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-05-15T19:34:01Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Imposes a configuration rate limit."
+  },
+  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -187,15 +205,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugins-mission"
-  },
-  {
-    "repo": "Anuken/RateLimitPlugin",
-    "name": "RateLimitPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2020-05-15T19:34:01Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Imposes a configuration rate limit."
   },
   {
     "repo": "Slava0135/Recapture",
@@ -277,6 +286,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Totally unfair mindustry experience"
+  },
+  {
+    "repo": "hezhenwei/MTDDirtyWordMask",
+    "name": "MTDDirtyWordMask",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-09T06:50:15Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Mask dirty words."
   },
   {
     "repo": "janu8ry/MinDiscord",
@@ -450,13 +468,13 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "hezhenwei/MTDDirtyWordMask",
-    "name": "MTDDirtyWordMask",
+    "repo": "hezhenwei/MTDChatBot",
+    "name": "MTDChatBot",
     "author": "Myke.H",
-    "lastUpdated": "2021-08-09T06:50:15Z",
+    "lastUpdated": "2021-08-10T09:29:25Z",
     "stars": 1,
     "hasJava": true,
-    "description": "Mask dirty words."
+    "description": "Mindustry Chat Bot."
   },
   {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
@@ -522,15 +540,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -547,15 +556,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -745,15 +745,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "hezhenwei/MTDChatBot",
-    "name": "MTDChatBot",
-    "author": "Myke.H",
-    "lastUpdated": "2021-08-10T09:29:25Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Chat Bot."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
