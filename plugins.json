@@ -27,6 +27,15 @@
     "description": "A battle-royale-like gamemode."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -124,15 +133,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-21T13:56:26Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -277,6 +277,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mask dirty words."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
