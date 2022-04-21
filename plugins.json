@@ -324,6 +324,15 @@
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
@@ -421,15 +430,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Simple login system"
-  },
-  {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
   },
   {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
@@ -531,6 +531,15 @@
     "description": "Adds bots to assist players."
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -547,6 +556,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
