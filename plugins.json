@@ -171,6 +171,15 @@
     "description": "Auto kick inactive players."
   },
   {
+    "repo": "Slava0135/CargoPods",
+    "name": "CargoPods",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T08:57:42Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Help from above"
+  },
+  {
     "repo": "MindustryInside/TheInspection",
     "name": "TheInspection",
     "author": "Mindustry Inside",
@@ -232,15 +241,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Fork of the Pandorum.su plugin."
-  },
-  {
-    "repo": "Slava0135/CargoPods",
-    "name": "CargoPods",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T08:57:42Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Help from above"
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -432,15 +432,6 @@
     "description": "Simple login system"
   },
   {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
@@ -558,6 +549,15 @@
     "description": "idk"
   },
   {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
     "name": "The-worst-mindustry-plugin",
     "author": "Mlokis",
@@ -664,6 +664,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
