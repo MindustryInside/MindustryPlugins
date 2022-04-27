@@ -144,6 +144,15 @@
     "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-04-23T17:15:57Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -423,6 +432,15 @@
     "description": "Simple login system"
   },
   {
+    "repo": "Gee-aitcH/GHMP-AdminChat",
+    "name": "GHMP-AdminChat",
+    "author": "(G_H)",
+    "lastUpdated": "2021-04-24T14:04:02Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Admin Chat plugin for server."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
     "name": "mindustry-recapture-plugin",
     "author": "FatonnDev",
@@ -646,15 +664,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "unjown/playerDam",
