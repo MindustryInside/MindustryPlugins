@@ -27,15 +27,6 @@
     "description": "A battle-royale-like gamemode."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -180,24 +171,6 @@
     "description": "Help from above"
   },
   {
-    "repo": "MindustryInside/TheInspection",
-    "name": "TheInspection",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-11-07T09:29:36Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
-    "repo": "Gee-aitcH/GHMP-NukeAlert",
-    "name": "GHMP-NukeAlert",
-    "author": "(G_H)",
-    "lastUpdated": "2019-10-19T18:35:20Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Simple Nuke Alert plugin for server."
-  },
-  {
     "repo": "Loxoz/MindustryJSPlugin",
     "name": "MindustryJSPlugin",
     "author": "Loxoz",
@@ -297,15 +270,6 @@
     "description": "Mask dirty words."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -322,15 +286,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-01-10T13:30:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "devlaq/Shard",
