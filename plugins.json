@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-03-26T05:56:36Z",
-    "stars": 44,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -90,15 +81,6 @@
     "description": "heck"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -133,15 +115,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-21T13:56:26Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
