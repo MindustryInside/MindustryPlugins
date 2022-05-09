@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-05-07T12:17:18Z",
+    "stars": 44,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -259,6 +268,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mask dirty words."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
@@ -630,15 +648,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
@@ -783,15 +792,6 @@
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-01-02T09:37:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to change team."
-  },
-  {
     "repo": "FitmoF/FHistory",
     "name": "FHistory",
     "author": "Fitmo",
@@ -889,5 +889,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Ilya246/teamChange",
+    "name": "teamChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-05-09T10:50:43Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Allows players to change team."
   }
 ]
