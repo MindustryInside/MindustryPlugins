@@ -99,15 +99,6 @@
     "description": "Example plugin to show some basic features."
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-21T13:56:26Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -565,15 +556,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Interaction with discord."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
