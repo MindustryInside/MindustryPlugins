@@ -90,24 +90,6 @@
     "description": "heck"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-21T13:56:26Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -142,6 +124,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -288,15 +279,6 @@
     "description": "Mask dirty words."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -369,6 +351,15 @@
     "description": "don't touch the brakes"
   },
   {
+    "repo": "Recessive/grayscale",
+    "name": "grayscale",
+    "author": "Recessive",
+    "lastUpdated": "2020-03-10T07:55:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Removes individuality and makes for a very boring lobby."
+  },
+  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -405,6 +396,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -412,6 +412,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Simple login system"
+  },
+  {
+    "repo": "Gee-aitcH/GHMP-AdminChat",
+    "name": "GHMP-AdminChat",
+    "author": "(G_H)",
+    "lastUpdated": "2021-04-24T14:04:02Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Admin Chat plugin for server."
   },
   {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
@@ -621,6 +630,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Patryk434/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2020-09-29T17:16:36Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for spawn units."
+  },
+  {
     "repo": "Kickbut101/MultiplayerPausePlugin",
     "name": "MultiplayerPausePlugin",
     "author": "Andy",
@@ -628,6 +646,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
+  },
+  {
+    "repo": "Volas171/AlexServerPlugin",
+    "name": "AlexServerPlugin",
+    "author": "Alex and VolasYouKnow",
+    "lastUpdated": "2020-12-31T17:43:44Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
     "repo": "deltanedas/JSEval",
@@ -711,6 +738,15 @@
     "description": "A simple plugin for kick bot accounts."
   },
   {
+    "repo": "Quezler/Nukedustry",
+    "name": "Nukedustry",
+    "author": "Slava0135",
+    "lastUpdated": "2021-05-26T12:35:54Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Units spawn a nuke on death"
+  },
+  {
     "repo": "J-VdS/randomEnemySpawn",
     "name": "randomEnemySpawn",
     "author": "Fishbuilder",
@@ -745,6 +781,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "MindustryModSeeker1/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2021-10-02T21:42:16Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
   },
   {
     "repo": "gerdoe-jr/Discustry",
