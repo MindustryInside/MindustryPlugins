@@ -144,6 +144,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -322,6 +331,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Fight against hordes of crawlers"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
+    "name": "GlobalImageBan",
+    "author": "L0615T1C5.216AC:9437's cat",
+    "lastUpdated": "2022-02-07T03:09:30Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Checks if logic image code is banned"
   },
   {
     "repo": "devlaq/Shard",
@@ -520,15 +538,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
-    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
-    "name": "GlobalImageBan",
-    "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2022-02-07T03:09:30Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Checks if logic image code is banned"
   },
   {
     "repo": "ThePotatoChronicler/potato-mindustry-plugin",
