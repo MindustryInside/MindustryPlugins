@@ -4,7 +4,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2022-05-07T12:17:18Z",
-    "stars": 44,
+    "stars": 45,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -99,6 +99,15 @@
     "description": "Example plugin to show some basic features."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-11-17T18:13:13Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Hub plugin for Mindustry"
+  },
+  {
     "repo": "Xpdustry/Distributor",
     "name": "Distributor core",
     "author": "Xpdustry",
@@ -133,15 +142,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-hub-plugin",
-    "name": "mindustry-hub-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-11-17T18:13:13Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Hub plugin for Mindustry"
   },
   {
     "repo": "xzxADIxzx/Hex-Industry",
@@ -340,6 +340,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
+  },
+  {
+    "repo": "TomtheCoder2/mainPlugin",
+    "name": "Discord Plugin",
+    "author": "Nautilus",
+    "lastUpdated": "2022-05-07T17:11:41Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Interaction with discord."
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -556,15 +565,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds bots to assist players."
-  },
-  {
-    "repo": "TomtheCoder2/mainPlugin",
-    "name": "Discord Plugin",
-    "author": "Nautilus",
-    "lastUpdated": "2022-05-07T17:11:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Interaction with discord."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
