@@ -90,6 +90,15 @@
     "description": "heck"
   },
   {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -133,15 +142,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -907,15 +907,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to automatically pause the game when no one is connected."
-  },
-  {
-    "repo": "ilya034/MindustryPlugin",
-    "name": "MindustryPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2022-02-10T14:18:42Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Ilya246/mapChange",
