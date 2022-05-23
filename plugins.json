@@ -27,15 +27,6 @@
     "description": "A battle-royale-like gamemode."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -90,15 +81,6 @@
     "description": "heck"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -106,15 +88,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-03-21T13:56:26Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Fatonndev/MatrixHub",
@@ -142,15 +115,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -324,15 +288,6 @@
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-01-10T13:30:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
@@ -396,15 +351,6 @@
     "description": "don't touch the brakes"
   },
   {
-    "repo": "Recessive/grayscale",
-    "name": "grayscale",
-    "author": "Recessive",
-    "lastUpdated": "2020-03-10T07:55:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -448,15 +394,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Simple login system"
-  },
-  {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
   },
   {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
@@ -630,15 +567,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Patryk434/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2020-09-29T17:16:36Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for spawn units."
-  },
-  {
     "repo": "Kickbut101/MultiplayerPausePlugin",
     "name": "MultiplayerPausePlugin",
     "author": "Andy",
@@ -646,15 +574,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
-  },
-  {
-    "repo": "Volas171/AlexServerPlugin",
-    "name": "AlexServerPlugin",
-    "author": "Alex and VolasYouKnow",
-    "lastUpdated": "2020-12-31T17:43:44Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
     "repo": "deltanedas/JSEval",
@@ -673,15 +592,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to communicate with a dashboard web server."
-  },
-  {
-    "repo": "fuzzbuck/io-global-bans",
-    "name": "io-global-bans",
-    "author": "fuzzbuck",
-    "lastUpdated": "2021-01-26T23:57:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
     "repo": "unjown/playerDam",
@@ -736,15 +646,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A simple plugin for kick bot accounts."
-  },
-  {
-    "repo": "Quezler/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Units spawn a nuke on death"
   },
   {
     "repo": "J-VdS/randomEnemySpawn",
@@ -907,24 +808,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-05-11T14:19:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to change team."
-  },
-  {
-    "repo": "Xpdustry/Router",
-    "name": "Xpdustry RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-05-18T17:12:45Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
   },
   {
     "repo": "Allen-B1/mindustry-plugin-template",
