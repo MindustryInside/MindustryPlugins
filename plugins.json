@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-05-22T13:00:27Z",
+    "stars": 46,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -16,6 +25,15 @@
     "stars": 24,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "ZetaMap/moreCommands",
@@ -90,6 +108,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-03-21T13:56:26Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -115,6 +142,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -288,6 +324,15 @@
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
@@ -394,6 +439,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -511,6 +565,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds bots to assist players."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -903,7 +966,7 @@
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
-    "lastUpdated": "2022-05-23T19:24:54Z",
+    "lastUpdated": "2022-05-24T15:38:58Z",
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
