@@ -144,6 +144,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -927,15 +936,6 @@
     "description": "Allows players to change team."
   },
   {
-    "repo": "Xpdustry/Router",
-    "name": "Xpdustry RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-05-18T17:12:45Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
-  },
-  {
     "repo": "Allen-B1/mindustry-plugin-template",
     "name": "Kotlin Example Plugin",
     "author": "Allen-B1",
@@ -961,5 +961,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
+    "repo": "Xpdustry/Router",
+    "name": "Xpdustry RouterPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-05-26T12:14:54Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A Reddit-like server for sharing schematics."
   }
 ]
