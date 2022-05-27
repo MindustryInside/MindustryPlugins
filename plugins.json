@@ -27,15 +27,6 @@
     "description": "A battle-royale-like gamemode."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
@@ -90,15 +81,6 @@
     "description": "heck"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -142,15 +124,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -441,15 +414,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -565,15 +529,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds bots to assist players."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -945,15 +900,6 @@
     "description": "An example plugin"
   },
   {
-    "repo": "Vitalij3/admin-commands-plugin",
-    "name": "admin-commands-plugin",
-    "author": "Salatosik",
-    "lastUpdated": "2022-05-24T15:38:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
     "repo": "Ilya246/mapChange",
     "name": "mapChange",
     "author": "[USMP]Ilya246",
@@ -970,5 +916,23 @@
     "stars": 0,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "deltanedas/MatrixBridge",
+    "name": "MatrixBridge",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-27T13:06:14Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "Bridges mindustry server chat with matrix."
+  },
+  {
+    "repo": "Vitalij3/admin-commands-plugin",
+    "name": "admin-commands-plugin",
+    "author": "Salatosik",
+    "lastUpdated": "2022-05-27T13:22:51Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
   }
 ]
