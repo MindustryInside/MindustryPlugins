@@ -27,6 +27,15 @@
     "description": "A battle-royale-like gamemode."
   },
   {
+    "repo": "ZetaMap/moreCommands",
+    "name": "morecommands",
+    "author": "ZetaMap",
+    "lastUpdated": "2022-04-10T14:40:21Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
     "repo": "way-zer/MyMindustryPlugin",
     "name": "MyMindustryPlugin",
     "author": "WayZer",
@@ -34,15 +43,6 @@
     "stars": 13,
     "hasJava": true,
     "description": "More commands and features."
-  },
-  {
-    "repo": "ZetaMap/moreCommands",
-    "name": "morecommands",
-    "author": "ZetaMap",
-    "lastUpdated": "2022-04-10T14:40:21Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "This mindustry plugin add more commands for admins and players."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -439,6 +439,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -954,15 +963,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "deltanedas/MatrixBridge",
-    "name": "MatrixBridge",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-27T13:06:14Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Bridges mindustry server chat with matrix."
-  },
-  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -970,5 +970,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
+  },
+  {
+    "repo": "deltanedas/MatrixBridge",
+    "name": "MatrixBridge",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-28T00:21:28Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Bridges mindustry server chat with matrix."
   }
 ]
