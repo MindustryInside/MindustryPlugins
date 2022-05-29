@@ -354,7 +354,7 @@
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Discord Plugin",
     "author": "Nautilus",
-    "lastUpdated": "2022-05-07T17:11:41Z",
+    "lastUpdated": "2022-05-29T17:59:45Z",
     "stars": 2,
     "hasJava": true,
     "description": "Interaction with discord."
@@ -570,19 +570,10 @@
     "repo": "Gitsans66/Chaos-plugin",
     "name": "Chaos plugin",
     "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T13:14:10Z",
+    "lastUpdated": "2022-05-29T16:36:01Z",
     "stars": 1,
     "hasJava": true,
     "description": "-"
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -988,5 +979,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
+  },
+  {
+    "repo": "KotMilkMeoWtwo/TowerDefense",
+    "name": "TowerDefense",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2022-05-29T18:47:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Tower Defense plugin for MeowLand server"
   }
 ]
