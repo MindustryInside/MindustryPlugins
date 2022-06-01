@@ -144,6 +144,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -558,15 +567,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "Xpdustry/Router",
-    "name": "Xpdustry RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-05-26T12:14:54Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
-  },
-  {
     "repo": "Gitsans66/Chaos-plugin",
     "name": "Chaos plugin",
     "author": "[I.C.]IC-0npc",
@@ -574,6 +574,24 @@
     "stars": 1,
     "hasJava": true,
     "description": "-"
+  },
+  {
+    "repo": "Xpdustry/Router",
+    "name": "Xpdustry RouterPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-06-01T13:33:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
+    "name": "meowland plugin",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2022-06-01T13:45:08Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "nya"
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -979,14 +997,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Tower Defense plugin for MeowLand server"
-  },
-  {
-    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
-    "name": "meowland plugin",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2022-05-31T17:50:57Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "nya"
   }
 ]
