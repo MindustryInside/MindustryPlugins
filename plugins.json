@@ -576,15 +576,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Gitsans66/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
