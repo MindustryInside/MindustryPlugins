@@ -576,15 +576,6 @@
     "description": "-"
   },
   {
-    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
-    "name": "meowland plugin",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2022-06-01T13:45:08Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "nya"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -592,6 +583,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
+    "name": "meowland plugin",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2022-06-02T10:14:10Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "nya"
   },
   {
     "repo": "Brandons404/BasicsPlugin",
