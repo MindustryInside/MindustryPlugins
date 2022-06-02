@@ -567,6 +567,15 @@
     "description": "Adds bots to assist players."
   },
   {
+    "repo": "deltanedas/MatrixBridge",
+    "name": "MatrixBridge",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-28T00:21:28Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Bridges mindustry server chat with matrix."
+  },
+  {
     "repo": "Gitsans66/Chaos-plugin",
     "name": "Chaos plugin",
     "author": "[I.C.]IC-0npc",
@@ -588,7 +597,7 @@
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
-    "lastUpdated": "2022-06-02T10:14:10Z",
+    "lastUpdated": "2022-06-02T13:42:36Z",
     "stars": 1,
     "hasJava": true,
     "description": "nya"
@@ -970,15 +979,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
-    "repo": "deltanedas/MatrixBridge",
-    "name": "MatrixBridge",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-28T00:21:28Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Bridges mindustry server chat with matrix."
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
