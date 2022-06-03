@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-05-22T13:00:27Z",
+    "stars": 46,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -25,6 +34,15 @@
     "stars": 14,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -304,6 +322,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
