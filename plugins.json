@@ -72,6 +72,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -133,15 +142,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -255,7 +255,7 @@
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
-    "lastUpdated": "2022-06-07T13:32:55Z",
+    "lastUpdated": "2022-06-08T16:00:47Z",
     "stars": 3,
     "hasJava": true,
     "description": "nya"
@@ -441,6 +441,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -558,6 +567,15 @@
     "description": "Adds bots to assist players."
   },
   {
+    "repo": "deltanedas/MatrixBridge",
+    "name": "MatrixBridge",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-28T00:21:28Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Bridges mindustry server chat with matrix."
+  },
+  {
     "repo": "Gitsans66/Chaos-plugin",
     "name": "Chaos plugin",
     "author": "[I.C.]IC-0npc",
@@ -673,6 +691,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "Kickbut101/MultiplayerPausePlugin",
+    "name": "MultiplayerPausePlugin",
+    "author": "Andy",
+    "lastUpdated": "2020-12-20T22:11:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "Volas171/AlexServerPlugin",
@@ -808,6 +835,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
+    "repo": "MindustryModSeeker1/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2021-10-02T21:42:16Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
   },
   {
     "repo": "gerdoe-jr/Discustry",
