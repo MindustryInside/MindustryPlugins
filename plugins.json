@@ -72,13 +72,13 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
+    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
+    "name": "meowland plugin",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2022-06-11T17:39:23Z",
     "stars": 7,
     "hasJava": true,
-    "description": "Example plugin to show some basic features."
+    "description": "nya"
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -115,15 +115,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
-    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
-    "name": "meowland plugin",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2022-06-11T17:39:23Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "nya"
   },
   {
     "repo": "Fatonndev/MatrixHub",
