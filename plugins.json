@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-05-22T13:00:27Z",
-    "stars": 46,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -450,6 +441,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -576,15 +576,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "Gitsans66/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -592,15 +583,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -619,15 +601,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
