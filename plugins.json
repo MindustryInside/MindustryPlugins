@@ -54,6 +54,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
+    "name": "meowland plugin",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2022-06-16T12:40:37Z",
+    "stars": 8,
+    "hasJava": true,
+    "description": "nya"
+  },
+  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -79,15 +88,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "Example plugin to show some basic features."
-  },
-  {
-    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
-    "name": "meowland plugin",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2022-06-16T12:40:37Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "nya"
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -124,6 +124,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-05-26T22:09:32Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Fatonndev/MatrixHub",
@@ -558,6 +567,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "Gitsans66/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -565,6 +583,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -583,6 +610,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
