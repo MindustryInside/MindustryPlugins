@@ -261,6 +261,15 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-01-10T13:30:00Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -351,15 +360,6 @@
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-01-10T13:30:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
@@ -376,6 +376,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
+  },
+  {
+    "repo": "Ilya246/assistBots",
+    "name": "assistBots",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-04-25T15:34:20Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Adds bots to assist players."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -567,13 +576,22 @@
     "description": "Potato plugin to do potato specific things"
   },
   {
-    "repo": "Ilya246/assistBots",
-    "name": "assistBots",
+    "repo": "Ilya246/teamChange",
+    "name": "teamChange",
     "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-04-25T15:34:20Z",
+    "lastUpdated": "2022-05-11T14:19:12Z",
     "stars": 1,
     "hasJava": true,
-    "description": "Adds bots to assist players."
+    "description": "Allows players to change team."
+  },
+  {
+    "repo": "Ilya246/mapChange",
+    "name": "mapChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-05-25T10:20:47Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
     "repo": "deltanedas/MatrixBridge",
@@ -583,6 +601,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
+  },
+  {
+    "repo": "Gitsans66/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
@@ -619,6 +646,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -936,15 +972,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-05-11T14:19:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to change team."
-  },
-  {
     "repo": "Allen-B1/mindustry-plugin-template",
     "name": "Kotlin Example Plugin",
     "author": "Allen-B1",
@@ -952,15 +979,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "An example plugin"
-  },
-  {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-05-25T10:20:47Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
