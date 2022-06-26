@@ -594,15 +594,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "Gitsans66/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -610,15 +601,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -637,15 +619,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -927,33 +900,6 @@
     "description": "A plugin for chat management."
   },
   {
-    "repo": "Shadow53/MindustryAdminPlugin",
-    "name": "MindustryAdminPlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2022-01-28T06:11:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to run admin commands from the chat"
-  },
-  {
-    "repo": "Shadow53/MindustryAuthPlugin",
-    "name": "MindustryAuthPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2022-01-28T06:17:29Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Shadow53/MindustryAutoPausePlugin",
-    "name": "MindustryAutoPausePlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2022-01-28T08:27:13Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to automatically pause the game when no one is connected."
-  },
-  {
     "repo": "Mythical-Forest-Collective/Mindustry.py",
     "name": "Mindustry.py",
     "author": "Anuke",
@@ -997,5 +943,32 @@
     "stars": 0,
     "hasJava": true,
     "description": "nya"
+  },
+  {
+    "repo": "Shadow53/MindustryAutoPausePlugin",
+    "name": "MindustryAutoPausePlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2022-06-26T06:45:32Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to automatically pause the game when no one is connected."
+  },
+  {
+    "repo": "Shadow53/MindustryAdminPlugin",
+    "name": "MindustryAdminPlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2022-06-26T07:56:27Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to run admin commands from the chat"
+  },
+  {
+    "repo": "Shadow53/MindustryAuthPlugin",
+    "name": "MindustryAuthPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2022-06-26T08:24:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
