@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-07-05T05:34:33Z",
+    "stars": 49,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -48,7 +57,7 @@
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
-    "lastUpdated": "2022-07-05T14:17:39Z",
+    "lastUpdated": "2022-07-07T08:44:25Z",
     "stars": 8,
     "hasJava": true,
     "description": "nya"
@@ -117,6 +126,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-07-04T00:01:25Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -151,15 +169,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -313,6 +322,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mask dirty words."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
