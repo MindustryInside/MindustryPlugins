@@ -171,15 +171,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -459,15 +450,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -619,6 +601,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -889,15 +880,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Cheat like in StarCraft, need admin."
-  },
-  {
-    "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
-    "name": "MindustryUndergroundServer",
-    "author": "Forest",
-    "lastUpdated": "2021-12-02T19:47:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
     "repo": "FitmoF/FHistory",
