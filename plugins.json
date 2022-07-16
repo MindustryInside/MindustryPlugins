@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-07-10T05:36:24Z",
+    "stars": 49,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -115,15 +124,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-07-04T00:01:25Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -324,6 +324,15 @@
     "description": "Mask dirty words."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -439,6 +448,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
