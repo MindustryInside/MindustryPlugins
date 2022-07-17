@@ -99,6 +99,15 @@
     "description": "Example plugin to show some basic features."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-hub-plugin",
+    "name": "mindustry-hub-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-11-17T18:13:13Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Hub plugin for Mindustry"
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -115,15 +124,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-hub-plugin",
-    "name": "mindustry-hub-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-11-17T18:13:13Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Hub plugin for Mindustry"
   },
   {
     "repo": "Xpdustry/Distributor",
