@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-07-23T02:22:17Z",
+    "stars": 52,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -160,6 +169,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -385,6 +403,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Adds bots to assist players."
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-07-20T18:02:16Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
