@@ -396,6 +396,15 @@
     "description": "Adds bots to assist players."
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-07-20T18:02:16Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -466,6 +475,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
