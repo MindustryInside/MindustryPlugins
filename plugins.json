@@ -81,24 +81,6 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
-    "repo": "Astro36/mindustry-pause-plugin",
-    "name": "Game Pause",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-07-31T05:34:49Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -115,15 +97,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
-  },
-  {
-    "repo": "mayli/RockTheVotePlugin",
-    "name": "RockTheVotePlugin",
-    "author": "mayli",
-    "lastUpdated": "2021-07-29T05:35:58Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "Xpdustry/Distributor",
@@ -399,7 +372,7 @@
     "repo": "GitIcon65/LABORATORY",
     "name": "LABORATORY",
     "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-07-20T18:02:16Z",
+    "lastUpdated": "2022-07-24T19:44:03Z",
     "stars": 2,
     "hasJava": true,
     "description": "LABORATORY - new mindustry game mode."
@@ -475,15 +448,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -898,15 +862,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
-  },
-  {
-    "repo": "laxtiz/mindustry-cheat",
-    "name": "mindustry-cheat",
-    "author": "laxtiz",
-    "lastUpdated": "2021-11-15T14:19:11Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Cheat like in StarCraft, need admin."
   },
   {
     "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
