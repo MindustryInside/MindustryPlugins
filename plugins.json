@@ -81,6 +81,24 @@
     "description": "Mindustry plugin/mod browser for Mindustry servers."
   },
   {
+    "repo": "Astro36/mindustry-pause-plugin",
+    "name": "Game Pause",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-07-31T05:34:49Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -99,10 +117,19 @@
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
   },
   {
+    "repo": "mayli/RockTheVotePlugin",
+    "name": "RockTheVotePlugin",
+    "author": "mayli",
+    "lastUpdated": "2021-07-29T05:35:58Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
+  },
+  {
     "repo": "Xpdustry/Distributor",
     "name": "Distributor core",
     "author": "Xpdustry",
-    "lastUpdated": "2022-07-04T00:01:25Z",
+    "lastUpdated": "2022-07-24T23:18:01Z",
     "stars": 6,
     "hasJava": true,
     "description": "A Framework to make plugin development easier and faster, enjoy."
@@ -142,6 +169,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -448,6 +484,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -862,6 +907,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Kick afk bois."
+  },
+  {
+    "repo": "laxtiz/mindustry-cheat",
+    "name": "mindustry-cheat",
+    "author": "laxtiz",
+    "lastUpdated": "2021-11-15T14:19:11Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Cheat like in StarCraft, need admin."
   },
   {
     "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
