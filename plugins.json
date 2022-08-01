@@ -36,6 +36,15 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -84,7 +93,7 @@
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
-    "lastUpdated": "2022-07-19T12:22:05Z",
+    "lastUpdated": "2022-08-01T13:53:07Z",
     "stars": 7,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
@@ -115,6 +124,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "Example plugin to show some basic features."
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-07-24T23:18:01Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -378,15 +396,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-07-31T19:27:37Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -457,6 +466,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -619,15 +637,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
