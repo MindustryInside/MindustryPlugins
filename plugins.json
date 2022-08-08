@@ -1024,5 +1024,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "osp54/BetterConsole",
+    "name": "BetterConsole",
+    "author": "Anuke",
+    "lastUpdated": "2022-08-08T08:25:28Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
