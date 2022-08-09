@@ -36,6 +36,15 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
