@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-08-08T04:37:36Z",
+    "stars": 54,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -390,7 +399,7 @@
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
-    "lastUpdated": "2022-08-09T07:27:29Z",
+    "lastUpdated": "2022-08-09T12:02:50Z",
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
@@ -466,15 +475,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -619,6 +619,24 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Kowkodivka/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx, lucin",
+    "lastUpdated": "2022-08-09T14:22:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1006,14 +1024,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Kowkodivka/BetterConsole",
-    "name": "BetterConsole",
-    "author": "OSPx, lucin",
-    "lastUpdated": "2022-08-09T08:34:50Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "The mindustry plugin that improves the input of console commands."
   }
 ]
