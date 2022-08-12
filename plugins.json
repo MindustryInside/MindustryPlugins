@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-08-08T04:37:36Z",
+    "stars": 55,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -90,6 +99,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor core",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-08-04T17:40:59Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "A Framework to make plugin development easier and faster, enjoy."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -151,6 +169,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -378,19 +405,19 @@
     "description": "Adds bots to assist players."
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Kowkodivka/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx, lucin",
     "lastUpdated": "2022-08-09T23:46:34Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "The mindustry plugin that improves the input of console commands."
-  },
-  {
-    "repo": "osp54/BetterConsole",
-    "name": "BetterConsole",
-    "author": "OSPx",
-    "lastUpdated": "2022-08-11T11:22:15Z",
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
@@ -466,6 +493,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -610,6 +646,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "osp54/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx",
+    "lastUpdated": "2022-08-12T09:33:08Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
