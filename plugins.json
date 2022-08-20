@@ -102,7 +102,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor core",
     "author": "Xpdustry",
-    "lastUpdated": "2022-08-04T17:40:59Z",
+    "lastUpdated": "2022-08-20T01:18:46Z",
     "stars": 7,
     "hasJava": true,
     "description": "A Framework to make plugin development easier and faster, enjoy."
@@ -178,6 +178,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Ilya246/crawler_arena",
@@ -637,15 +646,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
