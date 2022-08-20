@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2022-08-15T12:13:34Z",
-    "stars": 41,
+    "stars": 40,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -178,15 +178,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Ilya246/crawler_arena",
@@ -423,15 +414,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "Kowkodivka/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx, lucin",
@@ -529,15 +511,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
