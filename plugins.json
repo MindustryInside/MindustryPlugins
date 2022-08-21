@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2021-10-09T19:10:02Z",
-    "stars": 25,
+    "stars": 26,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -97,15 +97,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-08-20T01:18:46Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -423,15 +414,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -520,15 +502,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
