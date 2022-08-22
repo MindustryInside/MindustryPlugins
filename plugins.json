@@ -180,6 +180,15 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
@@ -351,6 +360,15 @@
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
   },
   {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Command extension"
+  },
+  {
     "repo": "Slava0135/LuckyRouters",
     "name": "LuckyRouters",
     "author": "Slava0135",
@@ -367,6 +385,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin to auto pause(resume) server when empty(or not)."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "J-VdS/pvpStatsPlugin",
@@ -475,15 +502,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Core plugin of the mindustry.party server."
-  },
-  {
-    "repo": "deng-rui/Command-Extension",
-    "name": "Command-Extension",
-    "author": "Dr",
-    "lastUpdated": "2020-06-13T06:11:52Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Command extension"
   },
   {
     "repo": "Quezler/mindustry__plugin--bomberman",
@@ -639,6 +657,15 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -655,6 +682,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
