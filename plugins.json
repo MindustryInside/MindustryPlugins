@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-08-08T04:37:36Z",
+    "stars": 55,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -25,15 +34,6 @@
     "stars": 16,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
-  },
-  {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -106,15 +106,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Pointifix/HistoryPlugin",
@@ -396,15 +387,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -610,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
+  },
+  {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
