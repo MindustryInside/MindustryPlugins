@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2022-08-27T14:50:50Z",
+    "lastUpdated": "2022-08-28T04:02:24Z",
     "stars": 40,
     "hasJava": true,
     "description": "More commands and features."
@@ -180,6 +180,15 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
@@ -324,15 +333,6 @@
     "description": "General-purpose server plugin, including interaction with discord"
   },
   {
-    "repo": "Anuken/EvalPlugin",
-    "name": "EvalPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2019-09-08T19:00:06Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -423,6 +423,15 @@
     "description": "Adds bots to assist players."
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -502,15 +511,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
@@ -747,24 +747,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Patryk434/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2020-09-29T17:16:36Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "Kickbut101/MultiplayerPausePlugin",
-    "name": "MultiplayerPausePlugin",
-    "author": "Andy",
-    "lastUpdated": "2020-12-20T22:11:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
-  },
-  {
     "repo": "Volas171/AlexServerPlugin",
     "name": "AlexServerPlugin",
     "author": "Alex and VolasYouKnow",
@@ -907,15 +889,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "gerdoe-jr/Discustry",
-    "name": "Discustry",
-    "author": "gerdoe",
-    "lastUpdated": "2021-10-20T20:30:06Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Simple as fuck Discord-Mindustry bridge plugin."
   },
   {
     "repo": "Xpdustry/AfkPlugin",
