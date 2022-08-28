@@ -99,15 +99,6 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-08-27T01:28:53Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -124,6 +115,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Pointifix/HistoryPlugin",
@@ -378,15 +378,6 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "J-VdS/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
@@ -639,15 +630,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -655,15 +637,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
