@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2022-08-29T13:02:47Z",
-    "stars": 40,
+    "stars": 41,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2021-10-09T19:10:02Z",
-    "stars": 26,
+    "stars": 27,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -117,6 +117,15 @@
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
   },
   {
+    "repo": "Fatonndev/MatrixHub",
+    "name": "MatrixHub",
+    "author": "KeviTV",
+    "lastUpdated": "2020-06-06T18:39:50Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
+  },
+  {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
@@ -151,15 +160,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Imposes a configuration rate limit."
-  },
-  {
-    "repo": "Fatonndev/MatrixHub",
-    "name": "MatrixHub",
-    "author": "KeviTV",
-    "lastUpdated": "2020-06-06T18:39:50Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Better Hub plugin for servers"
   },
   {
     "repo": "J-VdS/DiscordPlugin",
@@ -520,6 +520,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Kieaer/Authme",
