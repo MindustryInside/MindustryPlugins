@@ -144,6 +144,15 @@
     "description": "Example plugin to show some basic features."
   },
   {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-08-01T17:57:06Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "Pointifix/HistoryPlugin",
     "name": "HistoryPlugin",
     "author": "Pointifix",
@@ -205,15 +214,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Plugin for my server"
-  },
-  {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2022-08-01T17:57:06Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Sectorized game mode"
   },
   {
     "repo": "skykatik/AfkPlugin",
