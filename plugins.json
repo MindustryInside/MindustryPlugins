@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2021-10-09T19:10:02Z",
-    "stars": 27,
+    "stars": 26,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -369,6 +369,15 @@
     "description": "Command extension"
   },
   {
+    "repo": "Kieaer/Authme",
+    "name": "Authme",
+    "author": "Kieaer",
+    "lastUpdated": "2021-02-06T21:41:52Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Simple login system"
+  },
+  {
     "repo": "Slava0135/LuckyRouters",
     "name": "LuckyRouters",
     "author": "Slava0135",
@@ -529,15 +538,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adding /lobby and /hub commands"
-  },
-  {
-    "repo": "Kieaer/Authme",
-    "name": "Authme",
-    "author": "Kieaer",
-    "lastUpdated": "2021-02-06T21:41:52Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Simple login system"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
