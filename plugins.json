@@ -3,8 +3,8 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-08-29T07:15:42Z",
-    "stars": 55,
+    "lastUpdated": "2022-09-03T03:35:37Z",
+    "stars": 56,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -108,6 +108,15 @@
     "description": "A Framework to make plugin development easier and faster, enjoy."
   },
   {
+    "repo": "Anuken/RateLimitPlugin",
+    "name": "RateLimitPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-05-15T19:34:01Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Imposes a configuration rate limit."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -160,15 +169,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
-  },
-  {
-    "repo": "Anuken/RateLimitPlugin",
-    "name": "RateLimitPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2020-05-15T19:34:01Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Imposes a configuration rate limit."
   },
   {
     "repo": "J-VdS/DiscordPlugin",
@@ -243,6 +243,24 @@
     "description": "Help from above"
   },
   {
+    "repo": "hezhenwei/MTDDirtyWordMask",
+    "name": "MTDDirtyWordMask",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-09T06:50:15Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Mask dirty words."
+  },
+  {
+    "repo": "TomtheCoder2/mainPlugin",
+    "name": "Pheonix Plugin",
+    "author": "Nautilus & Allen-B1",
+    "lastUpdated": "2022-08-22T01:30:24Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "General-purpose server plugin, including interaction with discord"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -288,15 +306,6 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
-    "repo": "hezhenwei/MTDDirtyWordMask",
-    "name": "MTDDirtyWordMask",
-    "author": "Myke.H",
-    "lastUpdated": "2021-08-09T06:50:15Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Mask dirty words."
-  },
-  {
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
@@ -322,15 +331,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR servers"
-  },
-  {
-    "repo": "TomtheCoder2/mainPlugin",
-    "name": "Pheonix Plugin",
-    "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2022-08-22T01:30:24Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "General-purpose server plugin, including interaction with discord"
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -385,6 +385,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Totally unfair mindustry experience"
+  },
+  {
+    "repo": "hezhenwei/MTDChatBot",
+    "name": "MTDChatBot",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-10T09:29:25Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Mindustry Chat Bot."
   },
   {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
@@ -531,6 +540,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -574,15 +592,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "hezhenwei/MTDChatBot",
-    "name": "MTDChatBot",
-    "author": "Myke.H",
-    "lastUpdated": "2021-08-10T09:29:25Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Mindustry Chat Bot."
   },
   {
     "repo": "pisceskkk/Mindustry_ServerAutoSave",
