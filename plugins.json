@@ -1051,5 +1051,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "NgLam2911/SimpleRTV",
+    "name": "SimpleRTV",
+    "author": "NgLam2911",
+    "lastUpdated": "2022-09-07T02:51:37Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to change map by /rtv."
   }
 ]
