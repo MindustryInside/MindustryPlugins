@@ -135,15 +135,6 @@
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
   },
   {
-    "repo": "Fatonndev/MatrixHub",
-    "name": "MatrixHub",
-    "author": "KeviTV",
-    "lastUpdated": "2020-06-06T18:39:50Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Better Hub plugin for servers"
-  },
-  {
     "repo": "mayli/RockTheVotePlugin",
     "name": "RockTheVotePlugin",
     "author": "mayli",
@@ -169,6 +160,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
+  },
+  {
+    "repo": "Fatonndev/MatrixHub",
+    "name": "MatrixHub",
+    "author": "KeviTV",
+    "lastUpdated": "2020-06-06T18:39:50Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
   },
   {
     "repo": "J-VdS/DiscordPlugin",
