@@ -3,7 +3,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-09-09T14:08:57Z",
+    "lastUpdated": "2022-09-10T15:45:55Z",
     "stars": 56,
     "hasJava": true,
     "description": "More commands and features."
@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2022-09-07T14:03:51Z",
+    "lastUpdated": "2022-09-10T15:36:05Z",
     "stars": 42,
     "hasJava": true,
     "description": "More commands and features."
@@ -189,15 +189,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
@@ -259,6 +250,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
+  },
+  {
+    "repo": "thedimasNetwork/StellarPlugin",
+    "name": "StellarPlugin",
+    "author": "thedimas & Ahsoka-501 & skykatik",
+    "lastUpdated": "2022-09-09T19:55:58Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Plugin for thedimas' servers."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -336,7 +336,7 @@
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
-    "lastUpdated": "2022-08-16T23:05:35Z",
+    "lastUpdated": "2022-09-10T18:24:43Z",
     "stars": 3,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR servers"
@@ -468,15 +468,6 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -484,15 +475,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
-  },
-  {
-    "repo": "thedimasNetwork/StellarPlugin",
-    "name": "StellarPlugin",
-    "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2022-09-09T19:55:58Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Plugin for thedimas' servers."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -565,6 +547,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
