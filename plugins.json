@@ -486,6 +486,15 @@
     "description": "The mindustry plugin that improves the input of console commands."
   },
   {
+    "repo": "thedimasNetwork/StellarPlugin",
+    "name": "StellarPlugin",
+    "author": "thedimas & Ahsoka-501 & skykatik",
+    "lastUpdated": "2022-09-09T19:55:58Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Plugin for thedimas' servers."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
