@@ -153,15 +153,6 @@
     "description": "Sectorized game mode"
   },
   {
-    "repo": "Pointifix/HistoryPlugin",
-    "name": "HistoryPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2020-05-02T14:20:30Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Adds a history command to display a tiles build/break history"
-  },
-  {
     "repo": "Fatonndev/MatrixHub",
     "name": "MatrixHub",
     "author": "KeviTV",
@@ -214,6 +205,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Plugin for my server"
+  },
+  {
+    "repo": "Pointifix/HistoryPlugin",
+    "name": "HistoryPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-09-15T10:32:10Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Adds a history command to display a tiles build/break history"
   },
   {
     "repo": "skykatik/AfkPlugin",
