@@ -630,6 +630,15 @@
     "description": "A plugin to auto save the game."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
+    "name": "mindustry-ai-antigrief-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-08-15T15:29:49Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Based on AI antigrief plugin for Mindustry"
+  },
+  {
     "repo": "ZetaMap/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
@@ -682,15 +691,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -907,15 +907,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
-    "name": "mindustry-ai-antigrief-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-08-15T15:29:49Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Based on AI antigrief plugin for Mindustry"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
