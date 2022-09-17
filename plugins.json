@@ -3,8 +3,8 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-09-14T16:00:17Z",
-    "stars": 56,
+    "lastUpdated": "2022-09-17T16:15:43Z",
+    "stars": 57,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -684,15 +684,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -873,6 +864,15 @@
     "description": "A plugin that provides a network interface for foo's client."
   },
   {
+    "repo": "skykatik/AntiBot",
+    "name": "Anti Bot",
+    "author": "Skat",
+    "lastUpdated": "2021-05-21T21:58:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A simple plugin for kick bot accounts."
+  },
+  {
     "repo": "Quezler/Nukedustry",
     "name": "Nukedustry",
     "author": "Slava0135",
@@ -889,15 +889,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Spawns enemies in a random location..."
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
