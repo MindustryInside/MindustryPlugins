@@ -684,6 +684,15 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -862,15 +871,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
-    "repo": "skykatik/AntiBot",
-    "name": "Anti Bot",
-    "author": "Skat",
-    "lastUpdated": "2021-05-21T21:58:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A simple plugin for kick bot accounts."
   },
   {
     "repo": "Quezler/Nukedustry",
