@@ -477,6 +477,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -556,15 +565,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -871,15 +871,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
-    "repo": "skykatik/AntiBot",
-    "name": "Anti Bot",
-    "author": "Skat",
-    "lastUpdated": "2021-05-21T21:58:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A simple plugin for kick bot accounts."
   },
   {
     "repo": "Quezler/Nukedustry",
