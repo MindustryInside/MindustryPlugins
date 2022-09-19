@@ -3,7 +3,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-09-17T16:15:43Z",
+    "lastUpdated": "2022-09-19T13:32:26Z",
     "stars": 57,
     "hasJava": true,
     "description": "More commands and features."
@@ -21,7 +21,7 @@
     "repo": "Anuken/HexedPlugin",
     "name": "HexedPlugin",
     "author": "Anuke",
-    "lastUpdated": "2021-10-09T19:10:02Z",
+    "lastUpdated": "2022-09-19T15:11:46Z",
     "stars": 27,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
@@ -264,7 +264,7 @@
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2022-09-11T16:56:34Z",
+    "lastUpdated": "2022-09-19T11:46:23Z",
     "stars": 4,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
@@ -295,6 +295,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugins-mission"
+  },
+  {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Command extension"
   },
   {
     "repo": "Slava0135/Recapture",
@@ -376,15 +385,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
-  },
-  {
-    "repo": "deng-rui/Command-Extension",
-    "name": "Command-Extension",
-    "author": "Dr",
-    "lastUpdated": "2020-06-13T06:11:52Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Command extension"
   },
   {
     "repo": "Kieaer/Authme",
@@ -567,6 +567,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -682,15 +691,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -871,6 +871,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that provides a network interface for foo's client."
+  },
+  {
+    "repo": "skykatik/AntiBot",
+    "name": "Anti Bot",
+    "author": "Skat",
+    "lastUpdated": "2021-05-21T21:58:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A simple plugin for kick bot accounts."
   },
   {
     "repo": "Quezler/Nukedustry",
