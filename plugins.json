@@ -180,15 +180,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-05-17T17:23:53Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
@@ -1092,7 +1083,7 @@
     "repo": "iMainDay/Welcomer",
     "name": "Welcomer",
     "author": "MainDay",
-    "lastUpdated": "2022-09-22T15:07:19Z",
+    "lastUpdated": "2022-09-22T15:23:54Z",
     "stars": 0,
     "hasJava": true,
     "description": "This plugin adds a greeting when players log on to the server"
