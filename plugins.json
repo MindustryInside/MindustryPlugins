@@ -180,6 +180,15 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-05-17T17:23:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
