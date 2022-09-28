@@ -264,7 +264,7 @@
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2022-09-27T19:36:49Z",
+    "lastUpdated": "2022-09-27T20:29:03Z",
     "stars": 4,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
@@ -331,6 +331,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
+    "repo": "devlaq/Shard",
+    "name": "Shard",
+    "author": "devlaq",
+    "lastUpdated": "2022-04-08T14:07:19Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Anti-grief, Vote kick/ban/map and, more"
   },
   {
     "repo": "Ilya246/assistBots",
@@ -457,15 +466,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic image code is banned"
-  },
-  {
-    "repo": "devlaq/Shard",
-    "name": "Shard",
-    "author": "devlaq",
-    "lastUpdated": "2022-04-08T14:07:19Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Anti-grief, Vote kick/ban/map and, more"
   },
   {
     "repo": "Ilya246/teamChange",
