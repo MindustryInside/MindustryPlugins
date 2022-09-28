@@ -144,6 +144,15 @@
     "description": "A plugin to change map by /rtv."
   },
   {
+    "repo": "J-VdS/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-08-22T09:38:17Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -160,15 +169,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "J-VdS/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-08-22T09:38:17Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "interaction with discord"
   },
   {
     "repo": "MindustryInside/TheInspection",
@@ -709,6 +709,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
