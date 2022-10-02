@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-09-19T13:32:26Z",
-    "stars": 59,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -495,6 +486,15 @@
     "description": "LABORATORY - new mindustry game mode."
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Xpdustry Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-10-01T18:40:13Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -684,15 +684,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Xpdustry Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-10-01T18:40:13Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -709,15 +700,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
