@@ -486,24 +486,6 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Xpdustry Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-10-01T18:40:13Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -682,15 +664,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
