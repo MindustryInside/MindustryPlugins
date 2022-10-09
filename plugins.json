@@ -372,7 +372,7 @@
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
-    "lastUpdated": "2022-09-23T17:56:56Z",
+    "lastUpdated": "2022-10-09T13:36:50Z",
     "stars": 3,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
@@ -576,6 +576,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -691,6 +700,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1051,15 +1069,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "iMainDay/LiteBans",
-    "name": "LiteBans",
-    "author": "MainDay",
-    "lastUpdated": "2022-09-21T22:02:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "This mindustry plugin will improve the ban system on your server"
   },
   {
     "repo": "NgLam2911/ExampleMindustryPlugin",
