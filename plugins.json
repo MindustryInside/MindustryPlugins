@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-09-19T13:32:26Z",
+    "stars": 61,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -25,6 +34,15 @@
     "stars": 17,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -108,6 +126,24 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-03T13:35:36Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -153,6 +189,24 @@
     "description": "Plugin for my server"
   },
   {
+    "repo": "Pointifix/HistoryPlugin",
+    "name": "HistoryPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-09-15T10:32:10Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Adds a history command to display a tiles build/break history"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-10-16T11:25:16Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -169,6 +223,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Help from above"
+  },
+  {
+    "repo": "hezhenwei/MTDDirtyWordMask",
+    "name": "MTDDirtyWordMask",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-09T06:50:15Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Mask dirty words."
   },
   {
     "repo": "MindustryInside/LightweightHub",
@@ -252,6 +315,15 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-19T02:04:14Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
@@ -286,6 +358,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Xpdustry Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-10-05T22:22:48Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "osp54/BetterConsole",
@@ -331,6 +412,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Simple login system"
+  },
+  {
+    "repo": "Slava0135/LuckyRouters",
+    "name": "LuckyRouters",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T13:51:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Totally unfair mindustry experience"
   },
   {
     "repo": "hezhenwei/MTDChatBot",
@@ -396,6 +486,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -432,6 +531,15 @@
     "description": "Removes individuality and makes for a very boring lobby."
   },
   {
+    "repo": "Pointifix/UniqueUsernamesPlugin",
+    "name": "UniqueUsernamesPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2020-04-24T21:37:19Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Saves the username of each joined user and prohibits impersonations."
+  },
+  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -457,15 +565,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -565,6 +664,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -691,6 +799,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
   },
   {
     "repo": "Minxyzgo/UpdateModPlugin",
