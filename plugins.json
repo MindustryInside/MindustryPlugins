@@ -99,15 +99,6 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-10-18T01:13:58Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
-  },
-  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -684,6 +675,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -709,6 +709,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
