@@ -102,7 +102,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor core",
     "author": "Xpdustry",
-    "lastUpdated": "2022-10-19T15:41:40Z",
+    "lastUpdated": "2022-10-21T19:03:44Z",
     "stars": 7,
     "hasJava": true,
     "description": "A Framework to make plugin development easier and faster, enjoy."
@@ -367,6 +367,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Xpdustry Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-10-05T22:22:48Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "osp54/BetterConsole",
