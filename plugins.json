@@ -100,12 +100,12 @@
   },
   {
     "repo": "Xpdustry/Distributor",
-    "name": "Distributor core",
+    "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2022-10-21T19:03:44Z",
+    "lastUpdated": "2022-10-22T14:52:31Z",
     "stars": 7,
     "hasJava": true,
-    "description": "A Framework to make plugin development easier and faster, enjoy."
+    "description": "No description provided."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -205,6 +205,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-10-16T11:25:16Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "skykatik/AfkPlugin",
