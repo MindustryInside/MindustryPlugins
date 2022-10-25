@@ -81,6 +81,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-06-29T05:23:13Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "heck"
+  },
+  {
     "repo": "Astro36/mindustry-pause-plugin",
     "name": "Game Pause",
     "author": "Seungjae Park",
@@ -178,6 +187,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Fight against hordes of crawlers"
+  },
+  {
+    "repo": "Kycb42148/KycbPlugin",
+    "name": "KycbPlugin",
+    "author": "Kycb42148",
+    "lastUpdated": "2022-07-25T17:02:05Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Plugin for my server"
   },
   {
     "repo": "Pointifix/HistoryPlugin",
@@ -495,6 +513,15 @@
     "description": "LABORATORY - new mindustry game mode."
   },
   {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "!weepingangel"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--blackbox",
     "name": "mindustry__plugin--blackbox",
     "author": "Quezler",
@@ -574,6 +601,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Admin Chat plugin for server."
+  },
+  {
+    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
+    "name": "mindustry-recapture-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-06-17T19:18:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Recapture pvp minigame for Mindustry"
   },
   {
     "repo": "J-VdS/TeamPlugin",
@@ -682,15 +718,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -988,6 +1015,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "nya"
+  },
+  {
+    "repo": "Shadow53/MindustryAutoPausePlugin",
+    "name": "MindustryAutoPausePlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2022-06-26T06:45:32Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to automatically pause the game when no one is connected."
   },
   {
     "repo": "Shadow53/MindustryAdminPlugin",
