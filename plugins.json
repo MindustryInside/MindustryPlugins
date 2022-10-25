@@ -81,15 +81,6 @@
     "description": "Hub plugin for Mindustry"
   },
   {
-    "repo": "Anuken/CurseFilterPlugin",
-    "name": "CurseFilterPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2021-06-29T05:23:13Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "heck"
-  },
-  {
     "repo": "Astro36/mindustry-pause-plugin",
     "name": "Game Pause",
     "author": "Seungjae Park",
@@ -189,15 +180,6 @@
     "description": "Fight against hordes of crawlers"
   },
   {
-    "repo": "Kycb42148/KycbPlugin",
-    "name": "KycbPlugin",
-    "author": "Kycb42148",
-    "lastUpdated": "2022-07-25T17:02:05Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Plugin for my server"
-  },
-  {
     "repo": "Pointifix/HistoryPlugin",
     "name": "HistoryPlugin",
     "author": "Pointifix",
@@ -205,6 +187,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-10-16T11:25:16Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -360,6 +351,15 @@
     "description": "Plugin made for the MindustryBR servers"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Xpdustry Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-10-05T22:22:48Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -432,6 +432,15 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -477,13 +486,13 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "Quezler/mindustry__plugin--weepingangel",
-    "name": "mindustry__plugin--weepingangel",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-22T18:09:11Z",
-    "stars": 1,
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
     "hasJava": true,
-    "description": "!weepingangel"
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "Quezler/mindustry__plugin--blackbox",
@@ -565,15 +574,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Admin Chat plugin for server."
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
-    "name": "mindustry-recapture-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-06-17T19:18:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Recapture pvp minigame for Mindustry"
   },
   {
     "repo": "J-VdS/TeamPlugin",
@@ -664,15 +664,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -997,15 +988,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "nya"
-  },
-  {
-    "repo": "Shadow53/MindustryAutoPausePlugin",
-    "name": "MindustryAutoPausePlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2022-06-26T06:45:32Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to automatically pause the game when no one is connected."
   },
   {
     "repo": "Shadow53/MindustryAdminPlugin",
