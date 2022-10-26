@@ -369,15 +369,6 @@
     "description": "Plugin made for the MindustryBR servers"
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Xpdustry Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-10-05T22:22:48Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -495,15 +486,6 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -574,15 +556,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -673,15 +646,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
