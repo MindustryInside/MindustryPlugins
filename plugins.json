@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-10-24T13:23:39Z",
+    "stars": 61,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -25,6 +34,15 @@
     "stars": 17,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -75,7 +93,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2022-10-28T18:55:34Z",
+    "lastUpdated": "2022-10-28T23:42:17Z",
     "stars": 7,
     "hasJava": true,
     "description": "No description provided."
@@ -115,6 +133,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
+  },
+  {
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -333,15 +360,6 @@
     "description": "Plugin made for the MindustryBR servers"
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Xpdustry Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-10-05T22:22:48Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "osp54/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx",
@@ -466,15 +484,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -657,13 +666,13 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
+    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
+    "name": "Mindustry-Discord-Relay",
+    "author": "ArchieJaskowicz",
+    "lastUpdated": "2020-02-02T13:41:36Z",
     "stars": 0,
     "hasJava": true,
-    "description": "A plugin that adds some basic features."
+    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -693,6 +702,15 @@
     "description": "A plugin for the worst server ewer."
   },
   {
+    "repo": "Blockzilla101/linker",
+    "name": "linker",
+    "author": "Blockzilla",
+    "lastUpdated": "2020-05-09T13:19:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to tie player admin status with a discord role"
+  },
+  {
     "repo": "jakubDoka/TWS-plugin",
     "name": "TWS-plugin",
     "author": "Mlokis",
@@ -702,6 +720,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "L0615T1C5-216AC-9437/vpn",
+    "name": "vpn",
+    "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+    "lastUpdated": "2020-08-20T06:09:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Detects and Blocks vpns after eough time"
+  },
+  {
     "repo": "J-VdS/BuilderGame",
     "name": "BuilderGame",
     "author": "Fishbuilder",
@@ -709,6 +736,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A new gamemode for mindustry."
+  },
+  {
+    "repo": "Vortetty/SimpleUtilsPlugin",
+    "name": "SimpleUtilsPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-09-28T03:46:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Patryk434/spawnUnit",
@@ -810,6 +846,15 @@
     "description": "A plugin that provides a network interface for foo's client."
   },
   {
+    "repo": "skykatik/AntiBot",
+    "name": "Anti Bot",
+    "author": "Skat",
+    "lastUpdated": "2021-05-21T21:58:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A simple plugin for kick bot accounts."
+  },
+  {
     "repo": "Quezler/Nukedustry",
     "name": "Nukedustry",
     "author": "Slava0135",
@@ -873,6 +918,15 @@
     "description": "Kick afk bois."
   },
   {
+    "repo": "laxtiz/mindustry-cheat",
+    "name": "mindustry-cheat",
+    "author": "laxtiz",
+    "lastUpdated": "2021-11-15T14:19:11Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Cheat like in StarCraft, need admin."
+  },
+  {
     "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
     "name": "MindustryUndergroundServer",
     "author": "Forest",
@@ -907,6 +961,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for chat management."
+  },
+  {
+    "repo": "Mythical-Forest-Collective/Mindustry.py",
+    "name": "Mindustry.py",
+    "author": "Anuke",
+    "lastUpdated": "2022-03-28T17:53:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Allen-B1/mindustry-plugin-template",
