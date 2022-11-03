@@ -369,6 +369,15 @@
     "description": "The mindustry plugin that improves the input of console commands."
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Xpdustry Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-11-03T10:13:15Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -484,6 +493,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -657,6 +675,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -664,6 +691,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
+    "name": "mindustry-plugin-tech-hexed",
+    "author": "TornadoTech",
+    "lastUpdated": "2022-07-10T13:39:25Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
@@ -691,6 +727,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
