@@ -48,7 +48,7 @@
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
-    "lastUpdated": "2021-04-09T21:15:46Z",
+    "lastUpdated": "2022-11-05T17:00:11Z",
     "stars": 12,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
@@ -133,15 +133,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "Darkness6030/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-10-09T08:02:02Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -270,6 +261,15 @@
     "description": "General-purpose server plugin, including interaction with discord"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-11-05T17:15:41Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -376,15 +376,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Adds bots to assist players."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Xpdustry Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T11:18:47Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -583,6 +574,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
