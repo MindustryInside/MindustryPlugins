@@ -270,6 +270,15 @@
     "description": "General-purpose server plugin, including interaction with discord"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-11-05T17:15:41Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
