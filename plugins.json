@@ -90,6 +90,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-03T13:35:36Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
@@ -135,13 +144,13 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-03T13:35:36Z",
+    "repo": "Darkness6030/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-10-09T08:02:02Z",
     "stars": 6,
     "hasJava": true,
-    "description": "Sectorized game mode"
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -709,15 +718,6 @@
     "stars": 1,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
