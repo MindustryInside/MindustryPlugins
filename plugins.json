@@ -507,7 +507,7 @@
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
-    "lastUpdated": "2022-11-07T21:52:24Z",
+    "lastUpdated": "2022-11-09T19:06:50Z",
     "stars": 2,
     "hasJava": true,
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
@@ -709,6 +709,15 @@
     "stars": 1,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
