@@ -153,6 +153,15 @@
     "description": "Example plugin to show some basic features."
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-11-14T19:21:37Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -264,7 +273,7 @@
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2022-11-14T12:53:35Z",
+    "lastUpdated": "2022-11-14T18:40:27Z",
     "stars": 4,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
