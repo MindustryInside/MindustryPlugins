@@ -36,15 +36,6 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -102,7 +93,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2022-11-10T10:39:58Z",
+    "lastUpdated": "2022-11-14T00:38:27Z",
     "stars": 7,
     "hasJava": true,
     "description": "No description provided."
@@ -738,15 +729,6 @@
     "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
-    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
-    "name": "Xenon-Mindustry-Plugin",
-    "author": "Iapetus11",
-    "lastUpdated": "2020-02-03T18:57:34Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "idk"
-  },
-  {
     "repo": "Neba-MD/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "Mlokis",
@@ -790,15 +772,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Detects and Blocks vpns after eough time"
-  },
-  {
-    "repo": "J-VdS/BuilderGame",
-    "name": "BuilderGame",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-09-04T09:32:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A new gamemode for mindustry."
   },
   {
     "repo": "Vortetty/SimpleUtilsPlugin",
