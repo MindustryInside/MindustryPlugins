@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2022-11-12T13:10:48Z",
+    "lastUpdated": "2022-11-14T03:18:25Z",
     "stars": 44,
     "hasJava": true,
     "description": "More commands and features."
@@ -34,6 +34,15 @@
     "stars": 17,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -441,15 +450,6 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -583,15 +583,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -729,6 +720,15 @@
     "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
+    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
+    "name": "Xenon-Mindustry-Plugin",
+    "author": "Iapetus11",
+    "lastUpdated": "2020-02-03T18:57:34Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "idk"
+  },
+  {
     "repo": "Neba-MD/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "Mlokis",
@@ -772,6 +772,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Detects and Blocks vpns after eough time"
+  },
+  {
+    "repo": "J-VdS/BuilderGame",
+    "name": "BuilderGame",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-09-04T09:32:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A new gamemode for mindustry."
   },
   {
     "repo": "Vortetty/SimpleUtilsPlugin",
