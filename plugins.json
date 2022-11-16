@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-10-24T13:23:39Z",
+    "stars": 61,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -21,8 +30,8 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2022-07-30T08:48:21Z",
-    "stars": 17,
+    "lastUpdated": "2022-11-16T16:35:48Z",
+    "stars": 18,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
   },
