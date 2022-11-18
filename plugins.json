@@ -252,15 +252,6 @@
     "description": "A lightweight hub plugin for servers."
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T17:15:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
@@ -502,15 +493,6 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
