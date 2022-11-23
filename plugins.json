@@ -81,15 +81,6 @@
     "description": "Hub plugin for Mindustry"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-21T02:27:40Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -97,6 +88,15 @@
     "stars": 8,
     "hasJava": true,
     "description": "Sectorized game mode"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-11-23T12:46:38Z",
+    "stars": 8,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -142,15 +142,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-11-20T09:48:44Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -241,15 +232,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T17:15:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -493,15 +475,6 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
