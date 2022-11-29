@@ -54,6 +54,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-26T11:51:36Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -88,15 +97,6 @@
     "stars": 8,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2022-11-26T11:51:36Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "Sectorized game mode"
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -241,6 +241,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-11-05T17:15:41Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -486,6 +495,15 @@
     "description": ""
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -700,15 +718,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
