@@ -495,6 +495,15 @@
     "description": ""
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
