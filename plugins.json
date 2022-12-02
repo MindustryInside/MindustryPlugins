@@ -3,7 +3,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2022-10-24T13:23:39Z",
+    "lastUpdated": "2022-12-02T11:52:15Z",
     "stars": 62,
     "hasJava": true,
     "description": "More commands and features."
@@ -144,15 +144,6 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-11-20T09:48:44Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -241,15 +232,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T17:15:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -495,15 +477,6 @@
     "description": ""
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -693,6 +666,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -700,6 +682,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "quantum-brokengrammar/kogtech_commands_plugin",
+    "name": "kogtech_commands_plugin",
+    "author": "quantum-brokengrammar",
+    "lastUpdated": "2022-12-02T10:08:06Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin for commands for the server."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -927,6 +918,15 @@
     "description": "A recreation of IO's plugin"
   },
   {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-08-30T09:12:08Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
     "repo": "MindustryModSeeker1/spawnUnit",
     "name": "spawnUnit",
     "author": "Nipple",
@@ -1008,6 +1008,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Allen-B1/mindustry-plugin-template",
+    "name": "Kotlin Example Plugin",
+    "author": "Allen-B1",
+    "lastUpdated": "2022-05-22T02:18:33Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "An example plugin"
+  },
+  {
     "repo": "KotMilkMeoWtwo/Domination",
     "name": "domination game mode",
     "author": "KotMilkMeoW",
@@ -1083,18 +1092,9 @@
     "repo": "Xpdustry/Nucleus",
     "name": "Nucleus",
     "author": "Xpdustry",
-    "lastUpdated": "2022-12-01T22:22:16Z",
+    "lastUpdated": "2022-12-02T13:09:22Z",
     "stars": 0,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "quantum-brokengrammar/kogtech_commands_plugin",
-    "name": "kogtech_commands_plugin",
-    "author": "quantum-brokengrammar",
-    "lastUpdated": "2022-12-02T10:08:06Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for commands for the server."
   }
 ]
