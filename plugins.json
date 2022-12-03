@@ -1026,6 +1026,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Allen-B1/mindustry-plugin-template",
+    "name": "Kotlin Example Plugin",
+    "author": "Allen-B1",
+    "lastUpdated": "2022-05-22T02:18:33Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "An example plugin"
+  },
+  {
     "repo": "KotMilkMeoWtwo/Domination",
     "name": "domination game mode",
     "author": "KotMilkMeoW",
