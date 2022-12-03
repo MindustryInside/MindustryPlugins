@@ -144,6 +144,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-11-20T09:48:44Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -666,15 +675,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -687,7 +687,7 @@
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
-    "lastUpdated": "2022-12-02T10:08:06Z",
+    "lastUpdated": "2022-12-03T05:05:20Z",
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for commands for the server."
