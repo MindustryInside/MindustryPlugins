@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-12-02T11:52:15Z",
+    "stars": 62,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -333,6 +342,15 @@
     "description": "Anti-grief, Vote kick/ban/map and, more"
   },
   {
+    "repo": "Ilya246/mapChange",
+    "name": "mapChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-05-25T10:20:47Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
     "repo": "Kowkodivka/BetterConsole",
     "name": "BetterConsole",
     "author": "OSPx, lucin",
@@ -459,15 +477,6 @@
     "description": "Allows players to change team."
   },
   {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-05-25T10:20:47Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
     "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
     "name": "mindustry-plugin-tech-hexed",
     "author": "TornadoTech",
@@ -558,6 +567,15 @@
     "description": "Core plugin of the mindustry.party server."
   },
   {
+    "repo": "Quezler/mindustry__plugin--bomberman",
+    "name": "mindustry__plugin--bomberman",
+    "author": "Quezler, Fishbuilder",
+    "lastUpdated": "2020-07-03T08:37:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "<insert thorium here>"
+  },
+  {
     "repo": "MindustryInside/RankedPlugin",
     "name": "RankedPlugin",
     "author": "MindustryInside",
@@ -565,6 +583,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -669,7 +696,7 @@
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
-    "lastUpdated": "2022-12-03T14:40:12Z",
+    "lastUpdated": "2022-12-04T04:13:18Z",
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for commands for the server."
