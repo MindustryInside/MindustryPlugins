@@ -450,15 +450,6 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -693,15 +684,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -720,15 +702,6 @@
     "description": "A plugin for commands for the server."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -745,15 +718,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1033,6 +997,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Allen-B1/mindustry-plugin-template",
+    "name": "Kotlin Example Plugin",
+    "author": "Allen-B1",
+    "lastUpdated": "2022-05-22T02:18:33Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "An example plugin"
   },
   {
     "repo": "KotMilkMeoWtwo/Domination",
