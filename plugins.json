@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2022-12-02T11:52:15Z",
-    "stars": 62,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -144,15 +135,6 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -241,15 +223,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T17:15:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -448,6 +421,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin to auto pause(resume) server when empty(or not)."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
@@ -684,6 +666,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -696,7 +687,7 @@
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
-    "lastUpdated": "2022-12-04T09:12:51Z",
+    "lastUpdated": "2022-12-05T09:17:20Z",
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for commands for the server."
@@ -1078,5 +1069,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-02T13:09:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
