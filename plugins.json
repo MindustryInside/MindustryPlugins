@@ -144,15 +144,6 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -241,15 +232,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T17:15:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -691,15 +673,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
