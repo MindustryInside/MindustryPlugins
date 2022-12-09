@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-12-02T11:52:15Z",
+    "stars": 63,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -25,6 +34,15 @@
     "stars": 17,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -585,15 +603,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -684,6 +693,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -691,6 +709,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "Agzam4/Mindustry-plugin",
+    "name": "Mindustry-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2022-12-08T19:44:20Z",
+    "stars": 1,
+    "hasJava": false,
+    "description": "New commands & core protection from thorium reactors"
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -945,6 +972,15 @@
     "description": "Cheat like in StarCraft, need admin."
   },
   {
+    "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
+    "name": "MindustryUndergroundServer",
+    "author": "Forest",
+    "lastUpdated": "2021-12-02T19:47:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
+  },
+  {
     "repo": "FitmoF/FHistory",
     "name": "FHistory",
     "author": "Fitmo",
@@ -1051,14 +1087,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
-    "repo": "Agzam4/Mindustry-plugin",
-    "name": "Mindustry-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2022-12-08T19:44:20Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "New commands & core protection from thorium reactors"
   }
 ]
