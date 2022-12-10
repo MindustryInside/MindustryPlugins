@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2022-12-06T15:37:41Z",
+    "lastUpdated": "2022-12-10T17:22:03Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -144,6 +144,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Fatonndev/MatrixHub-plugin",
     "name": "MatrixHub-plugin",
     "author": "KeviTV",
@@ -241,15 +250,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "A lightweight hub plugin for servers."
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-05T17:15:41Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -484,15 +484,6 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
@@ -990,15 +981,6 @@
     "description": "Cheat like in StarCraft, need admin."
   },
   {
-    "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
-    "name": "MindustryUndergroundServer",
-    "author": "Forest",
-    "lastUpdated": "2021-12-02T19:47:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
-  },
-  {
     "repo": "FitmoF/FHistory",
     "name": "FHistory",
     "author": "Fitmo",
@@ -1105,14 +1087,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-07T21:26:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
   }
 ]
