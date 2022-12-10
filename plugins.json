@@ -135,22 +135,13 @@
     "description": "A plugin to change map by /rtv."
   },
   {
-    "repo": "J-VdS/DiscordPlugin",
+    "repo": "j-vds/DiscordPlugin",
     "name": "DiscordPlugin",
     "author": "Fishbuilder",
     "lastUpdated": "2021-08-22T09:38:17Z",
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Fatonndev/MatrixHub-plugin",
@@ -210,7 +201,7 @@
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Pheonix Plugin",
     "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2022-12-09T20:36:19Z",
+    "lastUpdated": "2022-12-10T15:00:44Z",
     "stars": 5,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
@@ -468,7 +459,7 @@
     "description": "Based on AI antigrief plugin for Mindustry"
   },
   {
-    "repo": "J-VdS/pvpStatsPlugin",
+    "repo": "j-vds/pvpStatsPlugin",
     "name": "pvpStatsPlugin",
     "author": "Fishbuilder",
     "lastUpdated": "2021-09-13T15:28:20Z",
@@ -549,7 +540,7 @@
     "description": "That just sounds like autosave with extra steps..."
   },
   {
-    "repo": "J-VdS/mindustry__plugin--minduracing",
+    "repo": "j-vds/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
     "lastUpdated": "2020-02-07T17:05:41Z",
@@ -630,7 +621,7 @@
     "description": "Recapture pvp minigame for Mindustry"
   },
   {
-    "repo": "J-VdS/TeamPlugin",
+    "repo": "j-vds/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
     "lastUpdated": "2021-07-01T12:43:15Z",
@@ -729,6 +720,15 @@
     "description": "New commands & core protection from thorium reactors"
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -745,6 +745,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -783,7 +792,7 @@
     "description": "Detects and Blocks vpns after eough time"
   },
   {
-    "repo": "J-VdS/BuilderGame",
+    "repo": "j-vds/BuilderGame",
     "name": "BuilderGame",
     "author": "Fishbuilder",
     "lastUpdated": "2020-09-04T09:32:52Z",
@@ -918,7 +927,7 @@
     "description": "Units spawn a nuke on death"
   },
   {
-    "repo": "J-VdS/randomEnemySpawn",
+    "repo": "j-vds/randomEnemySpawn",
     "name": "randomEnemySpawn",
     "author": "Fishbuilder",
     "lastUpdated": "2021-06-27T17:54:44Z",
