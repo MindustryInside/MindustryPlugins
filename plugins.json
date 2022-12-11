@@ -4,7 +4,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2022-12-02T11:52:15Z",
-    "stars": 62,
+    "stars": 63,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -142,6 +142,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Fatonndev/MatrixHub-plugin",
@@ -714,19 +723,10 @@
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
-    "lastUpdated": "2022-12-09T14:54:48Z",
+    "lastUpdated": "2022-12-11T12:25:33Z",
     "stars": 1,
-    "hasJava": false,
-    "description": "New commands & core protection from thorium reactors"
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
     "hasJava": true,
-    "description": "A plugin that adds some basic features."
+    "description": "New command, core protection from thorium reactors and more"
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -745,15 +745,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1107,12 +1098,12 @@
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
   },
   {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T00:28:02Z",
+    "repo": "MV-Studio14/autopause",
+    "name": "autopause",
+    "author": "MV-Studio14",
+    "lastUpdated": "2022-12-11T12:49:38Z",
     "stars": 0,
     "hasJava": true,
-    "description": "No description provided."
+    "description": "Auto pause your game when there aren't players online"
   }
 ]
