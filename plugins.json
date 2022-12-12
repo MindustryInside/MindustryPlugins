@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2022-12-10T17:22:03Z",
+    "lastUpdated": "2022-12-12T09:36:46Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -693,6 +693,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -1087,5 +1096,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:39:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
