@@ -603,15 +603,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -702,40 +693,22 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
-    "repo": "Agzam4/Mindustry-plugin",
-    "name": "Mindustry-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2022-12-11T12:25:33Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "New command, core protection from thorium reactors and more"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2022-12-13T15:58:30Z",
+    "lastUpdated": "2022-12-14T12:45:18Z",
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
+    "repo": "Agzam4/Mindustry-plugin",
+    "name": "Mindustry-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2022-12-14T14:10:40Z",
+    "stars": 1,
     "hasJava": true,
-    "description": "A plugin that adds some basic features."
+    "description": "New command, core protection from thorium reactors and more"
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -754,15 +727,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1128,7 +1092,7 @@
     "repo": "Xpdustry/Nucleus",
     "name": "Nucleus",
     "author": "Xpdustry",
-    "lastUpdated": "2022-12-13T17:33:08Z",
+    "lastUpdated": "2022-12-14T11:47:02Z",
     "stars": 0,
     "hasJava": true,
     "description": "No description provided."
