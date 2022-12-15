@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2022-12-12T09:36:46Z",
-    "stars": 47,
+    "stars": 46,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -54,15 +54,6 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2022-11-26T11:51:36Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "Sectorized game mode"
-  },
-  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -88,6 +79,15 @@
     "stars": 8,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-26T11:51:36Z",
+    "stars": 8,
+    "hasJava": true,
+    "description": "Sectorized game mode"
   },
   {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
@@ -153,15 +153,6 @@
     "description": "It will work soon, I promise."
   },
   {
-    "repo": "Fatonndev/MatrixHub-plugin",
-    "name": "MatrixHub-plugin",
-    "author": "KeviTV",
-    "lastUpdated": "2022-12-10T03:45:44Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Better Hub plugin for servers"
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -205,15 +196,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
-  },
-  {
-    "repo": "TomtheCoder2/mainPlugin",
-    "name": "Pheonix Plugin",
-    "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2022-12-10T20:15:42Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "General-purpose server plugin, including interaction with discord"
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -261,13 +243,13 @@
     "description": "Plugin for thedimas' servers."
   },
   {
-    "repo": "Kowkodivka/BetterConsole",
-    "name": "BetterConsole",
-    "author": "OSPx, lucin",
-    "lastUpdated": "2022-12-10T06:54:17Z",
+    "repo": "Fatonndev/MatrixHub-plugin",
+    "name": "MatrixHub-plugin",
+    "author": "KeviTV",
+    "lastUpdated": "2022-12-10T03:45:44Z",
     "stars": 4,
     "hasJava": true,
-    "description": "The mindustry plugin that improves the input of console commands."
+    "description": "Better Hub plugin for servers"
   },
   {
     "repo": "Xpdustry/Javelin",
@@ -385,6 +367,24 @@
     "stars": 3,
     "hasJava": true,
     "description": "Adds bots to assist players."
+  },
+  {
+    "repo": "Kowkodivka/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx, lucin",
+    "lastUpdated": "2022-12-10T06:54:17Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
+    "repo": "TomtheCoder2/mainPlugin",
+    "name": "Pheonix Plugin",
+    "author": "Nautilus & Allen-B1",
+    "lastUpdated": "2022-12-10T20:15:42Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "General-purpose server plugin, including interaction with discord"
   },
   {
     "repo": "Anuken/EvalPlugin",
@@ -603,6 +603,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -693,15 +702,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
@@ -718,6 +718,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1096,5 +1105,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-14T11:47:02Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
