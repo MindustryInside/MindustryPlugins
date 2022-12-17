@@ -144,15 +144,6 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -250,15 +241,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -493,15 +475,6 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
@@ -1123,14 +1096,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-14T11:47:02Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
   }
 ]
