@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2022-12-02T11:52:15Z",
+    "stars": 63,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -133,15 +142,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -585,6 +585,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -696,7 +705,7 @@
     "repo": "Xpdustry/Router",
     "name": "Xpdustry RouterPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2022-12-14T12:45:18Z",
+    "lastUpdated": "2022-12-17T17:16:34Z",
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
@@ -705,7 +714,7 @@
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
-    "lastUpdated": "2022-12-15T14:05:44Z",
+    "lastUpdated": "2022-12-17T18:19:07Z",
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
