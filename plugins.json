@@ -252,6 +252,15 @@
     "description": "Better Hub plugin for servers"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -486,6 +495,15 @@
     "description": ""
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -574,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -1096,5 +1123,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-21T21:57:25Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
