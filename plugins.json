@@ -108,6 +108,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -142,15 +151,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -450,6 +450,15 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -484,6 +493,15 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
@@ -574,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -696,7 +723,7 @@
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
-    "lastUpdated": "2022-12-24T10:53:28Z",
+    "lastUpdated": "2022-12-24T16:45:40Z",
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
