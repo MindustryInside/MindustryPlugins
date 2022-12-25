@@ -723,7 +723,7 @@
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
-    "lastUpdated": "2022-12-24T16:45:40Z",
+    "lastUpdated": "2022-12-25T13:31:55Z",
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
@@ -754,15 +754,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
