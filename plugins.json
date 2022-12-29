@@ -495,15 +495,6 @@
     "description": ""
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -693,6 +684,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -720,6 +720,15 @@
     "description": "New command, core protection from thorium reactors and more"
   },
   {
+    "repo": "Agzam4/Mindustry-bugfixes-plugin",
+    "name": "Mindustry-bugfixes-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2022-12-29T14:27:07Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Bug fixed: PayloadConveyor"
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -736,6 +745,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1096,14 +1114,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
-  },
-  {
-    "repo": "Agzam4/Mindustry-bugfixes-plugin",
-    "name": "Mindustry-bugfixes-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2022-12-29T06:06:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Bug fixed: PayloadConveyor"
   }
 ]
