@@ -72,15 +72,6 @@
     "description": "nya"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-11-23T12:46:38Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -97,6 +88,15 @@
     "stars": 8,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
+  },
+  {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-30T16:22:57Z",
+    "stars": 8,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -250,6 +250,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -484,6 +493,15 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
