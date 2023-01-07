@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-07T12:48:29Z",
+    "stars": 64,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -97,15 +106,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -441,6 +441,15 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -576,15 +585,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "Gee-aitcH/GHMP-AdminChat",
     "name": "GHMP-AdminChat",
     "author": "(G_H)",
@@ -675,6 +675,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Xpdustry/Router",
     "name": "RouterPlugin",
     "author": "Xpdustry",
@@ -709,15 +718,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1107,12 +1107,12 @@
     "description": "Auto pause your game when there aren't players online"
   },
   {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
+    "repo": "SMOLKEYS/MindustryKTSEval",
+    "name": "MindustryKTSEval",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2023-01-07T14:28:21Z",
     "stars": 0,
     "hasJava": true,
-    "description": "No description provided."
+    "description": "Allows evaluation of KotlinScript in the chatbox."
   }
 ]
