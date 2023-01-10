@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-09T15:39:59Z",
+    "lastUpdated": "2023-01-10T03:26:24Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -106,6 +106,15 @@
     "stars": 7,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -241,6 +250,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -468,6 +486,15 @@
     "description": ""
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -489,7 +516,7 @@
     "repo": "Xpdustry/NoPayloadConveyorCrash",
     "name": "NoPayloadConveyorCrashPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2023-01-07T22:03:17Z",
+    "lastUpdated": "2023-01-10T03:53:16Z",
     "stars": 2,
     "hasJava": true,
     "description": "No more payload conveyor crashes."
@@ -664,6 +691,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
+  },
+  {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
   },
   {
     "repo": "Xpdustry/Router",
@@ -1096,6 +1132,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "SMOLKEYS/MindustryKTSEval",
