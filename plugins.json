@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-01-07T12:48:29Z",
-    "stars": 65,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -106,15 +97,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -250,15 +232,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -441,15 +414,6 @@
     "description": "Mindustry Chat Bot."
   },
   {
-    "repo": "pisceskkk/Mindustry_ServerAutoPause",
-    "name": "Mindustry_ServerAutoPause",
-    "author": "pisceskkk",
-    "lastUpdated": "2021-08-11T09:28:59Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin to auto pause(resume) server when empty(or not)."
-  },
-  {
     "repo": "janu8ry/MinDiscord",
     "name": "MinDiscord",
     "author": "janu8ry",
@@ -495,15 +459,6 @@
     "description": ""
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -529,6 +484,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "No more payload conveyor crashes."
+  },
+  {
+    "repo": "pisceskkk/Mindustry_ServerAutoPause",
+    "name": "Mindustry_ServerAutoPause",
+    "author": "pisceskkk",
+    "lastUpdated": "2023-01-11T10:17:42Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -657,15 +621,6 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "pisceskkk/Mindustry_ServerAutoSave",
-    "name": "Mindustry_ServerAutoSave",
-    "author": "pisceskkk",
-    "lastUpdated": "2021-08-11T16:28:46Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to auto save the game."
-  },
-  {
     "repo": "ZetaMap/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
@@ -702,15 +657,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Xpdustry/Router",
     "name": "RouterPlugin",
     "author": "Xpdustry",
@@ -738,10 +684,19 @@
     "description": "A plugin for commands for the server."
   },
   {
+    "repo": "pisceskkk/Mindustry_ServerAutoSave",
+    "name": "Mindustry_ServerAutoSave",
+    "author": "pisceskkk",
+    "lastUpdated": "2023-01-11T10:16:53Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to auto save the game."
+  },
+  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
-    "lastUpdated": "2023-01-10T13:42:33Z",
+    "lastUpdated": "2023-01-11T13:40:31Z",
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
