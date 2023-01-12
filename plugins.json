@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-01-07T12:48:29Z",
-    "stars": 65,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -34,15 +25,6 @@
     "stars": 17,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
-  },
-  {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 14,
-    "hasJava": true,
-    "description": "More commands and features."
   },
   {
     "repo": "MindustryInside/JSEval",
@@ -108,6 +90,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -133,6 +124,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
+  },
+  {
+    "repo": "j-vds/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-08-22T09:38:17Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "interaction with discord"
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -576,6 +576,15 @@
     "description": "Saves the username of each joined user and prohibits impersonations."
   },
   {
+    "repo": "MindustryParty/Plugin",
+    "name": "Plugin",
+    "author": "NoahvdAa",
+    "lastUpdated": "2020-05-30T16:47:03Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Core plugin of the mindustry.party server."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--bomberman",
     "name": "mindustry__plugin--bomberman",
     "author": "Quezler, Fishbuilder",
@@ -682,15 +691,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "-"
-  },
-  {
-    "repo": "Xpdustry/Router",
-    "name": "RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-23T14:45:21Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
   },
   {
     "repo": "Agzam4/Mindustry-bugfixes-plugin",
@@ -835,6 +835,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "fuzzbuck/io-global-bans",
@@ -1096,15 +1105,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "SMOLKEYS/MindustryKTSEval",
