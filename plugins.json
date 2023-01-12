@@ -108,15 +108,6 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -142,15 +133,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "j-vds/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-08-22T09:38:17Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "interaction with discord"
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -540,6 +522,15 @@
     "description": "A plugin to auto save the game."
   },
   {
+    "repo": "quantum-brokengrammar/kogtech_commands_plugin",
+    "name": "kogtech_commands_plugin",
+    "author": "quantum-brokengrammar",
+    "lastUpdated": "2023-01-12T09:40:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin for commands for the server."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -585,13 +576,13 @@
     "description": "Saves the username of each joined user and prohibits impersonations."
   },
   {
-    "repo": "MindustryParty/Plugin",
-    "name": "Plugin",
-    "author": "NoahvdAa",
-    "lastUpdated": "2020-05-30T16:47:03Z",
+    "repo": "Quezler/mindustry__plugin--bomberman",
+    "name": "mindustry__plugin--bomberman",
+    "author": "Quezler, Fishbuilder",
+    "lastUpdated": "2020-07-03T08:37:14Z",
     "stars": 1,
     "hasJava": true,
-    "description": "Core plugin of the mindustry.party server."
+    "description": "<insert thorium here>"
   },
   {
     "repo": "MindustryInside/RankedPlugin",
@@ -709,15 +700,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bug fixed: PayloadConveyor"
-  },
-  {
-    "repo": "quantum-brokengrammar/kogtech_commands_plugin",
-    "name": "kogtech_commands_plugin",
-    "author": "quantum-brokengrammar",
-    "lastUpdated": "2023-01-07T06:33:27Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin for commands for the server."
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
@@ -855,15 +837,6 @@
     "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
-  },
-  {
     "repo": "fuzzbuck/io-global-bans",
     "name": "io-global-bans",
     "author": "fuzzbuck",
@@ -954,6 +927,15 @@
     "description": "A recreation of IO's plugin"
   },
   {
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-08-30T09:12:08Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Mindustry Server Plugin Template written by Kotlin"
+  },
+  {
     "repo": "MindustryModSeeker1/spawnUnit",
     "name": "spawnUnit",
     "author": "Nipple",
@@ -990,6 +972,15 @@
     "description": "Cheat like in StarCraft, need admin."
   },
   {
+    "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
+    "name": "MindustryUndergroundServer",
+    "author": "Forest",
+    "lastUpdated": "2021-12-02T19:47:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
+  },
+  {
     "repo": "FitmoF/FHistory",
     "name": "FHistory",
     "author": "Fitmo",
@@ -1015,6 +1006,24 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for chat management."
+  },
+  {
+    "repo": "Mythical-Forest-Collective/Mindustry.py",
+    "name": "Mindustry.py",
+    "author": "Anuke",
+    "lastUpdated": "2022-03-28T17:53:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Allen-B1/mindustry-plugin-template",
+    "name": "Kotlin Example Plugin",
+    "author": "Allen-B1",
+    "lastUpdated": "2022-05-22T02:18:33Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "An example plugin"
   },
   {
     "repo": "KotMilkMeoWtwo/Domination",
@@ -1087,6 +1096,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "SMOLKEYS/MindustryKTSEval",
