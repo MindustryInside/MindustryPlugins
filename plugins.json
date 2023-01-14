@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 65,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -31,7 +40,7 @@
     "name": "MyMindustryPlugin",
     "author": "WayZer",
     "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 14,
+    "stars": 13,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -66,7 +75,7 @@
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
-    "lastUpdated": "2023-01-10T20:59:14Z",
+    "lastUpdated": "2023-01-14T19:24:52Z",
     "stars": 9,
     "hasJava": true,
     "description": "Sectorized game mode"
@@ -97,15 +106,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -241,15 +241,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -495,15 +486,6 @@
     "description": ""
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "mindustry-antigrief/mindustry-plugin",
     "name": "mindustry-plugin",
     "author": "buthed010203",
@@ -682,6 +664,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
+    "name": "potato-mindustry-plugin",
+    "author": "Potato Chronicler",
+    "lastUpdated": "2022-04-20T08:24:24Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Potato plugin to do potato specific things"
   },
   {
     "repo": "deltanedas/MatrixBridge",
@@ -1123,15 +1114,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Auto pause your game when there aren't players online"
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "SMOLKEYS/MindustryKTSEval",
