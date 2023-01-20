@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-01-13T04:24:20Z",
-    "stars": 65,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -88,15 +79,6 @@
     "stars": 8,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2022-12-03T10:16:18Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Xpdustry/Distributor",
@@ -243,6 +225,15 @@
     "description": "A lightweight hub plugin for servers."
   },
   {
+    "repo": "Ilya246/assistBots",
+    "name": "assistBots",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-11-04T09:53:10Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Adds bots to assist players."
+  },
+  {
     "repo": "Fatonndev/MatrixHub-plugin",
     "name": "MatrixHub-plugin",
     "author": "KeviTV",
@@ -315,6 +306,15 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
+    "repo": "j-vds/pvpStatsPlugin",
+    "name": "pvpStatsPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-09-13T15:28:20Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Show the amount of games won by a player!"
+  },
+  {
     "repo": "mindustry-antigrief/SteamServer",
     "name": "SteamServer",
     "author": "mindustry-antigrief",
@@ -342,6 +342,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -358,15 +367,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
-  },
-  {
-    "repo": "Ilya246/assistBots",
-    "name": "assistBots",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-11-04T09:53:10Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Adds bots to assist players."
   },
   {
     "repo": "Kowkodivka/BetterConsole",
@@ -477,15 +477,6 @@
     "description": "Based on AI antigrief plugin for Mindustry"
   },
   {
-    "repo": "j-vds/pvpStatsPlugin",
-    "name": "pvpStatsPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-09-13T15:28:20Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Show the amount of games won by a player!"
-  },
-  {
     "repo": "Ilya246/teamChange",
     "name": "teamChange",
     "author": "[USMP]Ilya246",
@@ -502,15 +493,6 @@
     "stars": 2,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
@@ -621,13 +603,13 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
+    "repo": "GaviTSRA/TSR-AntiLogicVirus",
+    "name": "TSR-AntiLogicVirus",
+    "author": "GaviTSRA",
+    "lastUpdated": "2021-04-05T19:41:35Z",
     "stars": 1,
     "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
+    "description": "The anti-virus plugin for mindustry."
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
@@ -646,6 +628,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
+    "repo": "j-vds/randomEnemySpawn",
+    "name": "randomEnemySpawn",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T17:54:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Spawns enemies in a random location..."
   },
   {
     "repo": "j-vds/TeamPlugin",
@@ -718,6 +709,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "-"
+  },
+  {
+    "repo": "Vitalij3/admin-commands-plugin",
+    "name": "admin-commands-plugin",
+    "author": "Salatosik",
+    "lastUpdated": "2022-10-27T15:41:26Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
   },
   {
     "repo": "Xpdustry/Router",
@@ -900,15 +900,6 @@
     "description": "heck"
   },
   {
-    "repo": "GaviTSRA/TSR-AntiLogicVirus",
-    "name": "TSR-AntiLogicVirus",
-    "author": "GaviTSRA",
-    "lastUpdated": "2021-04-05T19:41:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "The anti-virus plugin for mindustry."
-  },
-  {
     "repo": "mindustry-antigrief/PacketPlugin",
     "name": "PacketPlugin",
     "author": "foo",
@@ -934,15 +925,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "j-vds/randomEnemySpawn",
-    "name": "randomEnemySpawn",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T17:54:44Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Spawns enemies in a random location..."
   },
   {
     "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
@@ -1105,15 +1087,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "I haz no idea ..."
-  },
-  {
-    "repo": "Vitalij3/admin-commands-plugin",
-    "name": "admin-commands-plugin",
-    "author": "Salatosik",
-    "lastUpdated": "2022-10-27T15:41:26Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
   },
   {
     "repo": "MV-Studio14/autopause",
