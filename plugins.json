@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 64,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -54,6 +63,24 @@
     "description": "nya"
   },
   {
+    "repo": "Xpdustry/Distributor",
+    "name": "Distributor",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-22T08:37:25Z",
+    "stars": 10,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -79,15 +106,6 @@
     "stars": 8,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-12T02:00:41Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -241,6 +259,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -754,6 +781,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
