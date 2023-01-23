@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-22T16:06:26Z",
+    "lastUpdated": "2023-01-23T17:28:56Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -70,6 +70,15 @@
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2022-12-03T10:16:18Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
@@ -450,6 +459,15 @@
     "description": "Mindustry Chat Bot."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -585,6 +603,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -684,6 +711,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -736,6 +772,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -954,7 +999,7 @@
     "description": "Cheat like in StarCraft, need admin."
   },
   {
-    "repo": "Mythical-Forest-Collective/MindustryUndergroundServer",
+    "repo": "Yu-Vitaqua-faar-Chronos/MindustryUndergroundServer",
     "name": "MindustryUndergroundServer",
     "author": "Forest",
     "lastUpdated": "2021-12-02T19:47:18Z",
@@ -990,7 +1035,7 @@
     "description": "A plugin for chat management."
   },
   {
-    "repo": "Mythical-Forest-Collective/Mindustry.py",
+    "repo": "Yu-Vitaqua-faar-Chronos/Mindustry.py",
     "name": "Mindustry.py",
     "author": "Anuke",
     "lastUpdated": "2022-03-28T17:53:22Z",
@@ -1078,5 +1123,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   }
 ]
