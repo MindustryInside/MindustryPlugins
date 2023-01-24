@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-24T09:38:32Z",
+    "lastUpdated": "2023-01-24T16:01:53Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -31,7 +31,7 @@
     "name": "morecommands",
     "author": "ZetaMap",
     "lastUpdated": "2022-11-16T16:35:48Z",
-    "stars": 17,
+    "stars": 18,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
   },
@@ -144,15 +144,6 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "Anuken/RateLimitPlugin",
-    "name": "RateLimitPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2020-05-15T19:34:01Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Imposes a configuration rate limit."
-  },
-  {
     "repo": "MindustryInside/TheInspection",
     "name": "TheInspection",
     "author": "Mindustry Inside",
@@ -205,6 +196,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
+  },
+  {
+    "repo": "Anuken/RateLimitPlugin",
+    "name": "RateLimitPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2020-05-15T19:34:01Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Imposes a configuration rate limit."
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -700,6 +700,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
+  },
+  {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
