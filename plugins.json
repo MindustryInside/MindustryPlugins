@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-24T16:01:53Z",
+    "lastUpdated": "2023-01-25T04:17:53Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -88,15 +88,6 @@
     "stars": 9,
     "hasJava": true,
     "description": "Sectorized game mode"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
@@ -360,15 +351,6 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -466,6 +448,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
@@ -603,15 +594,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -736,15 +718,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bug fixed: PayloadConveyor"
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
@@ -1132,5 +1105,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   }
 ]
