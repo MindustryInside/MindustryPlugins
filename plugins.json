@@ -477,6 +477,15 @@
     "description": "Mindustry Chat Bot."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -610,6 +619,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -747,15 +765,6 @@
     "description": "Bug fixed: PayloadConveyor"
   },
   {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -763,15 +772,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "New command, core protection from thorium reactors and more"
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1141,5 +1141,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   }
 ]
