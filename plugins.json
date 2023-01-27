@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-25T04:17:53Z",
+    "lastUpdated": "2023-01-27T01:43:58Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -66,7 +66,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-01-27T00:23:50Z",
+    "lastUpdated": "2023-01-27T01:24:07Z",
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
@@ -270,6 +270,15 @@
     "description": "Better Hub plugin for servers"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Pheonix Plugin",
     "author": "Nautilus & Allen-B1",
@@ -277,6 +286,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
+  },
+  {
+    "repo": "Gee-aitcH/GHMP-NukeAlert",
+    "name": "GHMP-NukeAlert",
+    "author": "(G_H)",
+    "lastUpdated": "2019-10-19T18:35:20Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Simple Nuke Alert plugin for server."
   },
   {
     "repo": "Loxoz/MindustryJSPlugin",
@@ -358,6 +376,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -585,15 +612,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -727,6 +745,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bug fixed: PayloadConveyor"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
@@ -1114,14 +1141,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   }
 ]
