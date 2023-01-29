@@ -153,6 +153,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "Kycb42148/KycbPlugin",
+    "name": "KycbPlugin",
+    "author": "Kycb42148",
+    "lastUpdated": "2022-07-25T17:02:05Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Plugin for my server"
+  },
+  {
     "repo": "MindustryInside/TheInspection",
     "name": "TheInspection",
     "author": "Mindustry Inside",
@@ -169,15 +178,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Fight against hordes of crawlers"
-  },
-  {
-    "repo": "Kycb42148/KycbPlugin",
-    "name": "KycbPlugin",
-    "author": "Kycb42148",
-    "lastUpdated": "2022-07-25T17:02:05Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Plugin for my server"
   },
   {
     "repo": "Pointifix/HistoryPlugin",
@@ -268,15 +268,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "TomtheCoder2/mainPlugin",
@@ -477,15 +468,6 @@
     "description": "Mindustry Chat Bot."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -621,6 +603,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -754,6 +745,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bug fixed: PayloadConveyor"
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
