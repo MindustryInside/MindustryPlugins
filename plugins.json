@@ -40,7 +40,7 @@
     "name": "MyMindustryPlugin",
     "author": "WayZer",
     "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 13,
+    "stars": 14,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -66,7 +66,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-01-27T01:24:07Z",
+    "lastUpdated": "2023-01-30T16:09:36Z",
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
@@ -88,15 +88,6 @@
     "stars": 9,
     "hasJava": true,
     "description": "Sectorized game mode"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
@@ -268,15 +259,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "TomtheCoder2/mainPlugin",
@@ -475,15 +457,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
