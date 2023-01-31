@@ -1,18 +1,9 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-01-13T04:24:20Z",
-    "stars": 64,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-30T00:13:25Z",
+    "lastUpdated": "2023-01-31T00:45:21Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -30,7 +21,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2023-01-25T18:28:10Z",
+    "lastUpdated": "2023-01-30T23:19:32Z",
     "stars": 18,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -66,7 +57,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-01-30T16:09:36Z",
+    "lastUpdated": "2023-01-30T21:17:39Z",
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
@@ -88,6 +79,15 @@
     "stars": 9,
     "hasJava": true,
     "description": "Sectorized game mode"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
@@ -259,6 +259,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "TomtheCoder2/mainPlugin",
@@ -592,15 +601,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -1150,14 +1150,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   }
 ]
