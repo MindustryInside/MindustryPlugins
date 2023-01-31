@@ -4,7 +4,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2023-01-13T04:24:20Z",
-    "stars": 64,
+    "stars": 65,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -30,7 +30,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2023-01-31T10:08:48Z",
+    "lastUpdated": "2023-01-31T10:12:47Z",
     "stars": 18,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -264,7 +264,7 @@
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Pheonix Plugin",
     "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2023-01-27T21:02:15Z",
+    "lastUpdated": "2023-01-31T15:04:24Z",
     "stars": 4,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
@@ -702,6 +702,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -729,6 +738,15 @@
     "description": "Bug fixed: PayloadConveyor"
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -745,6 +763,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -835,6 +862,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "A plugin for spawn units."
+  },
+  {
+    "repo": "Kickbut101/MultiplayerPausePlugin",
+    "name": "MultiplayerPausePlugin",
+    "author": "Andy",
+    "lastUpdated": "2020-12-20T22:11:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "Volas171/AlexServerPlugin",
@@ -1114,5 +1150,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   }
 ]
