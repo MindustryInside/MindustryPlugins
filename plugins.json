@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 64,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -21,7 +30,7 @@
     "repo": "ZetaMap/moreCommands",
     "name": "morecommands",
     "author": "ZetaMap",
-    "lastUpdated": "2023-01-30T23:19:32Z",
+    "lastUpdated": "2023-01-31T10:08:48Z",
     "stars": 18,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
@@ -79,15 +88,6 @@
     "stars": 9,
     "hasJava": true,
     "description": "Sectorized game mode"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
@@ -450,6 +450,15 @@
     "description": "Mindustry Chat Bot."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -583,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -747,6 +765,15 @@
     "description": "idk"
   },
   {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
     "name": "The-worst-mindustry-plugin",
     "author": "Mlokis",
@@ -808,15 +835,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "Kickbut101/MultiplayerPausePlugin",
-    "name": "MultiplayerPausePlugin",
-    "author": "Andy",
-    "lastUpdated": "2020-12-20T22:11:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "Volas171/AlexServerPlugin",
@@ -1096,14 +1114,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   }
 ]
