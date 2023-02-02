@@ -36,15 +36,6 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 14,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -270,15 +261,6 @@
     "description": "Better Hub plugin for servers"
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Pheonix Plugin",
     "author": "Nautilus & Allen-B1",
@@ -376,15 +358,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -736,15 +709,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
