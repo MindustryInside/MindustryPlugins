@@ -378,6 +378,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -612,15 +621,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -702,15 +702,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
-  },
-  {
     "repo": "deltanedas/MatrixBridge",
     "name": "MatrixBridge",
     "author": "deltanedas",
@@ -747,6 +738,15 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -763,6 +763,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -952,15 +961,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
