@@ -1,9 +1,18 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 65,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-02-03T03:44:12Z",
+    "lastUpdated": "2023-02-03T16:19:45Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -108,6 +117,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "osp54/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx",
+    "lastUpdated": "2022-10-13T09:55:46Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -151,15 +169,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Plugin for my server"
-  },
-  {
-    "repo": "osp54/BetterConsole",
-    "name": "BetterConsole",
-    "author": "OSPx",
-    "lastUpdated": "2022-10-13T09:55:46Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "The mindustry plugin that improves the input of console commands."
   },
   {
     "repo": "MindustryInside/TheInspection",
@@ -273,7 +282,7 @@
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Pheonix Plugin",
     "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2023-01-31T20:10:09Z",
+    "lastUpdated": "2023-02-03T18:22:31Z",
     "stars": 4,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
@@ -612,15 +621,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -783,6 +783,15 @@
     "description": "A companion plugin for Kotlin based plugins."
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -799,6 +808,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1150,14 +1168,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   }
 ]
