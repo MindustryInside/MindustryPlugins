@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-01-31T01:02:26Z",
+    "lastUpdated": "2023-02-03T03:44:12Z",
     "stars": 47,
     "hasJava": true,
     "description": "More commands and features."
@@ -31,7 +31,7 @@
     "name": "morecommands",
     "author": "ZetaMap",
     "lastUpdated": "2023-01-31T10:12:47Z",
-    "stars": 18,
+    "stars": 19,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
   },
