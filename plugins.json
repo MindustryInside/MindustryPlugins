@@ -54,6 +54,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 10,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
@@ -439,15 +448,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
