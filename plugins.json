@@ -54,6 +54,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2023-01-15T17:56:34Z",
+    "stars": 10,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "xzxADIxzx/Hex-Industry",
     "name": "Hex Industry",
     "author": "xzxADIxzx, Darkness6030",
@@ -66,7 +75,7 @@
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
-    "lastUpdated": "2023-01-28T15:30:21Z",
+    "lastUpdated": "2023-02-06T15:37:24Z",
     "stars": 10,
     "hasJava": true,
     "description": "nya"
@@ -75,7 +84,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-02-06T02:34:42Z",
+    "lastUpdated": "2023-02-06T17:00:24Z",
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
@@ -88,15 +97,6 @@
     "stars": 9,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2023-01-15T17:56:34Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "Sectorized game mode"
   },
   {
     "repo": "MindustryInside/PluginBrowser",
@@ -219,7 +219,7 @@
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Phoenix Plugin",
     "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2023-02-05T11:47:36Z",
+    "lastUpdated": "2023-02-06T17:51:48Z",
     "stars": 5,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
@@ -277,15 +277,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
-  },
-  {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -765,6 +756,15 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-01-06T15:50:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -781,15 +781,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1168,5 +1159,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   }
 ]
