@@ -279,6 +279,15 @@
     "description": "Better Hub plugin for servers"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -783,6 +792,15 @@
     "description": "A companion plugin for Kotlin based plugins."
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -1159,14 +1177,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   }
 ]
