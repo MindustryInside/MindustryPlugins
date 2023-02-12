@@ -369,15 +369,6 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -754,15 +745,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-01-06T15:50:57Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
