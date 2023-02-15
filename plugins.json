@@ -441,6 +441,15 @@
     "description": "Mindustry Chat Bot."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -1132,5 +1141,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   }
 ]
