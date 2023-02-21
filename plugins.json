@@ -63,6 +63,15 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -279,15 +288,6 @@
     "description": "Simple Nuke Alert plugin for server."
   },
   {
-    "repo": "Loxoz/MindustryJSPlugin",
-    "name": "MindustryJSPlugin",
-    "author": "Loxoz",
-    "lastUpdated": "2019-11-10T04:38:00Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
-  },
-  {
     "repo": "deng-rui/plugins-mission",
     "name": "plugins-mission",
     "author": "Dr",
@@ -394,6 +394,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
+  },
+  {
+    "repo": "Loxoz/MindustryJSPlugin",
+    "name": "MindustryJSPlugin",
+    "author": "Loxoz",
+    "lastUpdated": "2019-11-10T04:38:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
   },
   {
     "repo": "Quezler/mindustry__plugin--flatearth",
@@ -594,15 +603,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -709,15 +709,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
@@ -1125,6 +1116,15 @@
     "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
+  },
+  {
     "repo": "Xpdustry/HexedPluginReloaded",
     "name": "HexedPluginReloaded",
     "author": "Xpdustry",
@@ -1132,5 +1132,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A reimplementation of the hexed gamemode, with more features and better performances."
+  },
+  {
+    "repo": "AtomSnow/norussians",
+    "name": "norussians",
+    "author": "AtomSnow",
+    "lastUpdated": "2023-02-21T18:00:54Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
   }
 ]
