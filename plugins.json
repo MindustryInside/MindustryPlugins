@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 65,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -27,6 +36,15 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
@@ -43,15 +61,6 @@
     "stars": 11,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -585,6 +594,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -736,15 +754,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1114,15 +1123,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
