@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -117,6 +126,15 @@
     "description": "The mindustry plugin that improves the input of console commands."
   },
   {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-02-23T14:26:21Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -160,15 +178,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Plugin for my server"
-  },
-  {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-22T15:12:51Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
   },
   {
     "repo": "MindustryInside/TheInspection",
@@ -270,6 +279,15 @@
     "description": "Better Hub plugin for servers"
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -340,6 +358,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -781,15 +808,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
