@@ -459,6 +459,15 @@
     "description": "Mindustry Chat Bot."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -720,6 +729,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -763,15 +781,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "New command, events, core protection from thorium reactors and more"
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-02-23T23:21:13Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
