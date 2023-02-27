@@ -84,7 +84,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-02-22T12:27:23Z",
+    "lastUpdated": "2023-02-26T23:10:15Z",
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
@@ -466,15 +466,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
-  },
-  {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
@@ -1177,15 +1168,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
