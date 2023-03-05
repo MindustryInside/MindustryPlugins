@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 67,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -387,6 +396,15 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
+    "repo": "mindustry-antigrief/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "buthed010203",
+    "lastUpdated": "2023-01-31T17:28:31Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
+  },
+  {
     "repo": "Ilya246/mapChange",
     "name": "mapChange",
     "author": "[USMP]Ilya246",
@@ -513,15 +531,6 @@
     "description": "A plugin for commands for the server."
   },
   {
-    "repo": "mindustry-antigrief/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "buthed010203",
-    "lastUpdated": "2023-01-31T17:28:31Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
-  },
-  {
     "repo": "Ilya246/teamChange",
     "name": "teamChange",
     "author": "[USMP]Ilya246",
@@ -619,15 +628,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
-  },
-  {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -738,6 +738,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -783,6 +792,15 @@
     "description": "No description provided."
   },
   {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -799,6 +817,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
