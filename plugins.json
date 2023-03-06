@@ -360,6 +360,15 @@
     "description": "Anti-grief, Vote kick/ban/map and, more"
   },
   {
+    "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
+    "name": "mindustry-plugin-tech-hexed",
+    "author": "TornadoTech",
+    "lastUpdated": "2022-07-10T13:39:25Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "GitIcon65/LABORATORY",
     "name": "LABORATORY",
     "author": "[I.C.]IC-0npc",
@@ -495,15 +504,6 @@
     "description": "Based on AI antigrief plugin for Mindustry"
   },
   {
-    "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
-    "name": "mindustry-plugin-tech-hexed",
-    "author": "TornadoTech",
-    "lastUpdated": "2022-07-10T13:39:25Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
     "name": "GlobalImageBan",
     "author": "L0615T1C5.216AC:9437's cat",
@@ -610,15 +610,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Core plugin of the mindustry.party server."
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--bomberman",
-    "name": "mindustry__plugin--bomberman",
-    "author": "Quezler, Fishbuilder",
-    "lastUpdated": "2020-07-03T08:37:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "<insert thorium here>"
   },
   {
     "repo": "MindustryInside/RankedPlugin",
@@ -745,15 +736,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
@@ -898,6 +880,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "fuzzbuck/io-global-bans",
@@ -1107,7 +1098,7 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "NgLam2911/SimpleRTV",
+    "repo": "MindustryVN/SimpleRTV",
     "name": "SimpleRTV",
     "author": "NgLam2911",
     "lastUpdated": "2022-09-08T03:55:07Z",
