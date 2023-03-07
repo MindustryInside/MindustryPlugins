@@ -270,15 +270,6 @@
     "description": "Better Hub plugin for servers"
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -358,15 +349,6 @@
     "stars": 3,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -621,15 +603,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -738,15 +711,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -783,15 +747,6 @@
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
   },
   {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-02-23T23:21:13Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -808,15 +763,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -907,15 +853,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
-  },
-  {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "fuzzbuck/io-global-bans",
@@ -1177,5 +1114,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A reimplementation of the hexed gamemode, with more features and better performances."
+  },
+  {
+    "repo": "akhial/mapvote",
+    "name": "Map Vote Plugin",
+    "author": "Stormy",
+    "lastUpdated": "2023-03-07T14:48:09Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A simple map vote plugin."
   }
 ]
