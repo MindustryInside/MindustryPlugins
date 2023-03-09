@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-01-13T04:24:20Z",
-    "stars": 67,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -70,15 +61,6 @@
     "stars": 11,
     "hasJava": true,
     "description": "Sectorized game mode"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
@@ -279,15 +261,6 @@
     "description": "Better Hub plugin for servers"
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-12-11T17:28:28Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
     "name": "Mindustry_ServerAutoPause",
     "author": "pisceskkk",
@@ -376,15 +349,6 @@
     "stars": 3,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -540,15 +504,6 @@
     "description": "Allows players to change team."
   },
   {
-    "repo": "Agzam4/Mindustry-plugin",
-    "name": "Mindustry-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2023-02-23T15:56:35Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "New command, events, core protection from thorium reactors and more"
-  },
-  {
     "repo": "Xpdustry/NoPayloadConveyorCrash",
     "name": "NoPayloadConveyorCrashPlugin",
     "author": "Xpdustry",
@@ -556,6 +511,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "No more payload conveyor crashes."
+  },
+  {
+    "repo": "Agzam4/Mindustry-plugin",
+    "name": "Mindustry-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2023-03-09T12:43:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "New command, events, core protection from thorium reactors and more"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -765,13 +729,13 @@
     "description": "A companion plugin for Kotlin based plugins."
   },
   {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-02-23T23:21:13Z",
+    "stars": 1,
     "hasJava": true,
-    "description": "A plugin that adds some basic features."
+    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -790,15 +754,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
