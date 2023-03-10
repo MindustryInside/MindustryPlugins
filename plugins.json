@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2023-03-07T00:08:03Z",
-    "stars": 48,
+    "stars": 49,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -34,6 +34,15 @@
     "stars": 20,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "More commands and features."
   },
   {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
@@ -468,6 +477,15 @@
     "description": "Based on AI antigrief plugin for Mindustry"
   },
   {
+    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
+    "name": "GlobalImageBan",
+    "author": "L0615T1C5.216AC:9437's cat",
+    "lastUpdated": "2022-11-15T23:43:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Checks if logic image code is banned"
+  },
+  {
     "repo": "pisceskkk/Mindustry_ServerAutoSave",
     "name": "Mindustry_ServerAutoSave",
     "author": "pisceskkk",
@@ -583,6 +601,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -1116,15 +1143,6 @@
     "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
-  },
-  {
     "repo": "Xpdustry/HexedPluginReloaded",
     "name": "HexedPluginReloaded",
     "author": "Xpdustry",
@@ -1141,14 +1159,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
-  },
-  {
-    "repo": "akhial/mapvote",
-    "name": "Map Vote Plugin",
-    "author": "Stormy",
-    "lastUpdated": "2023-03-07T14:48:09Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A simple map vote plugin."
   }
 ]
