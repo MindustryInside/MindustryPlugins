@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-01-13T04:24:20Z",
+    "stars": 67,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -450,15 +459,6 @@
     "description": "Mindustry Chat Bot."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -756,6 +756,15 @@
     "description": "idk"
   },
   {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
     "name": "The-worst-mindustry-plugin",
     "author": "Mlokis",
@@ -844,6 +853,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "fuzzbuck/io-global-bans",
@@ -1096,15 +1114,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
