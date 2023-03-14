@@ -36,15 +36,6 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 14,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
@@ -70,6 +61,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Sectorized game mode"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -216,15 +216,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "thedimasNetwork/StellarPlugin",
-    "name": "StellarPlugin",
-    "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2022-11-14T18:40:27Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Plugin for thedimas' servers."
-  },
-  {
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Phoenix Plugin",
     "author": "Nautilus & Allen-B1",
@@ -232,6 +223,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "General-purpose server plugin, including interaction with discord"
+  },
+  {
+    "repo": "thedimasNetwork/StellarPlugin",
+    "name": "StellarPlugin",
+    "author": "thedimas & Ahsoka-501 & skykatik",
+    "lastUpdated": "2023-03-14T11:50:48Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Plugin for thedimas' servers."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -277,6 +277,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-12-11T17:28:28Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
@@ -358,6 +367,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
+  },
+  {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -594,15 +612,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -711,6 +720,15 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
+  },
+  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -736,6 +754,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-02-23T23:21:13Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -1105,15 +1132,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
