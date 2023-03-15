@@ -36,6 +36,15 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
@@ -61,6 +70,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Sectorized game mode"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -585,15 +603,6 @@
     "description": "Core plugin of the mindustry.party server."
   },
   {
-    "repo": "Quezler/mindustry__plugin--bomberman",
-    "name": "mindustry__plugin--bomberman",
-    "author": "Quezler, Fishbuilder",
-    "lastUpdated": "2020-07-03T08:37:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "<insert thorium here>"
-  },
-  {
     "repo": "MindustryInside/RankedPlugin",
     "name": "RankedPlugin",
     "author": "MindustryInside",
@@ -763,15 +772,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
