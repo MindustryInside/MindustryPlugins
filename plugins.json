@@ -3,7 +3,7 @@
     "repo": "way-zer/ScriptAgent4MindustryExt",
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
-    "lastUpdated": "2023-01-13T04:24:20Z",
+    "lastUpdated": "2023-03-22T03:05:52Z",
     "stars": 67,
     "hasJava": true,
     "description": "More commands and features."
@@ -70,6 +70,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Sectorized game mode"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-01-24T12:19:44Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -675,15 +684,6 @@
     "description": "A plugin that lets a player change teams."
   },
   {
-    "repo": "shugen002/MDTSteamLobbyPlugin",
-    "name": "MDTSteamLobbyPlugin",
-    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
-    "lastUpdated": "2021-07-17T01:10:28Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "Volas171/UnitSpawn",
     "name": "UnitSpawn",
     "author": "VolasYouknow",
@@ -1159,15 +1159,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
