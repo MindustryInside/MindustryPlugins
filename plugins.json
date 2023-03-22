@@ -72,15 +72,6 @@
     "description": "Sectorized game mode"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -102,7 +93,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-03-21T14:40:34Z",
+    "lastUpdated": "2023-03-22T13:44:06Z",
     "stars": 9,
     "hasJava": true,
     "description": "No description provided."
@@ -297,15 +288,6 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-21T15:15:19Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -376,15 +358,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -684,6 +657,15 @@
     "description": "A plugin that lets a player change teams."
   },
   {
+    "repo": "shugen002/MDTSteamLobbyPlugin",
+    "name": "MDTSteamLobbyPlugin",
+    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
+    "lastUpdated": "2021-07-17T01:10:28Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
     "repo": "Volas171/UnitSpawn",
     "name": "UnitSpawn",
     "author": "VolasYouknow",
@@ -772,15 +754,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-02-23T23:21:13Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Brandons404/BasicsPlugin",
@@ -1159,6 +1132,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-01-19T23:43:24Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
