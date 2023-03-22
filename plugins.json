@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2023-03-17T18:17:23Z",
-    "stars": 49,
+    "stars": 50,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -70,15 +70,6 @@
     "stars": 11,
     "hasJava": true,
     "description": "Sectorized game mode"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-01-24T12:19:44Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
