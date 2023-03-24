@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-03-22T03:05:52Z",
+    "stars": 67,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -54,11 +63,20 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2023-01-15T17:56:34Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
     "lastUpdated": "2022-07-25T17:02:05Z",
-    "stars": 10,
+    "stars": 9,
     "hasJava": true,
     "description": "Plugin for my server"
   },
@@ -180,6 +198,15 @@
     "description": "Fight against hordes of crawlers"
   },
   {
+    "repo": "Pointifix/HistoryPlugin",
+    "name": "HistoryPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2022-09-15T10:32:10Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Adds a history command to display a tiles build/break history"
+  },
+  {
     "repo": "Ilya246/assistBots",
     "name": "assistBots",
     "author": "[USMP]Ilya246",
@@ -223,6 +250,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Help from above"
+  },
+  {
+    "repo": "hezhenwei/MTDDirtyWordMask",
+    "name": "MTDDirtyWordMask",
+    "author": "Myke.H",
+    "lastUpdated": "2021-08-09T06:50:15Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Mask dirty words."
   },
   {
     "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
@@ -304,6 +340,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Show the amount of games won by a player!"
+  },
+  {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-19T02:04:14Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
     "repo": "devlaq/Shard",
@@ -396,6 +441,15 @@
     "description": "Simple login system"
   },
   {
+    "repo": "Slava0135/LuckyRouters",
+    "name": "LuckyRouters",
+    "author": "Slava0135",
+    "lastUpdated": "2021-07-28T13:51:00Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Totally unfair mindustry experience"
+  },
+  {
     "repo": "hezhenwei/MTDChatBot",
     "name": "MTDChatBot",
     "author": "Myke.H",
@@ -403,6 +457,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Mindustry Chat Bot."
+  },
+  {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
   },
   {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
@@ -450,6 +513,15 @@
     "description": "Allows players to change team."
   },
   {
+    "repo": "Xpdustry/NoPayloadConveyorCrash",
+    "name": "NoPayloadConveyorCrashPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-03-01T18:51:24Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No more payload conveyor crashes."
+  },
+  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -495,6 +567,15 @@
     "description": "Removes individuality and makes for a very boring lobby."
   },
   {
+    "repo": "Pointifix/UniqueUsernamesPlugin",
+    "name": "UniqueUsernamesPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2020-04-24T21:37:19Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Saves the username of each joined user and prohibits impersonations."
+  },
+  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -520,6 +601,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -684,15 +774,6 @@
     "description": "idk"
   },
   {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
-  },
-  {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
     "name": "The-worst-mindustry-plugin",
     "author": "Mlokis",
@@ -799,6 +880,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
   },
   {
     "repo": "Minxyzgo/UpdateModPlugin",
@@ -927,6 +1017,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Xpdustry/ModLoaderPlugin",
+    "name": "Xpdustry ModLoader",
+    "author": "Xpdustry",
+    "lastUpdated": "2022-05-16T08:53:05Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
+  },
+  {
     "repo": "Allen-B1/mindustry-plugin-template",
     "name": "Kotlin Example Plugin",
     "author": "Allen-B1",
@@ -1015,15 +1114,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-01-19T23:43:24Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "Xpdustry/HexedPluginReloaded",
