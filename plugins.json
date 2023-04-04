@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-03-22T03:05:52Z",
-    "stars": 67,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -61,6 +52,15 @@
     "stars": 13,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -459,6 +459,15 @@
     "description": "Mindustry Chat Bot."
   },
   {
+    "repo": "janu8ry/MinDiscord",
+    "name": "MinDiscord",
+    "author": "janu8ry",
+    "lastUpdated": "2021-08-12T12:22:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "plugin for discord chatting connection."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -516,7 +525,7 @@
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
-    "lastUpdated": "2023-03-29T09:53:40Z",
+    "lastUpdated": "2023-04-04T11:02:41Z",
     "stars": 2,
     "hasJava": true,
     "description": "New command, events, core protection from thorium reactors and more"
@@ -709,6 +718,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Bridges mindustry server chat with matrix."
+  },
+  {
+    "repo": "GitIcon65/Chaos-plugin",
+    "name": "Chaos plugin",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-05-29T16:36:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "-"
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
