@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-03-22T03:05:52Z",
+    "stars": 67,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -27,6 +36,15 @@
     "description": "This mindustry plugin add more commands for admins and players."
   },
   {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
@@ -43,15 +61,6 @@
     "stars": 13,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -594,6 +603,15 @@
     "description": "Base PvP ranked gamemode."
   },
   {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
+  },
+  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -684,15 +702,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
-  },
-  {
     "repo": "deltanedas/MatrixBridge",
     "name": "MatrixBridge",
     "author": "deltanedas",
@@ -747,6 +756,24 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-04-04T13:28:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "Brandons404/BasicsPlugin",
+    "name": "BasicsPlugin",
+    "author": "Brandons404",
+    "lastUpdated": "2020-01-01T18:04:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that adds some basic features."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -763,6 +790,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-14T05:31:58Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1107,13 +1143,13 @@
     "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
-    "repo": "AtomSnow/norussians",
-    "name": "norussians",
-    "author": "AtomSnow",
-    "lastUpdated": "2023-02-21T18:00:54Z",
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-03-25T17:19:10Z",
     "stars": 0,
     "hasJava": true,
-    "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
+    "description": "2R2T Core"
   },
   {
     "repo": "GaviTSRA/TSR-Core",
@@ -1132,5 +1168,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A reimplementation of the hexed gamemode, with more features and better performances."
+  },
+  {
+    "repo": "AtomSnow/norussians",
+    "name": "norussians",
+    "author": "AtomSnow",
+    "lastUpdated": "2023-04-05T06:48:51Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
   }
 ]
