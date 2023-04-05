@@ -792,6 +792,15 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-04-04T13:28:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
@@ -1177,6 +1186,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
+  },
+  {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-03-25T17:19:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
   },
   {
     "repo": "GaviTSRA/TSR-Core",
