@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-03-22T03:05:52Z",
-    "stars": 67,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -34,15 +25,6 @@
     "stars": 20,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
-  },
-  {
-    "repo": "way-zer/MyMindustryPlugin",
-    "name": "MyMindustryPlugin",
-    "author": "WayZer",
-    "lastUpdated": "2020-06-14T09:24:34Z",
-    "stars": 14,
-    "hasJava": true,
-    "description": "More commands and features."
   },
   {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
@@ -297,15 +279,6 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-21T15:15:19Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -376,15 +349,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -630,15 +594,6 @@
     "description": "Base PvP ranked gamemode."
   },
   {
-    "repo": "Redstonneur1256/LobbyPlugin",
-    "name": "LobbyPlugin",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2021-02-02T22:06:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adding /lobby and /hub commands"
-  },
-  {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
     "name": "TSR-AntiLogicVirus",
     "author": "GaviTSRA",
@@ -792,24 +747,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-04-04T13:28:57Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "Brandons404/BasicsPlugin",
-    "name": "BasicsPlugin",
-    "author": "Brandons404",
-    "lastUpdated": "2020-01-01T18:04:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that adds some basic features."
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -826,15 +763,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-14T05:31:58Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Neba-MD/The-worst-mindustry-plugin",
@@ -1186,15 +1114,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-03-25T17:19:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "GaviTSRA/TSR-Core",
