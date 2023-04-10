@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-04-10T08:57:18Z",
+    "lastUpdated": "2023-04-10T13:00:17Z",
     "stars": 50,
     "hasJava": true,
     "description": "More commands and features."
@@ -261,6 +261,15 @@
     "description": "Mask dirty words."
   },
   {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-19T02:04:14Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
+  },
+  {
     "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
     "name": "mindustry-plugin-tech-hexed",
     "author": "TornadoTech",
@@ -342,15 +351,6 @@
     "description": "Show the amount of games won by a player!"
   },
   {
-    "repo": "mindustry-antigrief/SteamServer",
-    "name": "SteamServer",
-    "author": "mindustry-antigrief",
-    "lastUpdated": "2021-10-19T02:04:14Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
-  },
-  {
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
@@ -358,15 +358,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -774,15 +765,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-04-08T22:10:31Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Brandons404/BasicsPlugin",
     "name": "BasicsPlugin",
     "author": "Brandons404",
@@ -1159,15 +1141,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-03-25T17:19:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "GaviTSRA/TSR-Core",
