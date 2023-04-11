@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-03-22T03:05:52Z",
+    "stars": 67,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -18,6 +27,24 @@
     "description": "A battle-royale-like gamemode."
   },
   {
+    "repo": "ZetaMap/moreCommands",
+    "name": "morecommands",
+    "author": "ZetaMap",
+    "lastUpdated": "2023-04-07T09:08:48Z",
+    "stars": 20,
+    "hasJava": true,
+    "description": "This mindustry plugin add more commands for admins and players."
+  },
+  {
+    "repo": "way-zer/MyMindustryPlugin",
+    "name": "MyMindustryPlugin",
+    "author": "WayZer",
+    "lastUpdated": "2020-06-14T09:24:34Z",
+    "stars": 14,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "KotMilkMeoWtwo/MeowLandPlugin",
     "name": "meowland plugin",
     "author": "KotMilkMeoW",
@@ -34,15 +61,6 @@
     "stars": 13,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -124,6 +142,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "A useful utility plug-in; Extension of the basic functionality, Integration with the shell server."
+  },
+  {
+    "repo": "Anuken/CurseFilterPlugin",
+    "name": "CurseFilterPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2021-06-29T05:23:13Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "heck"
   },
   {
     "repo": "mayli/RockTheVotePlugin",
@@ -432,15 +459,6 @@
     "description": "Mindustry Chat Bot."
   },
   {
-    "repo": "janu8ry/MinDiscord",
-    "name": "MinDiscord",
-    "author": "janu8ry",
-    "lastUpdated": "2021-08-12T12:22:50Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "plugin for discord chatting connection."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-ai-antigrief-plugin",
     "name": "mindustry-ai-antigrief-plugin",
     "author": "FatonnDev",
@@ -574,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "Redstonneur1256/LobbyPlugin",
+    "name": "LobbyPlugin",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2021-02-02T22:06:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Adding /lobby and /hub commands"
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
