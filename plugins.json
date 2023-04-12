@@ -45,15 +45,6 @@
     "description": "More commands and features."
   },
   {
-    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
-    "name": "meowland plugin",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2023-02-12T11:33:11Z",
-    "stars": 13,
-    "hasJava": true,
-    "description": "nya"
-  },
-  {
     "repo": "MindustryInside/JSEval",
     "name": "JSEval",
     "author": "Summet",
@@ -61,6 +52,15 @@
     "stars": 13,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
+  },
+  {
+    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
+    "name": "meowland plugin",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2023-04-12T15:24:35Z",
+    "stars": 13,
+    "hasJava": true,
+    "description": "nya"
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
