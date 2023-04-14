@@ -1,18 +1,9 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-04-12T12:52:29Z",
-    "stars": 67,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-04-12T07:38:37Z",
+    "lastUpdated": "2023-04-14T14:01:19Z",
     "stars": 51,
     "hasJava": true,
     "description": "More commands and features."
