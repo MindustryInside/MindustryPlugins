@@ -1,5 +1,14 @@
 [
   {
+    "repo": "way-zer/ScriptAgent4MindustryExt",
+    "name": "ScriptAgent4MindustryExt",
+    "author": "WayZer",
+    "lastUpdated": "2023-04-12T12:52:29Z",
+    "stars": 67,
+    "hasJava": true,
+    "description": "More commands and features."
+  },
+  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -702,15 +711,6 @@
     "description": "Bridges mindustry server chat with matrix."
   },
   {
-    "repo": "GitIcon65/Chaos-plugin",
-    "name": "Chaos plugin",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-05-29T16:36:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "-"
-  },
-  {
     "repo": "Vitalij3/admin-commands-plugin",
     "name": "admin-commands-plugin",
     "author": "Salatosik",
@@ -736,15 +736,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-04-10T21:15:36Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Xpdustry/KotlinRuntimePlugin",
