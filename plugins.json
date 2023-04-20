@@ -84,7 +84,7 @@
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
-    "lastUpdated": "2023-02-22T00:52:33Z",
+    "lastUpdated": "2023-04-20T09:55:12Z",
     "stars": 10,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
@@ -925,6 +925,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
