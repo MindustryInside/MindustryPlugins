@@ -162,6 +162,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2022-07-16T16:27:05Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
@@ -187,15 +196,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "Extension for hub plugin. Allow to connect players with mods"
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2022-07-16T16:27:05Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "Pointifix/HistoryPlugin",
@@ -288,15 +288,6 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
-    "repo": "Xpdustry/Javelin",
-    "name": "Javelin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-21T15:15:19Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -358,15 +349,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Anti-grief, Vote kick/ban/map and, more"
-  },
-  {
-    "repo": "GitIcon65/LABORATORY",
-    "name": "LABORATORY",
-    "author": "[I.C.]IC-0npc",
-    "lastUpdated": "2022-08-04T13:56:22Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "MindustryBR/MindustryBR-plugin",
@@ -745,15 +727,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-04-21T14:07:28Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
