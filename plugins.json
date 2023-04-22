@@ -495,15 +495,6 @@
     "description": "No more payload conveyor crashes."
   },
   {
-    "repo": "quantum-brokengrammar/kogtech_commands_plugin",
-    "name": "kogtech_commands_plugin",
-    "author": "quantum-brokengrammar",
-    "lastUpdated": "2023-03-26T07:16:32Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin for commands for the server."
-  },
-  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -511,6 +502,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "New command, events, core protection from thorium reactors and more"
+  },
+  {
+    "repo": "quantum-brokengrammar/kogtech_commands_plugin",
+    "name": "kogtech_commands_plugin",
+    "author": "quantum-brokengrammar",
+    "lastUpdated": "2023-04-22T04:21:20Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "A plugin for commands for the server."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
