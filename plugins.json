@@ -351,6 +351,15 @@
     "description": "Anti-grief, Vote kick/ban/map and, more"
   },
   {
+    "repo": "GitIcon65/LABORATORY",
+    "name": "LABORATORY",
+    "author": "[I.C.]IC-0npc",
+    "lastUpdated": "2022-08-04T13:56:22Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "MindustryBR/MindustryBR-plugin",
     "name": "MindustryBR-plugin",
     "author": "King-BR",
@@ -727,6 +736,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-04-22T00:01:23Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
