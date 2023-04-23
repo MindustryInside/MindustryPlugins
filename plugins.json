@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -1119,7 +1128,7 @@
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
-    "lastUpdated": "2023-04-22T16:50:54Z",
+    "lastUpdated": "2023-04-23T15:14:25Z",
     "stars": 0,
     "hasJava": true,
     "description": "The mindustry plugin that loads plugins on lua"
