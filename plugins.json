@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -918,6 +927,15 @@
     "description": "A recreation of IO's plugin"
   },
   {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -1078,6 +1096,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Bug fixed: PayloadConveyor"
+  },
+  {
+    "repo": "SMOLKEYS/MindustryKTSEval",
+    "name": "MindustryKTSEval",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2023-01-09T13:15:55Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
     "repo": "GaviTSRA/TSR-Core",
