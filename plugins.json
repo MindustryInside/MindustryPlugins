@@ -675,15 +675,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
-  },
-  {
     "repo": "deltanedas/MatrixBridge",
     "name": "MatrixBridge",
     "author": "deltanedas",
