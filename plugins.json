@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2023-04-14T14:01:19Z",
-    "stars": 51,
+    "stars": 52,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -84,7 +84,7 @@
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
-    "lastUpdated": "2023-04-20T09:55:12Z",
+    "lastUpdated": "2023-04-29T09:40:54Z",
     "stars": 10,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
