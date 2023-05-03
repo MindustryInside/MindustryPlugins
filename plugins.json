@@ -567,6 +567,15 @@
     "description": "Core plugin of the mindustry.party server."
   },
   {
+    "repo": "Quezler/mindustry__plugin--bomberman",
+    "name": "mindustry__plugin--bomberman",
+    "author": "Quezler, Fishbuilder",
+    "lastUpdated": "2020-07-03T08:37:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "<insert thorium here>"
+  },
+  {
     "repo": "MindustryInside/RankedPlugin",
     "name": "RankedPlugin",
     "author": "MindustryInside",
@@ -943,6 +952,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Cheat like in StarCraft, need admin."
+  },
+  {
+    "repo": "Yu-Vitaqua-fer-Chronos/MindustryUndergroundServer",
+    "name": "MindustryUndergroundServer",
+    "author": "Forest",
+    "lastUpdated": "2021-12-02T19:47:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
     "repo": "FitmoF/FHistory",
