@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -520,6 +511,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
+  },
+  {
+    "repo": "osp54/Lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-05-07T13:16:40Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "The mindustry plugin that loads plugins on lua"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -1123,14 +1123,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
-  },
-  {
-    "repo": "osp54/Lumus",
-    "name": "Lumus",
-    "author": "OSPx",
-    "lastUpdated": "2023-05-07T13:16:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "The mindustry plugin that loads plugins on lua"
   }
 ]
