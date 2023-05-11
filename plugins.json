@@ -738,6 +738,15 @@
     "description": "A companion plugin for Kotlin based plugins."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-05-08T22:22:55Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
