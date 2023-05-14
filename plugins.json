@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -93,7 +84,7 @@
     "repo": "Xpdustry/Distributor",
     "name": "Distributor",
     "author": "Xpdustry",
-    "lastUpdated": "2023-05-02T00:08:36Z",
+    "lastUpdated": "2023-05-13T22:50:16Z",
     "stars": 9,
     "hasJava": true,
     "description": "No description provided."
@@ -504,15 +495,6 @@
     "description": "No more payload conveyor crashes."
   },
   {
-    "repo": "Agzam4/Mindustry-plugin",
-    "name": "Mindustry-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2023-04-04T11:02:41Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "New command, events, core protection from thorium reactors and more"
-  },
-  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -529,6 +511,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that loads plugins on lua"
+  },
+  {
+    "repo": "Agzam4/Mindustry-plugin",
+    "name": "Mindustry-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2023-05-13T20:12:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "New command, events, core protection from thorium reactors and more"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
