@@ -504,15 +504,6 @@
     "description": "A plugin for commands for the server."
   },
   {
-    "repo": "osp54/Lumus",
-    "name": "Lumus",
-    "author": "OSPx",
-    "lastUpdated": "2023-05-07T13:16:40Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "The mindustry plugin that loads plugins on lua"
-  },
-  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -520,6 +511,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "New command, events, core protection from thorium reactors and more"
+  },
+  {
+    "repo": "osp54/Lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-05-19T14:27:38Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "The mindustry plugin that loads plugins on lua"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -684,15 +684,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
-  },
-  {
     "repo": "deltanedas/MatrixBridge",
     "name": "MatrixBridge",
     "author": "deltanedas",
@@ -846,6 +837,15 @@
     "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
+  },
+  {
     "repo": "fuzzbuck/io-global-bans",
     "name": "io-global-bans",
     "author": "fuzzbuck",
@@ -907,15 +907,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
