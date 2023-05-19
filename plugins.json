@@ -516,7 +516,7 @@
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
-    "lastUpdated": "2023-05-19T14:27:38Z",
+    "lastUpdated": "2023-05-19T16:50:33Z",
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that loads plugins on lua"
@@ -682,6 +682,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
+    "name": "potato-mindustry-plugin",
+    "author": "Potato Chronicler",
+    "lastUpdated": "2022-04-20T08:24:24Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Potato plugin to do potato specific things"
   },
   {
     "repo": "deltanedas/MatrixBridge",
@@ -907,6 +916,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
+  },
+  {
+    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
+    "name": "blank-mindustry-plugin",
+    "author": "AnoyingShulker",
+    "lastUpdated": "2021-07-26T00:25:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
