@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2023-05-13T14:09:07Z",
-    "stars": 29,
+    "stars": 30,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -934,15 +934,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
