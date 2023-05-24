@@ -756,6 +756,15 @@
     "description": "idk"
   },
   {
+    "repo": "Neba-MD/The-worst-mindustry-plugin",
+    "name": "The-worst-mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-28T14:39:31Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
     "repo": "Recessive/MindustryFFA",
     "name": "MindustryFFA",
     "author": "Recessive",
@@ -844,6 +853,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "fuzzbuck/io-global-bans",
