@@ -516,7 +516,7 @@
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
-    "lastUpdated": "2023-05-26T17:48:59Z",
+    "lastUpdated": "2023-05-29T16:07:49Z",
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that loads plugins on lua"
