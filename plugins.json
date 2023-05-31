@@ -504,6 +504,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-05-24T15:00:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
