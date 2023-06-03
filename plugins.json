@@ -531,6 +531,15 @@
     "description": "A plugin for commands for the server."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-03T16:48:23Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
