@@ -918,6 +918,15 @@
     "description": "A recreation of IO's plugin"
   },
   {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -1033,15 +1042,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to run admin commands from the chat"
-  },
-  {
-    "repo": "Shadow53/MindustryAuthPlugin",
-    "name": "MindustryAuthPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2022-06-26T08:24:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "MindustryVN/SimpleRTV",
