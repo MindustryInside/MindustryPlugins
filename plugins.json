@@ -1089,6 +1089,15 @@
     "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
+    "repo": "Redstonneur1256/2R2T",
+    "name": "2R2T",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-03-25T17:19:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "2R2T Core"
+  },
+  {
     "repo": "GaviTSRA/TSR-Core",
     "name": "TSR-Core",
     "author": "GaviTSRA",
