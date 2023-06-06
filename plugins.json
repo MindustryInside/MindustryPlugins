@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-05-27T19:07:49Z",
+    "lastUpdated": "2023-06-06T17:49:12Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -279,6 +279,15 @@
     "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
+    "repo": "Xpdustry/Javelin",
+    "name": "Javelin",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-05-15T11:34:02Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
     "name": "GHMP-NukeAlert",
     "author": "(G_H)",
@@ -495,15 +504,6 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
-    "repo": "osp54/Lumus",
-    "name": "Lumus",
-    "author": "OSPx",
-    "lastUpdated": "2023-05-29T16:07:49Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "The mindustry plugin that loads plugins on lua"
-  },
-  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -511,6 +511,24 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-05T17:17:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "osp54/Lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-06-06T15:18:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "The mindustry plugin that loads plugins on lua"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -918,15 +936,6 @@
     "description": "A recreation of IO's plugin"
   },
   {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -1096,15 +1105,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
-    "repo": "Redstonneur1256/2R2T",
-    "name": "2R2T",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-03-25T17:19:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "2R2T Core"
   },
   {
     "repo": "GaviTSRA/TSR-Core",
