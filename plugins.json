@@ -1132,5 +1132,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows to prohibit nicknames from the blacklist, all nicknames containing one from the list will be banned or kicked"
+  },
+  {
+    "repo": "Kowkodivka/MindustryPluginTemplate",
+    "name": "Название вашего плагина",
+    "author": "Ваш ник",
+    "lastUpdated": "2023-06-07T18:33:20Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Описание вашего плагина"
   }
 ]
