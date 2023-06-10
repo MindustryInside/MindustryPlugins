@@ -1146,9 +1146,9 @@
     "repo": "Xpdustry/Simple-Blacklist",
     "name": "Simple Blacklist",
     "author": "ZetaMap",
-    "lastUpdated": "2023-06-04T20:49:08Z",
+    "lastUpdated": "2023-06-10T18:35:04Z",
     "stars": 0,
     "hasJava": true,
-    "description": "Allows to prohibit nicknames from the blacklist, all nicknames containing one from the list will be banned or kicked"
+    "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   }
 ]
