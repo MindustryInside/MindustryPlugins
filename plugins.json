@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-06-10T07:23:25Z",
+    "lastUpdated": "2023-06-11T16:23:12Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -1128,7 +1128,7 @@
     "repo": "Xpdustry/Simple-Blacklist",
     "name": "Simple Blacklist",
     "author": "ZetaMap",
-    "lastUpdated": "2023-06-10T18:35:04Z",
+    "lastUpdated": "2023-06-11T15:33:50Z",
     "stars": 0,
     "hasJava": true,
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
