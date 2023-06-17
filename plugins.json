@@ -522,6 +522,15 @@
     "description": "A plugin for commands for the server."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-05T17:17:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
@@ -1146,7 +1155,7 @@
     "repo": "Xpdustry/Simple-Blacklist",
     "name": "Simple Blacklist",
     "author": "ZetaMap",
-    "lastUpdated": "2023-06-11T15:33:50Z",
+    "lastUpdated": "2023-06-17T18:41:45Z",
     "stars": 0,
     "hasJava": true,
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
