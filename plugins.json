@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-06-20T08:29:37Z",
+    "lastUpdated": "2023-06-20T12:12:29Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -502,15 +502,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-06-05T17:17:45Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "osp54/Lumus",
@@ -1141,5 +1132,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
+  },
+  {
+    "repo": "byzp/chatgpt-mindustry-plugin",
+    "name": "chatgpt-mindustry-plugin",
+    "author": "byzp",
+    "lastUpdated": "2023-06-20T12:15:41Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "chat. Use command /c."
   }
 ]
