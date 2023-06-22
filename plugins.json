@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-06-21T19:23:18Z",
+    "lastUpdated": "2023-06-22T00:18:21Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -486,15 +486,6 @@
     "description": "No more payload conveyor crashes."
   },
   {
-    "repo": "Agzam4/Mindustry-plugin",
-    "name": "Mindustry-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2023-05-13T20:12:45Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "New command, events, core protection from thorium reactors and more"
-  },
-  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -511,6 +502,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "The mindustry plugin that loads plugins on lua"
+  },
+  {
+    "repo": "Agzam4/Mindustry-plugin",
+    "name": "Mindustry-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2023-06-21T21:23:06Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "New command, events, core protection from thorium reactors and more"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
