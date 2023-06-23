@@ -378,6 +378,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -493,6 +502,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
+  },
+  {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-05T17:17:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "osp54/Lumus",
@@ -732,7 +750,7 @@
     "repo": "byzp/chatgpt-mindustry-plugin",
     "name": "chatgpt-mindustry-plugin",
     "author": "byzp",
-    "lastUpdated": "2023-06-23T00:56:16Z",
+    "lastUpdated": "2023-06-23T06:30:59Z",
     "stars": 1,
     "hasJava": true,
     "description": "chat. Use command /c."
