@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -547,15 +556,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
-    "repo": "Pointifix/UniqueUsernamesPlugin",
-    "name": "UniqueUsernamesPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2020-04-24T21:37:19Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Saves the username of each joined user and prohibits impersonations."
   },
   {
     "repo": "MindustryParty/Plugin",
