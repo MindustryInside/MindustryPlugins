@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -198,15 +207,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "Ilya246/assistBots",
-    "name": "assistBots",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-11-04T09:53:10Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "Adds bots to assist players."
-  },
-  {
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Phoenix Plugin",
     "author": "Nautilus & Allen-B1",
@@ -259,6 +259,15 @@
     "stars": 4,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "Ilya246/assistBots",
+    "name": "assistBots",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-11-04T09:53:10Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Adds bots to assist players."
   },
   {
     "repo": "Fatonndev/MatrixHub-plugin",
@@ -369,15 +378,6 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2023-02-22T00:55:20Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -468,13 +468,13 @@
     "description": "A plugin to auto save the game."
   },
   {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
+    "repo": "Ilya246/mapChange",
+    "name": "mapChange",
     "author": "[USMP]Ilya246",
-    "lastUpdated": "2023-02-22T00:55:03Z",
+    "lastUpdated": "2023-02-22T00:55:20Z",
     "stars": 2,
     "hasJava": true,
-    "description": "Allows players to change team."
+    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
     "repo": "Xpdustry/NoPayloadConveyorCrash",
@@ -702,6 +702,15 @@
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
   },
   {
+    "repo": "Ilya246/teamChange",
+    "name": "teamChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2023-02-22T00:55:03Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Allows players to change team."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/LogicUpdater",
     "name": "LogicUpdater",
     "author": "L0615T1C5.216AC#9437's cat",
@@ -925,6 +934,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
