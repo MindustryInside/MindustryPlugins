@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-07-04T21:02:15Z",
+    "lastUpdated": "2023-07-06T07:49:25Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -493,15 +493,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-06-05T17:17:45Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "osp54/Lumus",
