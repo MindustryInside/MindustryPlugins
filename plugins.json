@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-07-10T18:28:46Z",
+    "lastUpdated": "2023-07-15T17:52:57Z",
     "stars": 52,
     "hasJava": true,
     "description": "More commands and features."
@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2023-05-13T14:09:07Z",
-    "stars": 30,
+    "stars": 29,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -210,7 +210,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2023-07-15T11:59:12Z",
+    "lastUpdated": "2023-07-15T19:42:30Z",
     "stars": 5,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
