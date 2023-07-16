@@ -378,6 +378,15 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
+    "repo": "KhanhLamVirual/TheBase",
+    "name": "Vndustry",
+    "author": "KhanhLamVirual",
+    "lastUpdated": "2023-07-16T16:58:34Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Anuken/EvalPlugin",
     "name": "EvalPlugin",
     "author": "Anuke",
@@ -493,15 +502,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "Xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-06-05T17:17:45Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "osp54/Lumus",
@@ -754,15 +754,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "chat. Use command /c."
-  },
-  {
-    "repo": "KhanhLamVirual/TheBase",
-    "name": "Vndustry",
-    "author": "KhanhLamVirual",
-    "lastUpdated": "2023-07-16T15:03:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
