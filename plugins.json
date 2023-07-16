@@ -198,15 +198,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "Darkdustry-Coders/DarkdustryPlugin",
-    "name": "Darkdustry Plugin",
-    "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2023-07-16T07:08:41Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
-  },
-  {
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Phoenix Plugin",
     "author": "Nautilus & Allen-B1",
@@ -214,6 +205,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "Darkdustry-Coders/DarkdustryPlugin",
+    "name": "Darkdustry Plugin",
+    "author": "Darkness & xzxADIxzx",
+    "lastUpdated": "2023-07-16T10:33:53Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
@@ -495,6 +495,15 @@
     "description": "A plugin for commands for the server."
   },
   {
+    "repo": "Xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-05T17:17:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
@@ -745,6 +754,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "chat. Use command /c."
+  },
+  {
+    "repo": "KhanhLamVirual/TheBase",
+    "name": "Vndustry",
+    "author": "KhanhLamVirual",
+    "lastUpdated": "2023-07-16T15:03:41Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
