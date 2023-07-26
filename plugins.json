@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-07-25T04:24:45Z",
+    "lastUpdated": "2023-07-26T15:12:55Z",
     "stars": 52,
     "hasJava": true,
     "description": "More commands and features."
@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -81,8 +90,8 @@
     "description": "Hub plugin for Mindustry"
   },
   {
-    "repo": "Xpdustry/Distributor",
-    "name": "Distributor",
+    "repo": "xpdustry/distributor",
+    "name": "distributor",
     "author": "Xpdustry",
     "lastUpdated": "2023-06-13T12:13:58Z",
     "stars": 9,
@@ -486,7 +495,7 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "Xpdustry/NoPayloadConveyorCrash",
+    "repo": "xpdustry/NoPayloadConveyorCrash",
     "name": "NoPayloadConveyorCrashPlugin",
     "author": "Xpdustry",
     "lastUpdated": "2023-03-01T18:51:24Z",
@@ -729,22 +738,13 @@
     "description": "Checks if logic can be updated"
   },
   {
-    "repo": "Xpdustry/Router",
+    "repo": "xpdustry/Router",
     "name": "RouterPlugin",
     "author": "Xpdustry",
     "lastUpdated": "2023-03-29T23:13:26Z",
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Xpdustry/KotlinRuntimePlugin",
-    "name": "KotlinRuntimePlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-04-12T14:29:05Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A companion plugin for Kotlin based plugins."
   },
   {
     "repo": "byzp/chatgpt-mindustry-plugin",
@@ -754,6 +754,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "chat. Use command /c."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "xpdustry",
+    "lastUpdated": "2023-07-26T19:17:50Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A companion plugin for Kotlin based plugins."
   },
   {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
@@ -945,6 +954,15 @@
     "description": "A recreation of IO's plugin"
   },
   {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -963,7 +981,7 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "Xpdustry/AfkPlugin",
+    "repo": "xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
     "lastUpdated": "2021-11-06T17:37:50Z",
@@ -1017,7 +1035,7 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Xpdustry/ModLoaderPlugin",
+    "repo": "xpdustry/ModLoaderPlugin",
     "name": "Xpdustry ModLoader",
     "author": "Xpdustry",
     "lastUpdated": "2022-05-16T08:53:05Z",
@@ -1125,7 +1143,7 @@
     "description": "TSR Core Library Plugin"
   },
   {
-    "repo": "Xpdustry/HexedPluginReloaded",
+    "repo": "xpdustry/HexedPluginReloaded",
     "name": "HexedPluginReloaded",
     "author": "Xpdustry",
     "lastUpdated": "2023-04-01T01:56:01Z",
@@ -1152,7 +1170,7 @@
     "description": "A plugin for the assimilation gamemode"
   },
   {
-    "repo": "Xpdustry/Simple-Blacklist",
+    "repo": "xpdustry/Simple-Blacklist",
     "name": "Simple Blacklist",
     "author": "ZetaMap",
     "lastUpdated": "2023-06-17T20:45:06Z",
