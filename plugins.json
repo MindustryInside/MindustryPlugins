@@ -84,7 +84,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2023-07-26T23:15:01Z",
+    "lastUpdated": "2023-07-27T11:24:49Z",
     "stars": 10,
     "hasJava": true,
     "description": "No description provided."
@@ -750,7 +750,7 @@
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "xpdustry",
-    "lastUpdated": "2023-07-26T19:17:50Z",
+    "lastUpdated": "2023-07-27T11:34:30Z",
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
@@ -1017,15 +1017,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "xpdustry/ModLoaderPlugin",
-    "name": "Xpdustry ModLoader",
-    "author": "Xpdustry",
-    "lastUpdated": "2022-05-16T08:53:05Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
-  },
-  {
     "repo": "Allen-B1/mindustry-plugin-template",
     "name": "Kotlin Example Plugin",
     "author": "Allen-B1",
@@ -1168,5 +1159,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A gamemode plugin that makes players fight using randomly selected units"
+  },
+  {
+    "repo": "xpdustry/mod-loader",
+    "name": "ModLoader",
+    "author": "xpdustry",
+    "lastUpdated": "2023-07-27T11:26:21Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
   }
 ]
