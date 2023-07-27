@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -92,8 +83,8 @@
   {
     "repo": "xpdustry/distributor",
     "name": "distributor",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-06-13T12:13:58Z",
+    "author": "xpdustry",
+    "lastUpdated": "2023-07-26T23:15:01Z",
     "stars": 9,
     "hasJava": true,
     "description": "No description provided."
