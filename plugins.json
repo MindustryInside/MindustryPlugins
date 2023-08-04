@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-08-03T09:24:58Z",
+    "lastUpdated": "2023-08-04T03:25:54Z",
     "stars": 52,
     "hasJava": true,
     "description": "More commands and features."
@@ -52,6 +52,15 @@
     "stars": 13,
     "hasJava": true,
     "description": "nya"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
