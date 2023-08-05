@@ -198,15 +198,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "Darkdustry-Coders/DarkdustryPlugin",
-    "name": "Darkdustry Plugin",
-    "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2023-07-22T12:56:03Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
-  },
-  {
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Phoenix Plugin",
     "author": "Nautilus & Allen-B1",
@@ -214,6 +205,15 @@
     "stars": 5,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "Darkdustry-Coders/DarkdustryPlugin",
+    "name": "Darkdustry Plugin",
+    "author": "Darkness & xzxADIxzx",
+    "lastUpdated": "2023-08-05T12:57:02Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
   },
   {
     "repo": "Anuken/RateLimitPlugin",
