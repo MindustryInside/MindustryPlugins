@@ -504,6 +504,15 @@
     "description": "A plugin for commands for the server."
   },
   {
+    "repo": "xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-05T17:17:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
