@@ -72,6 +72,15 @@
     "description": "Sectorized game mode"
   },
   {
+    "repo": "xpdustry/distributor",
+    "name": "distributor",
+    "author": "xpdustry",
+    "lastUpdated": "2023-07-27T11:24:49Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -79,15 +88,6 @@
     "stars": 10,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "xpdustry/distributor",
-    "name": "distributor",
-    "author": "xpdustry",
-    "lastUpdated": "2023-07-27T11:24:49Z",
-    "stars": 10,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
@@ -250,15 +250,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Mask dirty words."
-  },
-  {
-    "repo": "mindustry-antigrief/SteamServer",
-    "name": "SteamServer",
-    "author": "mindustry-antigrief",
-    "lastUpdated": "2021-10-19T02:04:14Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
     "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
@@ -484,15 +475,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin to auto save the game."
-  },
-  {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2023-02-22T00:55:20Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
     "repo": "xpdustry/NoPayloadConveyorCrash",
@@ -1186,5 +1168,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
+  },
+  {
+    "repo": "Kowkodivka/PluginJNIExample",
+    "name": "PluginJNIExample",
+    "author": "kowkodivka",
+    "lastUpdated": "2023-08-25T08:11:08Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "..."
   }
 ]
