@@ -1170,15 +1170,6 @@
     "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
   },
   {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-08-24T20:46:46Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
