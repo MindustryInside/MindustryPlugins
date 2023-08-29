@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -396,15 +405,6 @@
     "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
   },
   {
-    "repo": "Loxoz/MindustryJSPlugin",
-    "name": "MindustryJSPlugin",
-    "author": "Loxoz",
-    "lastUpdated": "2019-11-10T04:38:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -502,15 +502,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "xpdustry/Nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-06-05T17:17:45Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "osp54/Lumus",
