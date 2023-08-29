@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2023-08-27T13:12:25Z",
-    "stars": 52,
+    "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -31,7 +31,7 @@
     "name": "morecommands",
     "author": "ZetaMap",
     "lastUpdated": "2023-04-07T09:08:48Z",
-    "stars": 19,
+    "stars": 20,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
   },
@@ -52,15 +52,6 @@
     "stars": 14,
     "hasJava": true,
     "description": "nya"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -511,6 +502,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
+  },
+  {
+    "repo": "xpdustry/Nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-06-05T17:17:45Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "osp54/Lumus",
