@@ -792,6 +792,15 @@
     "description": "idk"
   },
   {
+    "repo": "Neba-MD/The-worst-mindustry-plugin",
+    "name": "The-worst-mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-28T14:39:31Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for the worst server ewer."
+  },
+  {
     "repo": "Recessive/MindustryFFA",
     "name": "MindustryFFA",
     "author": "Recessive",
