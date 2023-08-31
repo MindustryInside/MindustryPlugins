@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-08-31T05:08:36Z",
+    "lastUpdated": "2023-08-31T05:26:01Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -792,15 +792,6 @@
     "description": "idk"
   },
   {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
-  },
-  {
     "repo": "Recessive/MindustryFFA",
     "name": "MindustryFFA",
     "author": "Recessive",
@@ -961,15 +952,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
