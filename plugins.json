@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -324,6 +315,15 @@
     "description": "Plugins-mission"
   },
   {
+    "repo": "Slava0135/Recapture",
+    "name": "Recapture",
+    "author": "Slava0135",
+    "lastUpdated": "2021-01-24T16:13:13Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Allows teams to capture cores."
+  },
+  {
     "repo": "MindustryInside/NeutralPlugin",
     "name": "NeutralPlugin",
     "author": "Mindustry Inside",
@@ -376,6 +376,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
+  },
+  {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "KhanhLamVirual/TheBase",
@@ -432,15 +441,6 @@
     "description": "Simple login system"
   },
   {
-    "repo": "Slava0135/LuckyRouters",
-    "name": "LuckyRouters",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T13:51:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Totally unfair mindustry experience"
-  },
-  {
     "repo": "hezhenwei/MTDChatBot",
     "name": "MTDChatBot",
     "author": "Myke.H",
@@ -486,6 +486,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "xpdustry/NoPayloadConveyorCrash",
+    "name": "NoPayloadConveyorCrashPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-03-01T18:51:24Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No more payload conveyor crashes."
+  },
+  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -493,6 +502,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
+  },
+  {
+    "repo": "osp54/Lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-06-06T15:18:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "The mindustry plugin that loads plugins on lua"
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
@@ -504,6 +522,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-02T20:28:32Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -513,15 +540,6 @@
     "description": "!weepingangel"
   },
   {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
-  },
-  {
     "repo": "j-vds/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
@@ -529,15 +547,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "don't touch the brakes"
-  },
-  {
-    "repo": "Recessive/grayscale",
-    "name": "grayscale",
-    "author": "Recessive",
-    "lastUpdated": "2020-03-10T07:55:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Removes individuality and makes for a very boring lobby."
   },
   {
     "repo": "Pointifix/UniqueUsernamesPlugin",
@@ -594,6 +603,24 @@
     "description": "Admin Chat plugin for server."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
+    "name": "mindustry-recapture-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-06-17T19:18:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
+    "repo": "j-vds/randomEnemySpawn",
+    "name": "randomEnemySpawn",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T17:54:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Spawns enemies in a random location..."
+  },
+  {
     "repo": "j-vds/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -601,15 +628,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A plugin that lets a player change teams."
-  },
-  {
-    "repo": "shugen002/MDTSteamLobbyPlugin",
-    "name": "MDTSteamLobbyPlugin",
-    "author": "Shugen002 (MDTSteamLobbyPlugin@shugen.space)",
-    "lastUpdated": "2021-07-17T01:10:28Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Volas171/UnitSpawn",
@@ -864,6 +882,15 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
+  },
+  {
     "repo": "Minxyzgo/UpdateModPlugin",
     "name": "UpdateModPlugin",
     "author": "Minxyzgo",
@@ -880,15 +907,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "heck"
-  },
-  {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
   },
   {
     "repo": "skykatik/AntiBot",
@@ -909,13 +927,13 @@
     "description": "Units spawn a nuke on death"
   },
   {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
+    "repo": "jakubDoka/mindustry-plugin-utils",
+    "name": "Mindustry Plugin Kotlin",
+    "author": "Seungjae Park",
+    "lastUpdated": "2021-08-30T09:12:08Z",
     "stars": 0,
     "hasJava": true,
-    "description": "A recreation of IO's plugin"
+    "description": "Mindustry Server Plugin Template written by Kotlin"
   },
   {
     "repo": "MindustryModSeeker1/spawnUnit",
@@ -1033,15 +1051,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "NgLam2911/ExampleMindustryPlugin",
-    "name": "ExampleMindustryPlugin",
-    "author": "NgLam2911",
-    "lastUpdated": "2022-09-22T08:40:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "I haz no idea ..."
   },
   {
     "repo": "MV-Studio14/autopause",
