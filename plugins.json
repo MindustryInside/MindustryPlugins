@@ -324,15 +324,6 @@
     "description": "Plugins-mission"
   },
   {
-    "repo": "Slava0135/Recapture",
-    "name": "Recapture",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-24T16:13:13Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Allows teams to capture cores."
-  },
-  {
     "repo": "MindustryInside/NeutralPlugin",
     "name": "NeutralPlugin",
     "author": "Mindustry Inside",
@@ -495,15 +486,6 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
-    "repo": "xpdustry/NoPayloadConveyorCrash",
-    "name": "NoPayloadConveyorCrashPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-01T18:51:24Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No more payload conveyor crashes."
-  },
-  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -511,15 +493,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "osp54/Lumus",
-    "name": "Lumus",
-    "author": "OSPx",
-    "lastUpdated": "2023-06-06T15:18:53Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "The mindustry plugin that loads plugins on lua"
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
@@ -619,24 +592,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Admin Chat plugin for server."
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
-    "name": "mindustry-recapture-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-06-17T19:18:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Recapture pvp minigame for Mindustry"
-  },
-  {
-    "repo": "j-vds/randomEnemySpawn",
-    "name": "randomEnemySpawn",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T17:54:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Spawns enemies in a random location..."
   },
   {
     "repo": "j-vds/TeamPlugin",
@@ -745,6 +700,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "xpdustry/Simple-Blacklist",
+    "name": "Simple Blacklist",
+    "author": "ZetaMap",
+    "lastUpdated": "2023-06-17T20:45:06Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   },
   {
     "repo": "byzp/chatgpt-mindustry-plugin",
@@ -900,15 +864,6 @@
     "description": "A plugin that disallows players that are banned on the io server network from joining your server."
   },
   {
-    "repo": "unjown/playerDam",
-    "name": "playerDam",
-    "author": "Unjown",
-    "lastUpdated": "2021-03-04T05:03:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "lol"
-  },
-  {
     "repo": "Minxyzgo/UpdateModPlugin",
     "name": "UpdateModPlugin",
     "author": "Minxyzgo",
@@ -961,15 +916,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-08-30T09:12:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
   },
   {
     "repo": "MindustryModSeeker1/spawnUnit",
@@ -1159,15 +1105,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for the assimilation gamemode"
-  },
-  {
-    "repo": "xpdustry/Simple-Blacklist",
-    "name": "Simple Blacklist",
-    "author": "ZetaMap",
-    "lastUpdated": "2023-06-17T20:45:06Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   },
   {
     "repo": "Ilya246/randomArena",
