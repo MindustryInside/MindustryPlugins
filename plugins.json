@@ -162,13 +162,22 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "Pointifix/HistoryPlugin",
-    "name": "HistoryPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2022-09-15T10:32:10Z",
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2023-06-11T10:07:13Z",
     "stars": 6,
     "hasJava": true,
-    "description": "Adds a history command to display a tiles build/break history"
+    "description": "Fight against hordes of crawlers"
+  },
+  {
+    "repo": "Darkdustry-Coders/DarkdustryPlugin",
+    "name": "Darkdustry Plugin",
+    "author": "Darkness & xzxADIxzx",
+    "lastUpdated": "2023-08-10T14:55:25Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -189,15 +198,6 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
-    "repo": "TomtheCoder2/mainPlugin",
-    "name": "Phoenix Plugin",
-    "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2023-07-28T15:58:02Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -205,15 +205,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Imposes a configuration rate limit."
-  },
-  {
-    "repo": "deng-rui/Command-Extension",
-    "name": "Command-Extension",
-    "author": "Dr",
-    "lastUpdated": "2020-06-13T06:11:52Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Command extension"
   },
   {
     "repo": "Slava0135/CargoPods",
@@ -241,15 +232,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
-  },
-  {
-    "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
-    "name": "mindustry-plugin-tech-hexed",
-    "author": "TornadoTech",
-    "lastUpdated": "2022-07-10T13:39:25Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": ""
   },
   {
     "repo": "Ilya246/assistBots",
@@ -315,15 +297,6 @@
     "description": "Fork of the Pandorum.su plugin."
   },
   {
-    "repo": "j-vds/pvpStatsPlugin",
-    "name": "pvpStatsPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-09-13T15:28:20Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Show the amount of games won by a player!"
-  },
-  {
     "repo": "devlaq/Shard",
     "name": "Shard",
     "author": "devlaq",
@@ -378,24 +351,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "Anuken/EvalPlugin",
-    "name": "EvalPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2019-09-08T19:00:06Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin to let admins evalulate arbitrary Java code on the server for debugging purposes."
-  },
-  {
-    "repo": "Loxoz/MindustryJSPlugin",
-    "name": "MindustryJSPlugin",
-    "author": "Loxoz",
-    "lastUpdated": "2019-11-10T04:38:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A Mindustry Plugin to support Javascript scripts as sub-plugins"
-  },
-  {
     "repo": "Quezler/mindustry__plugin--flatearth",
     "name": "mindustry__plugin--flatearth",
     "author": "Quezler",
@@ -423,15 +378,6 @@
     "description": "Simple login system"
   },
   {
-    "repo": "Slava0135/LuckyRouters",
-    "name": "LuckyRouters",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T13:51:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Totally unfair mindustry experience"
-  },
-  {
     "repo": "hezhenwei/MTDChatBot",
     "name": "MTDChatBot",
     "author": "Myke.H",
@@ -457,15 +403,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic image code is banned"
-  },
-  {
-    "repo": "pisceskkk/Mindustry_ServerAutoSave",
-    "name": "Mindustry_ServerAutoSave",
-    "author": "pisceskkk",
-    "lastUpdated": "2023-01-11T10:16:53Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "A plugin to auto save the game."
   },
   {
     "repo": "Ilya246/mapChange",
@@ -549,24 +486,6 @@
     "description": "don't touch the brakes"
   },
   {
-    "repo": "Recessive/grayscale",
-    "name": "grayscale",
-    "author": "Recessive",
-    "lastUpdated": "2020-03-10T07:55:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
-    "repo": "Pointifix/UniqueUsernamesPlugin",
-    "name": "UniqueUsernamesPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2020-04-24T21:37:19Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Saves the username of each joined user and prohibits impersonations."
-  },
-  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -601,15 +520,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
   },
   {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
@@ -648,6 +558,15 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
+    "repo": "Volas171/UnitSpawn",
+    "name": "UnitSpawn",
+    "author": "VolasYouknow",
+    "lastUpdated": "2021-07-18T02:27:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin for spawn units."
+  },
+  {
     "repo": "ZetaMap/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
@@ -682,15 +601,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Potato plugin to do potato specific things"
-  },
-  {
-    "repo": "deltanedas/MatrixBridge",
-    "name": "MatrixBridge",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-28T00:21:28Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Bridges mindustry server chat with matrix."
   },
   {
     "repo": "Vitalij3/admin-commands-plugin",
@@ -738,15 +648,6 @@
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   },
   {
-    "repo": "byzp/chatgpt-mindustry-plugin",
-    "name": "chatgpt-mindustry-plugin",
-    "author": "byzp",
-    "lastUpdated": "2023-07-04T10:40:27Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "chat. Use command /c."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "xpdustry",
@@ -792,15 +693,6 @@
     "description": "A plugin for the worst server ewer."
   },
   {
-    "repo": "Recessive/MindustryFFA",
-    "name": "MindustryFFA",
-    "author": "Recessive",
-    "lastUpdated": "2020-04-16T01:13:14Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "epic mindustry battle royale"
-  },
-  {
     "repo": "Blockzilla101/linker",
     "name": "linker",
     "author": "Blockzilla",
@@ -817,15 +709,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "j-vds/BuilderGame",
-    "name": "BuilderGame",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-09-04T09:32:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A new gamemode for mindustry."
   },
   {
     "repo": "Vortetty/SimpleUtilsPlugin",
@@ -900,13 +783,22 @@
     "description": "lol"
   },
   {
-    "repo": "Minxyzgo/UpdateModPlugin",
-    "name": "UpdateModPlugin",
-    "author": "Minxyzgo",
-    "lastUpdated": "2021-03-07T10:09:49Z",
+    "repo": "Volas171/Anti-Spam",
+    "name": "Anti-Spam",
+    "author": "VolasYouKnow",
+    "lastUpdated": "2021-03-16T16:34:46Z",
     "stars": 0,
     "hasJava": true,
-    "description": "一个插件用于更新模组与其他插件 (使用git api)"
+    "description": "heck"
+  },
+  {
+    "repo": "mindustry-antigrief/PacketPlugin",
+    "name": "PacketPlugin",
+    "author": "foo",
+    "lastUpdated": "2021-05-01T17:09:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that provides a network interface for foo's client."
   },
   {
     "repo": "skykatik/AntiBot",
@@ -934,24 +826,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
-  },
-  {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-08-30T09:12:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
   },
   {
     "repo": "MindustryModSeeker1/spawnUnit",
@@ -1008,15 +882,6 @@
     "description": "Plague Plugin"
   },
   {
-    "repo": "Yu-Vitaqua-fer-Chronos/Mindustry.py",
-    "name": "Mindustry.py",
-    "author": "Anuke",
-    "lastUpdated": "2022-03-28T17:53:22Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "Allen-B1/mindustry-plugin-template",
     "name": "Kotlin Example Plugin",
     "author": "Allen-B1",
@@ -1060,15 +925,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "MindustryVN/SimpleRTV",
-    "name": "SimpleRTV",
-    "author": "NgLam2911",
-    "lastUpdated": "2022-09-08T03:55:07Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "NgLam2911/ExampleMindustryPlugin",
@@ -1159,5 +1015,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
+  },
+  {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-02T00:15:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
