@@ -171,24 +171,6 @@
     "description": "Adds a history command to display a tiles build/break history"
   },
   {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2023-06-11T10:07:13Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
-  },
-  {
-    "repo": "Darkdustry-Coders/DarkdustryPlugin",
-    "name": "Darkdustry Plugin",
-    "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2023-08-10T14:55:25Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
-  },
-  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -270,6 +252,24 @@
     "description": ""
   },
   {
+    "repo": "Ilya246/assistBots",
+    "name": "assistBots",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-11-04T09:53:10Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Adds bots to assist players."
+  },
+  {
+    "repo": "Fatonndev/MatrixHub-plugin",
+    "name": "MatrixHub-plugin",
+    "author": "KeviTV",
+    "lastUpdated": "2022-12-10T03:45:44Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
+  },
+  {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
     "name": "Mindustry_ServerAutoPause",
     "author": "pisceskkk",
@@ -286,6 +286,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Simple Nuke Alert plugin for server."
+  },
+  {
+    "repo": "deng-rui/plugins-mission",
+    "name": "plugins-mission",
+    "author": "Dr",
+    "lastUpdated": "2020-02-13T05:57:38Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugins-mission"
   },
   {
     "repo": "Slava0135/Recapture",
@@ -459,6 +468,15 @@
     "description": "A plugin to auto save the game."
   },
   {
+    "repo": "Ilya246/mapChange",
+    "name": "mapChange",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2023-02-22T00:55:20Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
+  },
+  {
     "repo": "xpdustry/NoPayloadConveyorCrash",
     "name": "NoPayloadConveyorCrashPlugin",
     "author": "Xpdustry",
@@ -630,15 +648,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Volas171/UnitSpawn",
-    "name": "UnitSpawn",
-    "author": "VolasYouknow",
-    "lastUpdated": "2021-07-18T02:27:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin for spawn units."
-  },
-  {
     "repo": "ZetaMap/UnitsForAll-plugin",
     "name": "UnitsForAll-plugin",
     "author": "Susideur (map)",
@@ -783,6 +792,15 @@
     "description": "A plugin for the worst server ewer."
   },
   {
+    "repo": "Recessive/MindustryFFA",
+    "name": "MindustryFFA",
+    "author": "Recessive",
+    "lastUpdated": "2020-04-16T01:13:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "epic mindustry battle royale"
+  },
+  {
     "repo": "Blockzilla101/linker",
     "name": "linker",
     "author": "Blockzilla",
@@ -790,6 +808,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to tie player admin status with a discord role"
+  },
+  {
+    "repo": "jakubDoka/TWS-plugin",
+    "name": "TWS-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-06-06T18:15:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "j-vds/BuilderGame",
@@ -855,6 +882,24 @@
     "description": "A plugin to communicate with a dashboard web server."
   },
   {
+    "repo": "fuzzbuck/io-global-bans",
+    "name": "io-global-bans",
+    "author": "fuzzbuck",
+    "lastUpdated": "2021-01-26T23:57:12Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
+  },
+  {
+    "repo": "unjown/playerDam",
+    "name": "playerDam",
+    "author": "Unjown",
+    "lastUpdated": "2021-03-04T05:03:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "lol"
+  },
+  {
     "repo": "Minxyzgo/UpdateModPlugin",
     "name": "UpdateModPlugin",
     "author": "Minxyzgo",
@@ -862,24 +907,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "一个插件用于更新模组与其他插件 (使用git api)"
-  },
-  {
-    "repo": "Volas171/Anti-Spam",
-    "name": "Anti-Spam",
-    "author": "VolasYouKnow",
-    "lastUpdated": "2021-03-16T16:34:46Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "heck"
-  },
-  {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
   },
   {
     "repo": "skykatik/AntiBot",
@@ -1062,6 +1089,15 @@
     "description": "Auto pause your game when there aren't players online"
   },
   {
+    "repo": "Agzam4/Mindustry-bugfixes-plugin",
+    "name": "Mindustry-bugfixes-plugin",
+    "author": "Agzam4",
+    "lastUpdated": "2023-01-01T09:01:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Bug fixed: PayloadConveyor"
+  },
+  {
     "repo": "SMOLKEYS/MindustryKTSEval",
     "name": "MindustryKTSEval",
     "author": "SMOLKEYS",
@@ -1096,6 +1132,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
+  },
+  {
+    "repo": "Recessive/Assimilation",
+    "name": "Assimilation",
+    "author": "Recessive",
+    "lastUpdated": "2023-05-28T05:23:13Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for the assimilation gamemode"
   },
   {
     "repo": "Ilya246/randomArena",
