@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -378,10 +387,19 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
-    "lastUpdated": "2023-08-16T08:46:37Z",
+    "lastUpdated": "2023-09-07T14:05:50Z",
     "stars": 3,
     "hasJava": true,
     "description": "No description provided."
@@ -421,15 +439,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
-  },
-  {
-    "repo": "Kieaer/Authme",
-    "name": "Authme",
-    "author": "Kieaer",
-    "lastUpdated": "2021-02-06T21:41:52Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Simple login system"
   },
   {
     "repo": "Slava0135/LuckyRouters",
@@ -522,6 +531,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-02T20:28:32Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -540,15 +558,6 @@
     "description": "That just sounds like autosave with extra steps..."
   },
   {
-    "repo": "j-vds/mindustry__plugin--minduracing",
-    "name": "mindustry__plugin--minduracing",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-02-07T17:05:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "don't touch the brakes"
-  },
-  {
     "repo": "Recessive/grayscale",
     "name": "grayscale",
     "author": "Recessive",
@@ -565,15 +574,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Saves the username of each joined user and prohibits impersonations."
-  },
-  {
-    "repo": "MindustryParty/Plugin",
-    "name": "Plugin",
-    "author": "NoahvdAa",
-    "lastUpdated": "2020-05-30T16:47:03Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Core plugin of the mindustry.party server."
   },
   {
     "repo": "Quezler/mindustry__plugin--bomberman",
@@ -873,15 +873,6 @@
     "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
-    "repo": "deltanedas/JSEval",
-    "name": "JSEval",
-    "author": "Summet, DeltaNedas",
-    "lastUpdated": "2021-01-11T11:22:08Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, /js."
-  },
-  {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
     "name": "Mindustry-Web-Dashboard-Plugin",
     "author": "MochaBoom",
@@ -1116,15 +1107,6 @@
     "description": "Bug fixed: PayloadConveyor"
   },
   {
-    "repo": "SMOLKEYS/MindustryKTSEval",
-    "name": "MindustryKTSEval",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2023-01-09T13:15:55Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows evaluation of KotlinScript in the chatbox."
-  },
-  {
     "repo": "GaviTSRA/TSR-Core",
     "name": "TSR-Core",
     "author": "GaviTSRA",
@@ -1150,15 +1132,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
-  },
-  {
-    "repo": "Recessive/Assimilation",
-    "name": "Assimilation",
-    "author": "Recessive",
-    "lastUpdated": "2023-05-28T05:23:13Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the assimilation gamemode"
   },
   {
     "repo": "Ilya246/randomArena",
