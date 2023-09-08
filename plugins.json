@@ -378,6 +378,15 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -504,15 +513,6 @@
     "description": "A plugin for commands for the server."
   },
   {
-    "repo": "osp54/Lumus",
-    "name": "Lumus",
-    "author": "OSPx",
-    "lastUpdated": "2023-06-06T15:18:53Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "The mindustry plugin that loads plugins on lua"
-  },
-  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -538,15 +538,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "!weepingangel"
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
   },
   {
     "repo": "j-vds/mindustry__plugin--minduracing",
@@ -576,13 +567,13 @@
     "description": "Saves the username of each joined user and prohibits impersonations."
   },
   {
-    "repo": "Quezler/mindustry__plugin--bomberman",
-    "name": "mindustry__plugin--bomberman",
-    "author": "Quezler, Fishbuilder",
-    "lastUpdated": "2020-07-03T08:37:14Z",
+    "repo": "MindustryParty/Plugin",
+    "name": "Plugin",
+    "author": "NoahvdAa",
+    "lastUpdated": "2020-05-30T16:47:03Z",
     "stars": 1,
     "hasJava": true,
-    "description": "<insert thorium here>"
+    "description": "Core plugin of the mindustry.party server."
   },
   {
     "repo": "MindustryInside/RankedPlugin",
@@ -682,15 +673,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
   },
   {
     "repo": "deltanedas/MatrixBridge",
@@ -855,13 +837,13 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "Volas171/AlexServerPlugin",
-    "name": "AlexServerPlugin",
-    "author": "Alex and VolasYouKnow",
-    "lastUpdated": "2020-12-31T17:43:44Z",
+    "repo": "Kickbut101/MultiplayerPausePlugin",
+    "name": "MultiplayerPausePlugin",
+    "author": "Andy",
+    "lastUpdated": "2020-12-20T22:11:19Z",
     "stars": 0,
     "hasJava": true,
-    "description": "A plugin to demonstrate some AlexServerPlugin features."
+    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "deltanedas/JSEval",
@@ -945,15 +927,6 @@
     "description": "Units spawn a nuke on death"
   },
   {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
-  },
-  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -1015,15 +988,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plague Plugin"
-  },
-  {
-    "repo": "Yu-Vitaqua-fer-Chronos/Mindustry.py",
-    "name": "Mindustry.py",
-    "author": "Anuke",
-    "lastUpdated": "2022-03-28T17:53:22Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Allen-B1/mindustry-plugin-template",
