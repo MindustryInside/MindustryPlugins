@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-09-07T06:45:18Z",
+    "lastUpdated": "2023-09-08T18:26:44Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -52,15 +52,6 @@
     "stars": 14,
     "hasJava": true,
     "description": "nya"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -234,15 +225,6 @@
     "description": "Imposes a configuration rate limit."
   },
   {
-    "repo": "deng-rui/Command-Extension",
-    "name": "Command-Extension",
-    "author": "Dr",
-    "lastUpdated": "2020-06-13T06:11:52Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Command extension"
-  },
-  {
     "repo": "Slava0135/CargoPods",
     "name": "CargoPods",
     "author": "Slava0135",
@@ -259,6 +241,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Mask dirty words."
+  },
+  {
+    "repo": "mindustry-antigrief/SteamServer",
+    "name": "SteamServer",
+    "author": "mindustry-antigrief",
+    "lastUpdated": "2021-10-19T02:04:14Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
     "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
@@ -367,15 +358,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
-  },
-  {
-    "repo": "mindustry-antigrief/mindustry-plugin",
-    "name": "mindustry-plugin",
-    "author": "buthed010203",
-    "lastUpdated": "2023-01-31T17:28:31Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
     "repo": "KhanhLamVirual/TheBase",
@@ -729,6 +711,15 @@
     "description": "Checks if logic can be updated"
   },
   {
+    "repo": "xpdustry/Router",
+    "name": "RouterPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-03-29T23:13:26Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A Reddit-like server for sharing schematics."
+  },
+  {
     "repo": "xpdustry/Simple-Blacklist",
     "name": "Simple Blacklist",
     "author": "ZetaMap",
@@ -763,15 +754,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "..."
-  },
-  {
-    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
-    "name": "Mindustry-Discord-Relay",
-    "author": "ArchieJaskowicz",
-    "lastUpdated": "2020-02-02T13:41:36Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -918,15 +900,6 @@
     "description": "heck"
   },
   {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -952,6 +925,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -1143,15 +1125,6 @@
     "description": "A plugin for the assimilation gamemode"
   },
   {
-    "repo": "Ilya246/randomArena",
-    "name": "randomArena",
-    "author": "Ilya246",
-    "lastUpdated": "2023-07-01T17:27:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A gamemode plugin that makes players fight using randomly selected units"
-  },
-  {
     "repo": "xpdustry/mod-loader",
     "name": "ModLoader",
     "author": "xpdustry",
@@ -1159,14 +1132,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-09-02T00:15:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
   }
 ]
