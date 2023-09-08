@@ -540,6 +540,15 @@
     "description": "That just sounds like autosave with extra steps..."
   },
   {
+    "repo": "j-vds/mindustry__plugin--minduracing",
+    "name": "mindustry__plugin--minduracing",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-02-07T17:05:41Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "don't touch the brakes"
+  },
+  {
     "repo": "Recessive/grayscale",
     "name": "grayscale",
     "author": "Recessive",
@@ -583,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Base PvP ranked gamemode."
+  },
+  {
+    "repo": "GaviTSRA/TSR-AntiLogicVirus",
+    "name": "TSR-AntiLogicVirus",
+    "author": "GaviTSRA",
+    "lastUpdated": "2021-04-05T19:41:35Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "The anti-virus plugin for mindustry."
   },
   {
     "repo": "Gee-aitcH/GHMP-AdminChat",
