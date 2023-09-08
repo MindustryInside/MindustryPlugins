@@ -522,6 +522,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-02T20:28:32Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -565,15 +574,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Saves the username of each joined user and prohibits impersonations."
-  },
-  {
-    "repo": "MindustryParty/Plugin",
-    "name": "Plugin",
-    "author": "NoahvdAa",
-    "lastUpdated": "2020-05-30T16:47:03Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Core plugin of the mindustry.party server."
   },
   {
     "repo": "Quezler/mindustry__plugin--bomberman",
@@ -853,15 +853,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "Kickbut101/MultiplayerPausePlugin",
-    "name": "MultiplayerPausePlugin",
-    "author": "Andy",
-    "lastUpdated": "2020-12-20T22:11:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
   },
   {
     "repo": "Volas171/AlexServerPlugin",
