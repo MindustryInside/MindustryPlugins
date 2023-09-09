@@ -225,6 +225,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Command extension"
+  },
+  {
     "repo": "Slava0135/CargoPods",
     "name": "CargoPods",
     "author": "Slava0135",
@@ -259,15 +268,6 @@
     "stars": 4,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "Ilya246/assistBots",
-    "name": "assistBots",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-11-04T09:53:10Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Adds bots to assist players."
   },
   {
     "repo": "Fatonndev/MatrixHub-plugin",
@@ -358,6 +358,24 @@
     "stars": 3,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
+    "repo": "mindustry-antigrief/mindustry-plugin",
+    "name": "mindustry-plugin",
+    "author": "buthed010203",
+    "lastUpdated": "2023-01-31T17:28:31Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
+  },
+  {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "KhanhLamVirual/TheBase",
@@ -504,6 +522,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-08T12:19:21Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -520,15 +547,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "That just sounds like autosave with extra steps..."
-  },
-  {
-    "repo": "j-vds/mindustry__plugin--minduracing",
-    "name": "mindustry__plugin--minduracing",
-    "author": "Fishbuilder",
-    "lastUpdated": "2020-02-07T17:05:41Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "don't touch the brakes"
   },
   {
     "repo": "Recessive/grayscale",
@@ -756,6 +774,15 @@
     "description": "..."
   },
   {
+    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
+    "name": "Mindustry-Discord-Relay",
+    "author": "ArchieJaskowicz",
+    "lastUpdated": "2020-02-02T13:41:36Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
+  },
+  {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
     "name": "Xenon-Mindustry-Plugin",
     "author": "Iapetus11",
@@ -900,6 +927,15 @@
     "description": "heck"
   },
   {
+    "repo": "mindustry-antigrief/PacketPlugin",
+    "name": "PacketPlugin",
+    "author": "foo",
+    "lastUpdated": "2021-05-01T17:09:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that provides a network interface for foo's client."
+  },
+  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -925,15 +961,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -970,6 +997,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "Cheat like in StarCraft, need admin."
+  },
+  {
+    "repo": "Yu-Vitaqua-fer-Chronos/MindustryUndergroundServer",
+    "name": "MindustryUndergroundServer",
+    "author": "Forest",
+    "lastUpdated": "2021-12-02T19:47:18Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
     "repo": "FitmoF/FHistory",
@@ -1123,6 +1159,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for the assimilation gamemode"
+  },
+  {
+    "repo": "Ilya246/randomArena",
+    "name": "randomArena",
+    "author": "Ilya246",
+    "lastUpdated": "2023-07-01T17:27:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A gamemode plugin that makes players fight using randomly selected units"
   },
   {
     "repo": "xpdustry/mod-loader",
