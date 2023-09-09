@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2023-08-25T13:00:22Z",
-    "stars": 72,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -268,6 +259,15 @@
     "stars": 4,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "Ilya246/assistBots",
+    "name": "assistBots",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-11-04T09:53:10Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Adds bots to assist players."
   },
   {
     "repo": "Fatonndev/MatrixHub-plugin",
@@ -547,6 +547,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "That just sounds like autosave with extra steps..."
+  },
+  {
+    "repo": "j-vds/mindustry__plugin--minduracing",
+    "name": "mindustry__plugin--minduracing",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-02-07T17:05:41Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "don't touch the brakes"
   },
   {
     "repo": "Recessive/grayscale",
