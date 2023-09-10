@@ -1017,6 +1017,15 @@
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
+    "repo": "FitmoF/FHistory",
+    "name": "FHistory",
+    "author": "Fitmo",
+    "lastUpdated": "2022-01-03T12:45:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Tile History Plugin"
+  },
+  {
     "repo": "nilederg/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
