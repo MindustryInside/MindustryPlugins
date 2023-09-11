@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -126,6 +117,15 @@
     "description": "Enable the Game Pause on the Multiplay Server"
   },
   {
+    "repo": "j-vds/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-08-22T09:38:17Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "interaction with discord"
+  },
+  {
     "repo": "MindustryInside/LightweightHub",
     "name": "LightweightHub",
     "author": "Mindustry Inside",
@@ -160,15 +160,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "j-vds/DiscordPlugin",
-    "name": "DiscordPlugin",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-08-22T09:38:17Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "interaction with discord"
   },
   {
     "repo": "Pointifix/HistoryPlugin",
