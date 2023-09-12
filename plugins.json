@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-09-11T15:00:38Z",
+    "lastUpdated": "2023-09-12T05:49:59Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -52,15 +52,6 @@
     "stars": 14,
     "hasJava": true,
     "description": "nya"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -124,6 +115,15 @@
     "stars": 7,
     "hasJava": true,
     "description": "Enable the Game Pause on the Multiplay Server"
+  },
+  {
+    "repo": "j-vds/DiscordPlugin",
+    "name": "DiscordPlugin",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-08-22T09:38:17Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "interaction with discord"
   },
   {
     "repo": "MindustryInside/LightweightHub",
@@ -504,6 +504,15 @@
     "description": "A plugin for commands for the server."
   },
   {
+    "repo": "osp54/Lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-06-06T15:18:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "The mindustry plugin that loads plugins on lua"
+  },
+  {
     "repo": "Agzam4/Mindustry-plugin",
     "name": "Mindustry-plugin",
     "author": "Agzam4",
@@ -556,6 +565,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Saves the username of each joined user and prohibits impersonations."
+  },
+  {
+    "repo": "MindustryParty/Plugin",
+    "name": "Plugin",
+    "author": "NoahvdAa",
+    "lastUpdated": "2020-05-30T16:47:03Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Core plugin of the mindustry.party server."
   },
   {
     "repo": "Quezler/mindustry__plugin--bomberman",
@@ -864,6 +882,15 @@
     "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
+  },
+  {
     "repo": "fuzzbuck/io-global-bans",
     "name": "io-global-bans",
     "author": "fuzzbuck",
@@ -934,15 +961,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
