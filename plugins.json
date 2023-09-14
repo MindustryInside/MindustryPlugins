@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-09-12T05:49:59Z",
+    "lastUpdated": "2023-09-14T14:46:49Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -1186,14 +1186,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-09-09T21:56:54Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "No description provided."
   }
 ]
