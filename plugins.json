@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-09-18T07:29:57Z",
+    "lastUpdated": "2023-09-18T14:06:36Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -520,15 +520,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "New command, events, core protection from thorium reactors and more"
-  },
-  {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-09-08T12:19:21Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
