@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-09-20T14:48:50Z",
+    "lastUpdated": "2023-09-20T15:20:57Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -52,15 +52,6 @@
     "stars": 14,
     "hasJava": true,
     "description": "nya"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Kycb42148/KycbPlugin",
@@ -432,6 +423,15 @@
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
   },
   {
+    "repo": "MindustryInside/RankedPlugin",
+    "name": "RankedPlugin",
+    "author": "MindustryInside",
+    "lastUpdated": "2021-02-02T18:15:52Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Base PvP ranked gamemode."
+  },
+  {
     "repo": "Kieaer/Authme",
     "name": "Authme",
     "author": "Kieaer",
@@ -466,6 +466,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Based on AI antigrief plugin for Mindustry"
+  },
+  {
+    "repo": "ZetaMap/UnitsForAll-plugin",
+    "name": "UnitsForAll-plugin",
+    "author": "Susideur (map)",
+    "lastUpdated": "2021-10-15T19:58:50Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
     "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
@@ -504,6 +513,15 @@
     "description": "No more payload conveyor crashes."
   },
   {
+    "repo": "L0615T1C5-216AC-9437/LogicUpdater",
+    "name": "LogicUpdater",
+    "author": "L0615T1C5.216AC#9437's cat",
+    "lastUpdated": "2023-03-22T19:56:47Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Checks if logic can be updated"
+  },
+  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -538,6 +556,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "!weepingangel"
+  },
+  {
+    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
+    "name": "Mindustry-Discord-Relay",
+    "author": "ArchieJaskowicz",
+    "lastUpdated": "2020-02-02T13:41:36Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
     "repo": "Quezler/mindustry__plugin--blackbox",
@@ -592,15 +619,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "<insert thorium here>"
-  },
-  {
-    "repo": "MindustryInside/RankedPlugin",
-    "name": "RankedPlugin",
-    "author": "MindustryInside",
-    "lastUpdated": "2021-02-02T18:15:52Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Base PvP ranked gamemode."
   },
   {
     "repo": "GaviTSRA/TSR-AntiLogicVirus",
@@ -666,15 +684,6 @@
     "description": "A plugin for spawn units."
   },
   {
-    "repo": "ZetaMap/UnitsForAll-plugin",
-    "name": "UnitsForAll-plugin",
-    "author": "Susideur (map)",
-    "lastUpdated": "2021-10-15T19:58:50Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
-  },
-  {
     "repo": "gerdoe-jr/Discustry",
     "name": "Discustry",
     "author": "gerdoe",
@@ -729,15 +738,6 @@
     "description": "Allows players to change team."
   },
   {
-    "repo": "L0615T1C5-216AC-9437/LogicUpdater",
-    "name": "LogicUpdater",
-    "author": "L0615T1C5.216AC#9437's cat",
-    "lastUpdated": "2023-03-22T19:56:47Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Checks if logic can be updated"
-  },
-  {
     "repo": "xpdustry/Router",
     "name": "RouterPlugin",
     "author": "Xpdustry",
@@ -790,15 +790,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "..."
-  },
-  {
-    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
-    "name": "Mindustry-Discord-Relay",
-    "author": "ArchieJaskowicz",
-    "lastUpdated": "2020-02-02T13:41:36Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -979,15 +970,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
