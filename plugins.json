@@ -531,15 +531,6 @@
     "description": "!weepingangel"
   },
   {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
-  },
-  {
     "repo": "j-vds/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
@@ -684,15 +675,6 @@
     "description": "The new plugin that powers Mindustry.Party. "
   },
   {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
-  },
-  {
     "repo": "deltanedas/MatrixBridge",
     "name": "MatrixBridge",
     "author": "deltanedas",
@@ -799,15 +781,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Recessive/MindustryFFA",
@@ -936,15 +909,6 @@
     "description": "heck"
   },
   {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
     "repo": "skykatik/AntiBot",
     "name": "Anti Bot",
     "author": "Skat",
@@ -961,15 +925,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -1006,15 +961,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Cheat like in StarCraft, need admin."
-  },
-  {
-    "repo": "Yu-Vitaqua-fer-Chronos/MindustryUndergroundServer",
-    "name": "MindustryUndergroundServer",
-    "author": "Forest",
-    "lastUpdated": "2021-12-02T19:47:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
   },
   {
     "repo": "FitmoF/FHistory",
