@@ -138,7 +138,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2023-09-24T18:49:46Z",
+    "lastUpdated": "2023-09-25T03:06:54Z",
     "stars": 7,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -889,6 +889,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Allows admins to execute JavaScript code using a special command, /js."
+  },
+  {
+    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
+    "name": "Mindustry-Web-Dashboard-Plugin",
+    "author": "MochaBoom",
+    "lastUpdated": "2021-01-11T14:41:38Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to communicate with a dashboard web server."
   },
   {
     "repo": "fuzzbuck/io-global-bans",
