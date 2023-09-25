@@ -891,15 +891,6 @@
     "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
-  },
-  {
     "repo": "fuzzbuck/io-global-bans",
     "name": "io-global-bans",
     "author": "fuzzbuck",
