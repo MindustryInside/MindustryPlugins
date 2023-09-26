@@ -549,6 +549,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-08T12:19:21Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -790,6 +799,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "..."
+  },
+  {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-26T17:53:51Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
