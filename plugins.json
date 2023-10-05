@@ -378,6 +378,15 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -549,6 +558,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-09-08T12:19:21Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -592,6 +610,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Removes individuality and makes for a very boring lobby."
+  },
+  {
+    "repo": "Pointifix/UniqueUsernamesPlugin",
+    "name": "UniqueUsernamesPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2020-04-24T21:37:19Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Saves the username of each joined user and prohibits impersonations."
   },
   {
     "repo": "MindustryParty/Plugin",
@@ -772,6 +799,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "..."
+  },
+  {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-10-05T12:43:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
