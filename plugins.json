@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -970,15 +961,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
