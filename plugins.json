@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -655,6 +664,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
+    "repo": "j-vds/randomEnemySpawn",
+    "name": "randomEnemySpawn",
+    "author": "Fishbuilder",
+    "lastUpdated": "2021-06-27T17:54:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Spawns enemies in a random location..."
   },
   {
     "repo": "j-vds/TeamPlugin",
