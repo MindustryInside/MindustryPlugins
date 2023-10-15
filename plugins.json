@@ -378,15 +378,6 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -556,15 +547,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "New command, events, core protection from thorium reactors and more"
-  },
-  {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-09-08T12:19:21Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
