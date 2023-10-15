@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -567,15 +558,6 @@
     "description": "!weepingangel"
   },
   {
-    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
-    "name": "Mindustry-Discord-Relay",
-    "author": "ArchieJaskowicz",
-    "lastUpdated": "2020-02-02T13:41:36Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--blackbox",
     "name": "mindustry__plugin--blackbox",
     "author": "Quezler",
@@ -646,15 +628,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
   },
   {
     "repo": "ObvilionNetwork/mindustry-recapture-plugin",
@@ -808,15 +781,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Recessive/MindustryFFA",
@@ -1105,24 +1069,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
-    "repo": "MV-Studio14/autopause",
-    "name": "autopause",
-    "author": "MV-Studio14",
-    "lastUpdated": "2022-12-11T12:49:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Auto pause your game when there aren't players online"
-  },
-  {
-    "repo": "Agzam4/Mindustry-bugfixes-plugin",
-    "name": "Mindustry-bugfixes-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2023-01-01T09:01:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Bug fixed: PayloadConveyor"
   },
   {
     "repo": "SMOLKEYS/MindustryKTSEval",
