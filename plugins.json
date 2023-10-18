@@ -891,15 +891,6 @@
     "description": "Allows admins to execute JavaScript code using a special command, /js."
   },
   {
-    "repo": "fuzzbuck/io-global-bans",
-    "name": "io-global-bans",
-    "author": "fuzzbuck",
-    "lastUpdated": "2021-01-26T23:57:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
     "repo": "unjown/playerDam",
     "name": "playerDam",
     "author": "Unjown",
