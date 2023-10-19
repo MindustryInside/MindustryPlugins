@@ -1089,15 +1089,6 @@
     "description": "I haz no idea ..."
   },
   {
-    "repo": "FIRE-WATER799/admin-commands-plugin",
-    "name": "admin-commands-plugin",
-    "author": "Salatosik",
-    "lastUpdated": "2022-10-27T21:07:43Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
     "repo": "MV-Studio14/autopause",
     "name": "autopause",
     "author": "MV-Studio14",
