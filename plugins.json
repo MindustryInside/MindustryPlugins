@@ -90,6 +90,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "osp54/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx",
+    "lastUpdated": "2023-02-09T08:55:03Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -97,15 +106,6 @@
     "stars": 8,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
-    "repo": "osp54/BetterConsole",
-    "name": "BetterConsole",
-    "author": "OSPx",
-    "lastUpdated": "2023-02-09T08:55:03Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "The mindustry plugin that improves the input of console commands."
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
