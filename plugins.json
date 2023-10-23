@@ -342,15 +342,6 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
