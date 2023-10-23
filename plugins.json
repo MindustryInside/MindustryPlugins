@@ -45,15 +45,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -970,6 +961,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin that implements an underground layer to Mindustry because why tf not"
+  },
+  {
+    "repo": "FitmoF/FHistory",
+    "name": "FHistory",
+    "author": "Fitmo",
+    "lastUpdated": "2022-01-03T12:45:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Tile History Plugin"
   },
   {
     "repo": "nilederg/MindustryPlaguePublic",
