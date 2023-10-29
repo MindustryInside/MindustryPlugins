@@ -342,15 +342,6 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -774,6 +765,15 @@
     "description": "A companion plugin for Kotlin based plugins."
   },
   {
+    "repo": "550W-HOST/the-mindustry-server-plugin",
+    "name": "the-mindustry-server-plugin",
+    "author": "PaperCube",
+    "lastUpdated": "2023-10-28T20:03:20Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
+  },
+  {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
     "name": "Xenon-Mindustry-Plugin",
     "author": "Iapetus11",
@@ -943,6 +943,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -1168,14 +1177,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "Changes description every 1/10 of a second."
-  },
-  {
-    "repo": "550W-HOST/the-mindustry-server-plugin",
-    "name": "the-mindustry-server-plugin",
-    "author": "PaperCube",
-    "lastUpdated": "2023-10-28T20:03:20Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
   }
 ]
