@@ -747,15 +747,6 @@
     "description": "..."
   },
   {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-09-08T12:19:21Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "xpdustry",
@@ -763,15 +754,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-10-24T18:07:43Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "550W-HOST/the-mindustry-server-plugin",
