@@ -765,6 +765,15 @@
     "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
   },
   {
+    "repo": "King-BR/Mindustry-Discord-Chat",
+    "name": "Mindustry-Discord-Chat",
+    "author": "King-BR",
+    "lastUpdated": "2023-11-01T16:48:29Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Link mindustry to discord chat"
+  },
+  {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
     "name": "Xenon-Mindustry-Plugin",
     "author": "Iapetus11",
@@ -1159,5 +1168,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "Changes description every 1/10 of a second."
+  },
+  {
+    "repo": "Kowkodivka/AntiBot",
+    "name": "AntiBot",
+    "author": "kwokodivka",
+    "lastUpdated": "2023-11-01T16:26:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "..."
   }
 ]
