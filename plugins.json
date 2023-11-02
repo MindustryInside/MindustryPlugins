@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2023-11-01T07:16:05Z",
+    "lastUpdated": "2023-11-02T07:16:08Z",
     "stars": 53,
     "hasJava": true,
     "description": "More commands and features."
@@ -907,6 +907,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "一个插件用于更新模组与其他插件 (使用git api)"
+  },
+  {
+    "repo": "Volas171/Anti-Spam",
+    "name": "Anti-Spam",
+    "author": "VolasYouKnow",
+    "lastUpdated": "2021-03-16T16:34:46Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "heck"
   },
   {
     "repo": "mindustry-antigrief/PacketPlugin",
