@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -367,6 +376,15 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
+  },
+  {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "KhanhLamVirual/TheBase",
@@ -801,6 +819,15 @@
     "description": "A companion plugin for Kotlin based plugins."
   },
   {
+    "repo": "550W-HOST/the-mindustry-server-plugin",
+    "name": "the-mindustry-server-plugin",
+    "author": "PaperCube",
+    "lastUpdated": "2023-10-28T20:03:20Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
+  },
+  {
     "repo": "King-BR/Mindustry-Discord-Chat",
     "name": "Mindustry-Discord-Chat",
     "author": "King-BR",
@@ -814,15 +841,6 @@
     "name": "Nucleus",
     "author": "Xpdustry",
     "lastUpdated": "2023-11-06T18:04:09Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-08T19:23:45Z",
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
