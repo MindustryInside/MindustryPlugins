@@ -369,15 +369,6 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -826,24 +817,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
-  },
-  {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-06T18:04:09Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-10T15:55:11Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
