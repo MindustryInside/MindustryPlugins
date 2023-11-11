@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xpdustry/distributor",
+    "name": "distributor",
+    "author": "xpdustry",
+    "lastUpdated": "2023-10-11T19:47:54Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Kycb42148/KycbPlugin",
     "name": "KycbPlugin",
     "author": "Kycb42148",
@@ -70,15 +79,6 @@
     "stars": 11,
     "hasJava": true,
     "description": "Sectorized game mode"
-  },
-  {
-    "repo": "xpdustry/distributor",
-    "name": "distributor",
-    "author": "xpdustry",
-    "lastUpdated": "2023-10-11T19:47:54Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
@@ -549,6 +549,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "!weepingangel"
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -790,6 +799,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "550W-HOST/the-mindustry-server-plugin",
+    "name": "the-mindustry-server-plugin",
+    "author": "PaperCube",
+    "lastUpdated": "2023-10-28T20:03:20Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
   },
   {
     "repo": "King-BR/Mindustry-Discord-Chat",
