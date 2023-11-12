@@ -369,6 +369,15 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -549,6 +558,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "!weepingangel"
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -558,6 +576,15 @@
     "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
   },
   {
+    "repo": "Quezler/mindustry__plugin--blackbox",
+    "name": "mindustry__plugin--blackbox",
+    "author": "Quezler",
+    "lastUpdated": "2020-02-07T16:59:22Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "That just sounds like autosave with extra steps..."
+  },
+  {
     "repo": "j-vds/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
@@ -565,6 +592,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "don't touch the brakes"
+  },
+  {
+    "repo": "Recessive/grayscale",
+    "name": "grayscale",
+    "author": "Recessive",
+    "lastUpdated": "2020-03-10T07:55:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Removes individuality and makes for a very boring lobby."
   },
   {
     "repo": "Pointifix/UniqueUsernamesPlugin",
@@ -621,6 +657,15 @@
     "description": "Admin Chat plugin for server."
   },
   {
+    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
+    "name": "mindustry-recapture-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-06-17T19:18:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Recapture pvp minigame for Mindustry"
+  },
+  {
     "repo": "j-vds/randomEnemySpawn",
     "name": "randomEnemySpawn",
     "author": "Fishbuilder",
@@ -673,6 +718,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
+  },
+  {
+    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
+    "name": "potato-mindustry-plugin",
+    "author": "Potato Chronicler",
+    "lastUpdated": "2022-04-20T08:24:24Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Potato plugin to do potato specific things"
   },
   {
     "repo": "deltanedas/MatrixBridge",
@@ -754,6 +808,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "550W-HOST/the-mindustry-server-plugin",
+    "name": "the-mindustry-server-plugin",
+    "author": "PaperCube",
+    "lastUpdated": "2023-10-28T20:03:20Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
   },
   {
     "repo": "King-BR/Mindustry-Discord-Chat",
@@ -943,6 +1006,15 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
+  },
+  {
+    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
+    "name": "blank-mindustry-plugin",
+    "author": "AnoyingShulker",
+    "lastUpdated": "2021-07-26T00:25:58Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
