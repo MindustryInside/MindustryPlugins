@@ -210,7 +210,7 @@
     "repo": "TomtheCoder2/mainPlugin",
     "name": "Phoenix Plugin",
     "author": "Nautilus & Allen-B1",
-    "lastUpdated": "2023-11-17T11:44:04Z",
+    "lastUpdated": "2023-11-19T09:23:52Z",
     "stars": 5,
     "hasJava": true,
     "description": "No description provided."
@@ -817,24 +817,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
-  },
-  {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-06T18:04:09Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-18T19:29:11Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
