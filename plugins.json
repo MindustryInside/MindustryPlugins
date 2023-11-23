@@ -22,7 +22,7 @@
     "name": "HexedPlugin",
     "author": "Anuke",
     "lastUpdated": "2023-05-13T14:09:07Z",
-    "stars": 29,
+    "stars": 30,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
   },
@@ -1152,15 +1152,6 @@
     "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2023-03-27T09:43:32Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
-  },
-  {
     "repo": "xpdustry/HexedPluginReloaded",
     "name": "HexedPluginReloaded",
     "author": "Xpdustry",
@@ -1240,5 +1231,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "..."
+  },
+  {
+    "repo": "GaviTSRA/TSR-Core",
+    "name": "TSR-Core",
+    "author": "GaviTSRA",
+    "lastUpdated": "2023-11-23T20:07:34Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "TSR Core Library Plugin"
   }
 ]
