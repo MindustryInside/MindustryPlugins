@@ -225,6 +225,15 @@
     "description": "Imposes a configuration rate limit."
   },
   {
+    "repo": "deng-rui/Command-Extension",
+    "name": "Command-Extension",
+    "author": "Dr",
+    "lastUpdated": "2020-06-13T06:11:52Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Command extension"
+  },
+  {
     "repo": "Slava0135/CargoPods",
     "name": "CargoPods",
     "author": "Slava0135",
@@ -268,6 +277,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Adds bots to assist players."
+  },
+  {
+    "repo": "Fatonndev/MatrixHub-plugin",
+    "name": "MatrixHub-plugin",
+    "author": "KeviTV",
+    "lastUpdated": "2022-12-10T03:45:44Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "Better Hub plugin for servers"
   },
   {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
