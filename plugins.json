@@ -369,6 +369,15 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
+    "repo": "osp54/Lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-06-06T15:18:53Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "The mindustry plugin that loads plugins on lua"
+  },
+  {
     "repo": "KhanhLamVirual/TheBase",
     "name": "Vndustry",
     "author": "KhanhLamVirual",
@@ -529,15 +538,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "osp54/Lumus",
-    "name": "Lumus",
-    "author": "OSPx",
-    "lastUpdated": "2023-06-06T15:18:53Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "The mindustry plugin that loads plugins on lua"
   },
   {
     "repo": "Agzam4/Mindustry-plugin",
