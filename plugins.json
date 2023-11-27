@@ -819,24 +819,6 @@
     "description": "Link mindustry to discord chat"
   },
   {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-06T18:04:09Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-27T01:52:25Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
     "name": "Xenon-Mindustry-Plugin",
     "author": "Iapetus11",
@@ -1159,15 +1141,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Bug fixed: PayloadConveyor"
-  },
-  {
-    "repo": "SMOLKEYS/MindustryKTSEval",
-    "name": "MindustryKTSEval",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2023-01-09T13:15:55Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Allows evaluation of KotlinScript in the chatbox."
   },
   {
     "repo": "xpdustry/HexedPluginReloaded",
