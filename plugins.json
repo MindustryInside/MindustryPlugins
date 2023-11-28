@@ -810,6 +810,24 @@
     "description": "Link mindustry to discord chat"
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-11-06T18:04:09Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-11-27T18:10:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
