@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
@@ -531,6 +540,15 @@
     "description": "Checks if logic can be updated"
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -556,24 +574,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "!weepingangel"
-  },
-  {
-    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
-    "name": "Mindustry-Discord-Relay",
-    "author": "ArchieJaskowicz",
-    "lastUpdated": "2020-02-02T13:41:36Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
   },
   {
     "repo": "j-vds/mindustry__plugin--minduracing",
@@ -648,15 +648,6 @@
     "description": "Admin Chat plugin for server."
   },
   {
-    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
-    "name": "mindustry-recapture-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-06-17T19:18:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Recapture pvp minigame for Mindustry"
-  },
-  {
     "repo": "j-vds/randomEnemySpawn",
     "name": "randomEnemySpawn",
     "author": "Fishbuilder",
@@ -709,15 +700,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
   },
   {
     "repo": "deltanedas/MatrixBridge",
@@ -819,15 +801,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-11-27T18:10:11Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
@@ -835,24 +808,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
-  },
-  {
-    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
-    "name": "Xenon-Mindustry-Plugin",
-    "author": "Iapetus11",
-    "lastUpdated": "2020-02-03T18:57:34Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Recessive/MindustryFFA",
@@ -981,15 +936,6 @@
     "description": "A plugin that provides a network interface for foo's client."
   },
   {
-    "repo": "skykatik/AntiBot",
-    "name": "Anti Bot",
-    "author": "Skat",
-    "lastUpdated": "2021-05-21T21:58:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A simple plugin for kick bot accounts."
-  },
-  {
     "repo": "Quezler/Nukedustry",
     "name": "Nukedustry",
     "author": "Slava0135",
@@ -997,15 +943,6 @@
     "stars": 0,
     "hasJava": false,
     "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -1141,15 +1078,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
-    "repo": "MV-Studio14/autopause",
-    "name": "autopause",
-    "author": "MV-Studio14",
-    "lastUpdated": "2022-12-11T12:49:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Auto pause your game when there aren't players online"
   },
   {
     "repo": "Agzam4/Mindustry-bugfixes-plugin",
