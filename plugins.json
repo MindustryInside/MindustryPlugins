@@ -774,15 +774,6 @@
     "description": "chat. Use command /c."
   },
   {
-    "repo": "thedimasNetwork/StellarPlugin",
-    "name": "StellarPlugin",
-    "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2023-08-13T19:03:29Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin for thedimas' servers."
-  },
-  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
@@ -817,6 +808,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
+  },
+  {
+    "repo": "thedimasNetwork/StellarPlugin",
+    "name": "StellarPlugin",
+    "author": "thedimas & Ahsoka-501 & skykatik",
+    "lastUpdated": "2023-11-27T21:03:48Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin for thedimas' servers."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
