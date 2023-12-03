@@ -549,6 +549,15 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
+    "repo": "King-BR/Mindustry-Discord-Chat",
+    "name": "Mindustry-Discord-Chat",
+    "author": "King-BR",
+    "lastUpdated": "2023-11-01T16:48:29Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Link mindustry to discord chat"
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -799,15 +808,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
-  },
-  {
-    "repo": "King-BR/Mindustry-Discord-Chat",
-    "name": "Mindustry-Discord-Chat",
-    "author": "King-BR",
-    "lastUpdated": "2023-11-01T16:48:29Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Link mindustry to discord chat"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
