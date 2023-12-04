@@ -1231,5 +1231,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A gamemode plugin that makes players fight using randomly selected units"
+  },
+  {
+    "repo": "kennarddh/kotlin-mindustry-plugin-boilerplate",
+    "name": "kotlin-mindustry-plugin-boilerplate",
+    "author": "Kennarddh",
+    "lastUpdated": "2023-12-04T10:43:00Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Description"
   }
 ]
