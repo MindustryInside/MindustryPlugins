@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
@@ -1233,12 +1242,12 @@
     "description": "A gamemode plugin that makes players fight using randomly selected units"
   },
   {
-    "repo": "kennarddh/kotlin-mindustry-plugin-boilerplate",
-    "name": "kotlin-mindustry-plugin-boilerplate",
+    "repo": "kennarddh-mindustry/anti-bot-mindustry-plugin",
+    "name": "anti-bot-mindustry-plugin",
     "author": "Kennarddh",
-    "lastUpdated": "2023-12-04T10:43:00Z",
+    "lastUpdated": "2023-11-29T05:14:27Z",
     "stars": 0,
     "hasJava": true,
-    "description": "Description"
+    "description": "A plugin for kicking bot"
   }
 ]
