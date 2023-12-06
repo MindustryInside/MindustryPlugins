@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
@@ -520,15 +511,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
-    "repo": "xpdustry/NoPayloadConveyorCrash",
-    "name": "NoPayloadConveyorCrashPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-01T18:51:24Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No more payload conveyor crashes."
   },
   {
     "repo": "L0615T1C5-216AC-9437/LogicUpdater",
