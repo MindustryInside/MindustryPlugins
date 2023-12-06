@@ -513,6 +513,15 @@
     "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
   },
   {
+    "repo": "xpdustry/NoPayloadConveyorCrash",
+    "name": "NoPayloadConveyorCrashPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-03-01T18:51:24Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No more payload conveyor crashes."
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/LogicUpdater",
     "name": "LogicUpdater",
     "author": "L0615T1C5.216AC#9437's cat",
