@@ -774,15 +774,6 @@
     "description": "A Reddit-like server for sharing schematics."
   },
   {
-    "repo": "Redstonneur1256/Bot-Remover",
-    "name": "Bot-Remover",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-06-10T07:32:26Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "xpdustry/Simple-Blacklist",
     "name": "Simple Blacklist",
     "author": "ZetaMap",
@@ -835,6 +826,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
+  },
+  {
+    "repo": "Redstonneur1256/Bot-Remover",
+    "name": "Bot-Remover",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2023-12-07T11:05:46Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -1258,5 +1258,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for kicking bot"
+  },
+  {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "genesis",
+    "author": "Kennarddh",
+    "lastUpdated": "2023-12-07T12:46:51Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Plugin"
   }
 ]
