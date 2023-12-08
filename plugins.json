@@ -1152,15 +1152,6 @@
     "description": "Bug fixed: PayloadConveyor"
   },
   {
-    "repo": "xpdustry/HexedPluginReloaded",
-    "name": "HexedPluginReloaded",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-04-01T01:56:01Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A reimplementation of the hexed gamemode, with more features and better performances."
-  },
-  {
     "repo": "Mitsukiaa/norussians",
     "name": "norussians",
     "author": "AtomSnow",
@@ -1252,9 +1243,9 @@
   },
   {
     "repo": "kennarddh-mindustry/genesis",
-    "name": "genesis",
+    "name": "Genesis",
     "author": "Kennarddh",
-    "lastUpdated": "2023-12-08T08:14:54Z",
+    "lastUpdated": "2023-12-08T19:39:53Z",
     "stars": 0,
     "hasJava": true,
     "description": "Plugin"
