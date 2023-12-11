@@ -45,13 +45,13 @@
     "description": "Allows admins to execute JavaScript code using a special command."
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
+    "repo": "KotMilkMeoWtwo/MeowLandPlugin",
+    "name": "meowland plugin",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2023-07-02T09:28:04Z",
+    "stars": 14,
     "hasJava": true,
-    "description": "It will work soon, I promise."
+    "description": "nya"
   },
   {
     "repo": "xpdustry/distributor",
@@ -295,6 +295,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "A plugin to auto pause(resume) server when empty(or not)."
+  },
+  {
+    "repo": "Gee-aitcH/GHMP-NukeAlert",
+    "name": "GHMP-NukeAlert",
+    "author": "(G_H)",
+    "lastUpdated": "2019-10-19T18:35:20Z",
+    "stars": 3,
+    "hasJava": true,
+    "description": "Simple Nuke Alert plugin for server."
   },
   {
     "repo": "deng-rui/plugins-mission",
@@ -837,6 +846,15 @@
     "description": "A plugin for the worst server ewer."
   },
   {
+    "repo": "Recessive/MindustryFFA",
+    "name": "MindustryFFA",
+    "author": "Recessive",
+    "lastUpdated": "2020-04-16T01:13:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "epic mindustry battle royale"
+  },
+  {
     "repo": "Blockzilla101/linker",
     "name": "linker",
     "author": "Blockzilla",
@@ -1227,7 +1245,7 @@
     "repo": "kennarddh-mindustry/genesis",
     "name": "Genesis",
     "author": "Kennarddh",
-    "lastUpdated": "2023-12-11T12:04:38Z",
+    "lastUpdated": "2023-12-11T16:24:57Z",
     "stars": 0,
     "hasJava": true,
     "description": "Plugin"
