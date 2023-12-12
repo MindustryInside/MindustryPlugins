@@ -1240,14 +1240,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for kicking bot"
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "Genesis",
-    "author": "Kennarddh",
-    "lastUpdated": "2023-12-11T16:24:57Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin"
   }
 ]
