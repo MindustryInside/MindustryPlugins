@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
@@ -792,15 +801,6 @@
     "description": "..."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "xpdustry",
-    "lastUpdated": "2023-10-11T18:36:23Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
     "repo": "550W-HOST/the-mindustry-server-plugin",
     "name": "the-mindustry-server-plugin",
     "author": "PaperCube",
@@ -826,6 +826,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "xpdustry",
+    "lastUpdated": "2023-12-12T14:09:06Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A companion plugin for Kotlin based plugins."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
