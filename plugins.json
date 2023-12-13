@@ -90,6 +90,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "osp54/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx",
+    "lastUpdated": "2023-02-09T08:55:03Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -169,6 +178,15 @@
     "stars": 6,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
+  },
+  {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2023-06-11T10:07:13Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -844,6 +862,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to tie player admin status with a discord role"
+  },
+  {
+    "repo": "jakubDoka/TWS-plugin",
+    "name": "TWS-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-06-06T18:15:22Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "j-vds/BuilderGame",
