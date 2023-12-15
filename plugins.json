@@ -1080,15 +1080,6 @@
     "description": "nya"
   },
   {
-    "repo": "Shadow53/MindustryAutoPausePlugin",
-    "name": "MindustryAutoPausePlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2022-06-26T06:45:32Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to automatically pause the game when no one is connected."
-  },
-  {
     "repo": "Shadow53/MindustryAdminPlugin",
     "name": "MindustryAdminPlugin",
     "author": "Shadow53",
@@ -1240,5 +1231,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin for kicking bot"
+  },
+  {
+    "repo": "Shadow53/MindustryAutoPausePlugin",
+    "name": "MindustryAutoPausePlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2023-12-15T02:39:23Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to automatically pause the game when no one is connected."
   }
 ]
