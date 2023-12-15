@@ -1080,24 +1080,6 @@
     "description": "nya"
   },
   {
-    "repo": "Shadow53/MindustryAdminPlugin",
-    "name": "MindustryAdminPlugin",
-    "author": "Shadow53",
-    "lastUpdated": "2022-06-26T07:56:27Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to run admin commands from the chat"
-  },
-  {
-    "repo": "Shadow53/MindustryAuthPlugin",
-    "name": "MindustryAuthPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2022-06-26T08:24:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "MindustryVN/SimpleRTV",
     "name": "SimpleRTV",
     "author": "NgLam2911",
@@ -1240,5 +1222,23 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to automatically pause the game when no one is connected."
+  },
+  {
+    "repo": "Shadow53/MindustryAuthPlugin",
+    "name": "MindustryAuthPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2023-12-15T17:56:20Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Shadow53/MindustryAdminPlugin",
+    "name": "MindustryAdminPlugin",
+    "author": "Shadow53",
+    "lastUpdated": "2023-12-15T20:10:26Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to run admin commands from the chat"
   }
 ]
