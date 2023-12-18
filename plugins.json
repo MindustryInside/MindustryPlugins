@@ -819,15 +819,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-12-08T19:54:15Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "xpdustry",
@@ -835,15 +826,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-12-17T01:41:47Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
