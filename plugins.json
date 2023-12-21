@@ -54,6 +54,15 @@
     "description": "nya"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 12,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
@@ -871,6 +880,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "j-vds/BuilderGame",
+    "name": "BuilderGame",
+    "author": "Fishbuilder",
+    "lastUpdated": "2020-09-04T09:32:52Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A new gamemode for mindustry."
   },
   {
     "repo": "Vortetty/SimpleUtilsPlugin",
