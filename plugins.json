@@ -216,6 +216,15 @@
     "description": "No description provided."
   },
   {
+    "repo": "xpdustry/nohorny",
+    "name": "NoHornyPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-12-23T22:44:36Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "NO HORNY IN MY SERVER!"
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
