@@ -54,15 +54,6 @@
     "description": "nya"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 12,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
@@ -1105,6 +1096,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
+  },
+  {
+    "repo": "NgLam2911/ExampleMindustryPlugin",
+    "name": "ExampleMindustryPlugin",
+    "author": "NgLam2911",
+    "lastUpdated": "2022-09-22T08:40:12Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "I haz no idea ..."
   },
   {
     "repo": "FIRE-WATER799/admin-commands-plugin",
