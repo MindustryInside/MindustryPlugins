@@ -648,6 +648,15 @@
     "description": "<insert thorium here>"
   },
   {
+    "repo": "Volas171/AlexServerPlugin",
+    "name": "AlexServerPlugin",
+    "author": "Alex and VolasYouKnow",
+    "lastUpdated": "2020-12-31T17:43:44Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some AlexServerPlugin features."
+  },
+  {
     "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
     "name": "Mindustry-Web-Dashboard-Plugin",
     "author": "MochaBoom",
@@ -916,15 +925,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
-  },
-  {
-    "repo": "Volas171/AlexServerPlugin",
-    "name": "AlexServerPlugin",
-    "author": "Alex and VolasYouKnow",
-    "lastUpdated": "2020-12-31T17:43:44Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some AlexServerPlugin features."
   },
   {
     "repo": "deltanedas/JSEval",
