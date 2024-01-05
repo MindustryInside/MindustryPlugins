@@ -81,15 +81,6 @@
     "description": "Sectorized game mode"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -228,7 +219,7 @@
     "repo": "xpdustry/nohorny",
     "name": "NoHornyPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2023-12-23T22:44:36Z",
+    "lastUpdated": "2024-01-04T21:07:18Z",
     "stars": 5,
     "hasJava": true,
     "description": "NO HORNY IN MY SERVER!"
