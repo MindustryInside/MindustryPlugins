@@ -189,6 +189,15 @@
     "description": "Fight against hordes of crawlers"
   },
   {
+    "repo": "xpdustry/nohorny",
+    "name": "NoHornyPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-01-08T17:08:52Z",
+    "stars": 6,
+    "hasJava": true,
+    "description": "NO HORNY IN MY SERVER!"
+  },
+  {
     "repo": "skykatik/AfkPlugin",
     "name": "AfkPlugin",
     "author": "Skat",
@@ -214,15 +223,6 @@
     "stars": 5,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "xpdustry/nohorny",
-    "name": "NoHornyPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-01-08T17:08:52Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "NO HORNY IN MY SERVER!"
   },
   {
     "repo": "Anuken/RateLimitPlugin",
