@@ -72,15 +72,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2023-01-15T17:56:34Z",
-    "stars": 10,
-    "hasJava": true,
-    "description": "Sectorized game mode"
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -814,15 +805,6 @@
     "name": "Bot-Remover",
     "author": "Redstonneur1256",
     "lastUpdated": "2023-12-07T11:05:46Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "xpdustry/nucleus",
-    "name": "Nucleus",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-12-08T19:54:15Z",
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
