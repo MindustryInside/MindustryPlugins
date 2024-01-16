@@ -72,6 +72,15 @@
     "description": "Plugin for my server"
   },
   {
+    "repo": "Pointifix/SectorizedPlugin",
+    "name": "SectorizedPlugin",
+    "author": "Pointifix",
+    "lastUpdated": "2023-01-15T17:56:34Z",
+    "stars": 10,
+    "hasJava": true,
+    "description": "Sectorized game mode"
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
