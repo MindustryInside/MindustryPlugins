@@ -567,15 +567,6 @@
     "description": "Utterly eradicate DDoS bots."
   },
   {
-    "repo": "Quezler/mindustry__plugin--weepingangel",
-    "name": "mindustry__plugin--weepingangel",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-22T18:09:11Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "!weepingangel"
-  },
-  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -673,15 +664,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Admin Chat plugin for server."
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
-    "name": "mindustry-recapture-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-06-17T19:18:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Recapture pvp minigame for Mindustry"
   },
   {
     "repo": "j-vds/randomEnemySpawn",
@@ -846,24 +828,6 @@
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   },
   {
-    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
-    "name": "Xenon-Mindustry-Plugin",
-    "author": "Iapetus11",
-    "lastUpdated": "2020-02-03T18:57:34Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
-  },
-  {
     "repo": "Recessive/MindustryFFA",
     "name": "MindustryFFA",
     "author": "Recessive",
@@ -907,15 +871,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Patryk434/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2020-09-29T17:16:36Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for spawn units."
   },
   {
     "repo": "Kickbut101/MultiplayerPausePlugin",
@@ -1006,15 +961,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
