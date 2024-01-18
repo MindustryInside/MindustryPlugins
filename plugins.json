@@ -120,7 +120,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-01-02T21:08:40Z",
+    "lastUpdated": "2024-01-18T14:32:17Z",
     "stars": 8,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -565,15 +565,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Utterly eradicate DDoS bots."
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-01-17T17:50:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
