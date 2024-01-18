@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2024-01-04T10:41:38Z",
+    "lastUpdated": "2024-01-18T08:01:32Z",
     "stars": 54,
     "hasJava": true,
     "description": "More commands and features."
@@ -567,6 +567,24 @@
     "description": "Utterly eradicate DDoS bots."
   },
   {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-01-17T17:50:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "Quezler/mindustry__plugin--weepingangel",
+    "name": "mindustry__plugin--weepingangel",
+    "author": "Quezler",
+    "lastUpdated": "2020-01-22T18:09:11Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "!weepingangel"
+  },
+  {
     "repo": "Jaskowicz1/Mindustry-Discord-Relay",
     "name": "Mindustry-Discord-Relay",
     "author": "ArchieJaskowicz",
@@ -664,6 +682,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Admin Chat plugin for server."
+  },
+  {
+    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
+    "name": "mindustry-recapture-plugin",
+    "author": "FatonnDev",
+    "lastUpdated": "2021-06-17T19:18:14Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Recapture pvp minigame for Mindustry"
   },
   {
     "repo": "j-vds/randomEnemySpawn",
@@ -801,6 +828,15 @@
     "description": "No description provided."
   },
   {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-12-08T19:54:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "gerdoe-jr/Discustry",
     "name": "Discustry",
     "author": "gerdoe",
@@ -826,6 +862,24 @@
     "stars": 1,
     "hasJava": true,
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
+  },
+  {
+    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
+    "name": "Xenon-Mindustry-Plugin",
+    "author": "Iapetus11",
+    "lastUpdated": "2020-02-03T18:57:34Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "idk"
+  },
+  {
+    "repo": "Neba-MD/The-worst-mindustry-plugin",
+    "name": "The-worst-mindustry-plugin",
+    "author": "Mlokis",
+    "lastUpdated": "2020-03-28T14:39:31Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin for the worst server ewer."
   },
   {
     "repo": "Recessive/MindustryFFA",
@@ -871,6 +925,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "Patryk434/spawnUnit",
+    "name": "spawnUnit",
+    "author": "Nipple",
+    "lastUpdated": "2020-09-29T17:16:36Z",
+    "stars": 0,
+    "hasJava": false,
+    "description": "A plugin for spawn units."
   },
   {
     "repo": "Kickbut101/MultiplayerPausePlugin",
