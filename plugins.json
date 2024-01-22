@@ -567,6 +567,15 @@
     "description": "Utterly eradicate DDoS bots."
   },
   {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-01-17T17:50:22Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -814,6 +823,15 @@
     "name": "Bot-Remover",
     "author": "Redstonneur1256",
     "lastUpdated": "2023-12-07T11:05:46Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-12-08T19:54:15Z",
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
