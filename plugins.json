@@ -216,6 +216,15 @@
     "description": "Extension for hub plugin. Allow to connect players with mods"
   },
   {
+    "repo": "Ilya246/assistBots",
+    "name": "assistBots",
+    "author": "[USMP]Ilya246",
+    "lastUpdated": "2022-11-04T09:53:10Z",
+    "stars": 5,
+    "hasJava": true,
+    "description": "Adds bots to assist players."
+  },
+  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -268,15 +277,6 @@
     "stars": 4,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "Ilya246/assistBots",
-    "name": "assistBots",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2022-11-04T09:53:10Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Adds bots to assist players."
   },
   {
     "repo": "Fatonndev/MatrixHub-plugin",
