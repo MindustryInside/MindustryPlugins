@@ -1249,14 +1249,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to run admin commands from the chat"
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-01-26T09:58:09Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin"
   }
 ]
