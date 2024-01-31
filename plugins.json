@@ -4,7 +4,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2024-01-30T13:39:04Z",
-    "stars": 82,
+    "stars": 83,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -63,6 +63,15 @@
     "description": "Plugin for my server"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -111,7 +120,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-01-18T14:32:17Z",
+    "lastUpdated": "2024-01-31T13:42:39Z",
     "stars": 8,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
