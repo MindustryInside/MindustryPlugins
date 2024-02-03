@@ -63,15 +63,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -552,7 +543,7 @@
     "repo": "xpdustry/imperium",
     "name": "Imperium",
     "author": "Xpdustry",
-    "lastUpdated": "2024-01-30T12:51:28Z",
+    "lastUpdated": "2024-02-02T20:36:30Z",
     "stars": 2,
     "hasJava": true,
     "description": "No description provided."
