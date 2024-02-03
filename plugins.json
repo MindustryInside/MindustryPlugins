@@ -63,15 +63,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -1213,5 +1204,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to run admin commands from the chat"
+  },
+  {
+    "repo": "kennarddh-mindustry/toast",
+    "name": "ToastCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-02-03T17:17:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Description"
   }
 ]
