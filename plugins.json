@@ -111,7 +111,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-01-31T13:42:39Z",
+    "lastUpdated": "2024-02-03T21:59:25Z",
     "stars": 8,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -1204,14 +1204,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to run admin commands from the chat"
-  },
-  {
-    "repo": "kennarddh-mindustry/toast",
-    "name": "ToastCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-02-03T17:17:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Description"
   }
 ]
