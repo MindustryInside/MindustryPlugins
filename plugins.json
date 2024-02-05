@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2024-01-30T13:39:04Z",
-    "stars": 83,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -817,15 +808,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
-  },
-  {
-    "repo": "Redstonneur1256/Bot-Remover",
-    "name": "Bot-Remover",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2024-01-28T23:56:40Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
