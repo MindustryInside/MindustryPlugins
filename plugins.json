@@ -63,15 +63,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -808,6 +799,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
+  },
+  {
+    "repo": "Redstonneur1256/Bot-Remover",
+    "name": "Bot-Remover",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2024-01-28T23:56:40Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
