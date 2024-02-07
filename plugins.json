@@ -63,15 +63,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -531,15 +522,6 @@
     "description": "New command, events, core protection from thorium reactors and more"
   },
   {
-    "repo": "King-BR/Mindustry-Discord-Chat",
-    "name": "Mindustry-Discord-Chat",
-    "author": "King-BR",
-    "lastUpdated": "2023-11-01T16:48:29Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Link mindustry to discord chat"
-  },
-  {
     "repo": "TheRadioactiveBanana/BotEradicator",
     "name": "BotEradicator",
     "author": "TheRadioactiveBanana",
@@ -556,6 +538,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "King-BR/Mindustry-Discord-Chat",
+    "name": "Mindustry-Discord-Chat",
+    "author": "King-BR",
+    "lastUpdated": "2024-02-07T01:26:02Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Link mindustry to discord chat"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -799,6 +790,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Plugin for thedimas' servers."
+  },
+  {
+    "repo": "xpdustry/nucleus",
+    "name": "Nucleus",
+    "author": "Xpdustry",
+    "lastUpdated": "2023-12-08T19:54:15Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "gerdoe-jr/Discustry",
