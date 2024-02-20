@@ -1215,15 +1215,6 @@
     "description": "AutoPausing Server"
   },
   {
-    "repo": "kennarddh-mindustry/toast",
-    "name": "ToastCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-02-18T09:50:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Description"
-  },
-  {
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Anuke",
@@ -1231,5 +1222,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "kennarddh-mindustry/toast",
+    "name": "ToastCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-02-20T12:46:19Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Description"
   }
 ]
