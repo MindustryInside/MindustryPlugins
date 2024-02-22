@@ -1222,5 +1222,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "kennarddh-mindustry/toast",
+    "name": "ToastCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-02-22T13:46:33Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Description"
   }
 ]
