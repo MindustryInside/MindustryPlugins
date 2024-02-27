@@ -63,15 +63,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -1098,7 +1089,7 @@
     "description": "Bug fixed: PayloadConveyor"
   },
   {
-    "repo": "Mitsukiaa/norussians",
+    "repo": "MacchiatoNeko/norussians",
     "name": "norussians",
     "author": "AtomSnow",
     "lastUpdated": "2023-04-05T06:48:51Z",
