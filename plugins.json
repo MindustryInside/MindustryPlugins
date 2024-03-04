@@ -4,7 +4,7 @@
     "name": "ScriptAgent4MindustryExt",
     "author": "WayZer",
     "lastUpdated": "2024-02-13T14:05:06Z",
-    "stars": 83,
+    "stars": 84,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2024-02-26T02:29:22Z",
-    "stars": 55,
+    "stars": 56,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -531,15 +531,6 @@
     "description": "Utterly eradicate DDoS bots."
   },
   {
-    "repo": "King-BR/Mindustry-Discord-Chat",
-    "name": "Mindustry-Discord-Chat",
-    "author": "King-BR",
-    "lastUpdated": "2024-02-07T01:26:02Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Link mindustry to discord chat"
-  },
-  {
     "repo": "xpdustry/imperium",
     "name": "Imperium",
     "author": "Xpdustry",
@@ -547,6 +538,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "King-BR/Mindustry-Discord-Chat",
+    "name": "Mindustry-Discord-Chat",
+    "author": "King-BR",
+    "lastUpdated": "2024-03-04T01:47:55Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "Link mindustry to discord chat"
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
