@@ -657,15 +657,6 @@
     "description": "Recapture pvp minigame for Mindustry"
   },
   {
-    "repo": "j-vds/randomEnemySpawn",
-    "name": "randomEnemySpawn",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T17:54:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Spawns enemies in a random location..."
-  },
-  {
     "repo": "j-vds/TeamPlugin",
     "name": "TeamPlugin",
     "author": "Fishbuilder",
@@ -1231,5 +1222,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "kennarddh-mindustry/toast",
+    "name": "ToastCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-03-05T09:41:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Description"
   }
 ]
