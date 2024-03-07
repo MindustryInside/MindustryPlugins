@@ -48,7 +48,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-03-03T00:18:57Z",
+    "lastUpdated": "2024-03-06T23:24:57Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -522,15 +522,6 @@
     "description": "Checks if logic can be updated"
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "TheRadioactiveBanana/BotEradicator",
     "name": "BotEradicator",
     "author": "TheRadioactiveBanana",
@@ -547,15 +538,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-03-06T15:56:31Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
