@@ -48,7 +48,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-03-07T09:56:29Z",
+    "lastUpdated": "2024-03-09T14:13:11Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -61,6 +61,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Plugin for my server"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
