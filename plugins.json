@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2024-02-13T14:05:06Z",
-    "stars": 84,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -61,15 +52,6 @@
     "stars": 11,
     "hasJava": true,
     "description": "Plugin for my server"
-  },
-  {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -1227,7 +1209,7 @@
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Anuke",
-    "lastUpdated": "2024-02-19T08:28:26Z",
+    "lastUpdated": "2024-03-13T18:56:31Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
