@@ -63,6 +63,15 @@
     "description": "Plugin for my server"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -198,15 +207,6 @@
     "description": "Adds bots to assist players."
   },
   {
-    "repo": "pisceskkk/Mindustry_ServerAutoPause",
-    "name": "Mindustry_ServerAutoPause",
-    "author": "pisceskkk",
-    "lastUpdated": "2023-01-11T10:17:42Z",
-    "stars": 5,
-    "hasJava": true,
-    "description": "A plugin to auto pause(resume) server when empty(or not)."
-  },
-  {
     "repo": "Anuken/RateLimitPlugin",
     "name": "RateLimitPlugin",
     "author": "Anuke",
@@ -268,6 +268,15 @@
     "stars": 4,
     "hasJava": true,
     "description": "Better Hub plugin for servers"
+  },
+  {
+    "repo": "pisceskkk/Mindustry_ServerAutoPause",
+    "name": "Mindustry_ServerAutoPause",
+    "author": "pisceskkk",
+    "lastUpdated": "2023-01-11T10:17:42Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "A plugin to auto pause(resume) server when empty(or not)."
   },
   {
     "repo": "Gee-aitcH/GHMP-NukeAlert",
@@ -511,6 +520,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Checks if logic can be updated"
+  },
+  {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "TheRadioactiveBanana/BotEradicator",
