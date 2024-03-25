@@ -1152,15 +1152,6 @@
     "description": "..."
   },
   {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2023-11-23T20:35:55Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
-  },
-  {
     "repo": "Ilya246/randomArena",
     "name": "randomArena",
     "author": "Ilya246",
@@ -1222,5 +1213,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "GaviTSRA/TSR-Core",
+    "name": "TSR-Core",
+    "author": "GaviTSRA",
+    "lastUpdated": "2024-03-24T21:04:26Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "TSR Core Library Plugin"
   }
 ]
