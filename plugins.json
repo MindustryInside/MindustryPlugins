@@ -63,15 +63,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -810,24 +801,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-03-19T11:14:33Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
-  },
-  {
-    "repo": "kennarddh-mindustry/toast",
-    "name": "ToastCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-03-30T12:55:05Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Description"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "xpdustry",
@@ -997,15 +970,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -1254,7 +1218,7 @@
     "repo": "GaviTSRA/TSR-Core",
     "name": "TSR-Core",
     "author": "GaviTSRA",
-    "lastUpdated": "2024-03-30T12:16:00Z",
+    "lastUpdated": "2024-04-01T09:37:49Z",
     "stars": 0,
     "hasJava": true,
     "description": "TSR Core Library Plugin"
