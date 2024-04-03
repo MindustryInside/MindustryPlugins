@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2024-02-13T14:05:06Z",
-    "stars": 86,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -48,7 +39,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-03-28T23:11:10Z",
+    "lastUpdated": "2024-04-02T20:24:49Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -61,6 +52,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Plugin for my server"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -165,7 +165,7 @@
     "repo": "xpdustry/nohorny",
     "name": "NoHornyPlugin",
     "author": "Xpdustry",
-    "lastUpdated": "2024-04-02T20:10:12Z",
+    "lastUpdated": "2024-04-02T20:56:21Z",
     "stars": 6,
     "hasJava": true,
     "description": "NO HORNY IN MY SERVER!"
@@ -720,15 +720,6 @@
     "description": "Allows players to change team."
   },
   {
-    "repo": "xpdustry/Router",
-    "name": "RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-29T23:13:26Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
-  },
-  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -783,15 +774,6 @@
     "description": "Simple as fuck Discord-Mindustry bridge plugin."
   },
   {
-    "repo": "xpdustry/Simple-Blacklist",
-    "name": "Simple Blacklist",
-    "author": "ZetaMap",
-    "lastUpdated": "2024-01-11T07:49:28Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
-  },
-  {
     "repo": "Redstonneur1256/Bot-Remover",
     "name": "Bot-Remover",
     "author": "Redstonneur1256",
@@ -801,13 +783,49 @@
     "description": "No description provided."
   },
   {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-03-19T11:14:33Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
+  },
+  {
+    "repo": "kennarddh-mindustry/toast",
+    "name": "ToastCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-01T07:34:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Description"
+  },
+  {
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "xpdustry",
-    "lastUpdated": "2024-03-31T02:26:56Z",
+    "lastUpdated": "2024-04-02T20:24:35Z",
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "xpdustry/Router",
+    "name": "RouterPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-04-02T20:24:47Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "xpdustry/Simple-Blacklist",
+    "name": "Simple Blacklist",
+    "author": "ZetaMap",
+    "lastUpdated": "2024-04-02T20:46:01Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -972,6 +990,15 @@
     "description": "A recreation of IO's plugin"
   },
   {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
+  },
+  {
     "repo": "jakubDoka/mindustry-plugin-utils",
     "name": "Mindustry Plugin Kotlin",
     "author": "Seungjae Park",
@@ -979,15 +1006,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2021-11-06T17:37:50Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
   },
   {
     "repo": "laxtiz/mindustry-cheat",
@@ -1222,5 +1240,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "TSR Core Library Plugin"
+  },
+  {
+    "repo": "xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2024-04-02T20:24:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Kick afk bois."
   }
 ]
