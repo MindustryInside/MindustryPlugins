@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2024-03-23T09:03:42Z",
+    "lastUpdated": "2024-04-08T12:35:53Z",
     "stars": 56,
     "hasJava": true,
     "description": "More commands and features."
@@ -48,7 +48,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-04-08T03:05:17Z",
+    "lastUpdated": "2024-04-08T15:29:26Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -61,6 +61,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Plugin for my server"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
