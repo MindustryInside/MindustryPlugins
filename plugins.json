@@ -261,6 +261,15 @@
     "description": "Better Hub plugin for servers"
   },
   {
+    "repo": "Kowkodivka/BetterConsole",
+    "name": "BetterConsole",
+    "author": "OSPx, lucin",
+    "lastUpdated": "2022-12-10T06:54:17Z",
+    "stars": 4,
+    "hasJava": true,
+    "description": "The mindustry plugin that improves the input of console commands."
+  },
+  {
     "repo": "pisceskkk/Mindustry_ServerAutoPause",
     "name": "Mindustry_ServerAutoPause",
     "author": "pisceskkk",
@@ -322,15 +331,6 @@
     "stars": 3,
     "hasJava": true,
     "description": "Plugin made for the MindustryBR servers"
-  },
-  {
-    "repo": "Kowkodivka/BetterConsole",
-    "name": "BetterConsole",
-    "author": "OSPx, lucin",
-    "lastUpdated": "2022-12-10T06:54:17Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "The mindustry plugin that improves the input of console commands."
   },
   {
     "repo": "mindustry-antigrief/mindustry-plugin",
@@ -513,13 +513,13 @@
     "description": "Checks if logic can be updated"
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
+    "repo": "Kowkodivka/PluginJNIExample",
+    "name": "PluginJNIExample",
+    "author": "kowkodivka",
+    "lastUpdated": "2023-09-03T01:54:01Z",
     "stars": 2,
     "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
+    "description": "..."
   },
   {
     "repo": "TheRadioactiveBanana/BotEradicator",
@@ -538,15 +538,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
-  },
-  {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-04-08T03:17:16Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -756,15 +747,6 @@
     "description": "chat. Use command /c."
   },
   {
-    "repo": "Kowkodivka/PluginJNIExample",
-    "name": "PluginJNIExample",
-    "author": "kowkodivka",
-    "lastUpdated": "2023-09-03T01:54:01Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "..."
-  },
-  {
     "repo": "550W-HOST/the-mindustry-server-plugin",
     "name": "the-mindustry-server-plugin",
     "author": "PaperCube",
@@ -772,6 +754,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
+  },
+  {
+    "repo": "Kowkodivka/AntiBot",
+    "name": "AntiBot",
+    "author": "kwokodivka",
+    "lastUpdated": "2023-11-01T16:26:04Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "..."
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -1150,15 +1141,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
-  },
-  {
-    "repo": "Kowkodivka/AntiBot",
-    "name": "AntiBot",
-    "author": "kwokodivka",
-    "lastUpdated": "2023-11-01T16:26:04Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "..."
   },
   {
     "repo": "Ilya246/randomArena",
