@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2024-04-08T12:35:53Z",
+    "lastUpdated": "2024-04-12T14:06:21Z",
     "stars": 56,
     "hasJava": true,
     "description": "More commands and features."
@@ -61,6 +61,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Plugin for my server"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "Pointifix/SectorizedPlugin",
@@ -513,6 +522,15 @@
     "description": "Checks if logic can be updated"
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
@@ -538,6 +556,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
+  },
+  {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-04-10T18:38:42Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -1206,15 +1233,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2024-04-01T13:47:20Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
-  },
-  {
     "repo": "xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
@@ -1231,5 +1249,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
+  },
+  {
+    "repo": "GaviTSRA/TSR-Core",
+    "name": "TSR-Core",
+    "author": "GaviTSRA",
+    "lastUpdated": "2024-04-12T14:39:30Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "TSR Core Library Plugin"
   }
 ]
