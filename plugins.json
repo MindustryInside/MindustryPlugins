@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2024-04-14T06:17:17Z",
+    "lastUpdated": "2024-04-16T08:54:41Z",
     "stars": 56,
     "hasJava": true,
     "description": "More commands and features."
@@ -790,6 +790,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "kennarddh-mindustry/toast",
+    "name": "ToastCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-01T07:34:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Description"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
