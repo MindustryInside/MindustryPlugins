@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-04-15T19:05:22Z",
+    "lastUpdated": "2024-04-18T21:24:35Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -826,15 +826,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-03-19T11:14:33Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
