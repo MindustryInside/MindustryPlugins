@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-04-18T21:24:35Z",
+    "lastUpdated": "2024-04-19T01:54:23Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -1272,9 +1272,18 @@
     "repo": "Atomic-Laboratory/Argon",
     "name": "Argon (A RabbitMQ Client)",
     "author": "Atomic Laboratories",
-    "lastUpdated": "2024-04-16T22:51:51Z",
+    "lastUpdated": "2024-04-19T02:23:46Z",
     "stars": 0,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
+  },
+  {
+    "repo": "Atomic-Laboratory/ChatTranslation",
+    "name": "Chat Translation",
+    "author": "Atomic Laboratories",
+    "lastUpdated": "2024-04-19T02:34:14Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Translate Chat through the power of API's"
   }
 ]
