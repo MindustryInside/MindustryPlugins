@@ -549,6 +549,15 @@
     "description": "No more payload conveyor crashes."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
@@ -579,7 +588,7 @@
     "repo": "xpdustry/imperium",
     "name": "Imperium",
     "author": "Xpdustry",
-    "lastUpdated": "2024-04-21T10:31:53Z",
+    "lastUpdated": "2024-04-21T21:13:40Z",
     "stars": 2,
     "hasJava": true,
     "description": "No description provided."
@@ -628,15 +637,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
-    "repo": "Pointifix/UniqueUsernamesPlugin",
-    "name": "UniqueUsernamesPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2020-04-24T21:37:19Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Saves the username of each joined user and prohibits impersonations."
   },
   {
     "repo": "MindustryParty/Plugin",
@@ -835,6 +835,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-03-19T11:14:33Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
