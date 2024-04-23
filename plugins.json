@@ -882,6 +882,15 @@
     "description": "Adds a tag to a players name in chat"
   },
   {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-22T09:40:39Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
+  },
+  {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
     "name": "Xenon-Mindustry-Plugin",
     "author": "Iapetus11",
@@ -1299,7 +1308,7 @@
     "repo": "Atomic-Laboratory/ChatTranslation",
     "name": "Chat Translation",
     "author": "Atomic Laboratories",
-    "lastUpdated": "2024-04-19T02:34:14Z",
+    "lastUpdated": "2024-04-22T20:56:26Z",
     "stars": 0,
     "hasJava": true,
     "description": "Translate Chat through the power of API's"
