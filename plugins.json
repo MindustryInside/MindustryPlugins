@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-04-22T01:58:31Z",
+    "lastUpdated": "2024-04-23T02:00:17Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -880,15 +880,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds a tag to a players name in chat"
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-22T09:40:39Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
