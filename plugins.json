@@ -846,15 +846,6 @@
     "description": "Adds a tag to a players name in chat"
   },
   {
-    "repo": "kennarddh-mindustry/toast",
-    "name": "ToastCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-25T07:51:39Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Description"
-  },
-  {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
     "name": "Xenon-Mindustry-Plugin",
     "author": "Iapetus11",
