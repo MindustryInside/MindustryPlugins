@@ -111,7 +111,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-04-26T13:56:32Z",
+    "lastUpdated": "2024-04-27T13:02:27Z",
     "stars": 8,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -765,15 +765,6 @@
     "description": "..."
   },
   {
-    "repo": "thedimasNetwork/StellarPlugin",
-    "name": "StellarPlugin",
-    "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2023-11-27T21:03:48Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin for thedimas' servers."
-  },
-  {
     "repo": "gerdoe-jr/Discustry",
     "name": "Discustry",
     "author": "gerdoe",
@@ -837,6 +828,15 @@
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
   },
   {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-24T08:56:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
+  },
+  {
     "repo": "Atomic-Laboratory/ChatTag",
     "name": "Chat Tag",
     "author": "Atomic Laboratories",
@@ -844,6 +844,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds a tag to a players name in chat"
+  },
+  {
+    "repo": "thedimasNetwork/StellarPlugin",
+    "name": "StellarPlugin",
+    "author": "thedimas & Ahsoka-501 & skykatik",
+    "lastUpdated": "2024-04-27T14:37:49Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin for thedimas' servers."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
