@@ -828,15 +828,6 @@
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
   },
   {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
-  },
-  {
     "repo": "Atomic-Laboratory/ChatTag",
     "name": "Chat Tag",
     "author": "Atomic Laboratories",
