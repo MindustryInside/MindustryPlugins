@@ -837,15 +837,6 @@
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
   },
   {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
-  },
-  {
     "repo": "Atomic-Laboratory/ChatTag",
     "name": "Chat Tag",
     "author": "Atomic Laboratories",
@@ -972,15 +963,6 @@
     "description": "lol"
   },
   {
-    "repo": "Minxyzgo/UpdateModPlugin",
-    "name": "UpdateModPlugin",
-    "author": "Minxyzgo",
-    "lastUpdated": "2021-03-07T10:09:49Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "一个插件用于更新模组与其他插件 (使用git api)"
-  },
-  {
     "repo": "Volas171/Anti-Spam",
     "name": "Anti-Spam",
     "author": "VolasYouKnow",
@@ -1024,15 +1006,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "Prosta4okua/ExamplePlugin",
-    "name": "Example Plugin",
-    "author": "Darkness6030",
-    "lastUpdated": "2021-08-11T18:43:10Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
@@ -1251,15 +1224,6 @@
     "description": "AutoPausing Server"
   },
   {
-    "repo": "sharrlotte/MindustryToolPlugin",
-    "name": "MindustryToolPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2024-03-13T18:56:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "xpdustry/AfkPlugin",
     "name": "Xpdustry AfkPlugin",
     "author": "Phinner",
@@ -1269,15 +1233,6 @@
     "description": "Kick afk bois."
   },
   {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2024-04-16T14:57:42Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
-  },
-  {
     "repo": "Atomic-Laboratory/ChatTranslation",
     "name": "Chat Translation",
     "author": "Atomic Laboratories",
@@ -1285,5 +1240,23 @@
     "stars": 0,
     "hasJava": true,
     "description": "Translate Chat through the power of API's"
+  },
+  {
+    "repo": "GaviTSRA/TSR-Core",
+    "name": "TSR-Core",
+    "author": "GaviTSRA",
+    "lastUpdated": "2024-05-02T12:51:35Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "TSR Core Library Plugin"
+  },
+  {
+    "repo": "sharrlotte/MindustryToolPlugin",
+    "name": "MindustryToolPlugin",
+    "author": "Anuke",
+    "lastUpdated": "2024-05-02T14:37:40Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
