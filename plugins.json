@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2024-05-04T05:19:27Z",
+    "lastUpdated": "2024-05-07T10:52:39Z",
     "stars": 55,
     "hasJava": true,
     "description": "More commands and features."
@@ -120,7 +120,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-07T08:03:00Z",
+    "lastUpdated": "2024-05-07T18:10:53Z",
     "stars": 8,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -192,7 +192,7 @@
     "repo": "xpdustry/nohorny",
     "name": "NoHorny",
     "author": "Xpdustry",
-    "lastUpdated": "2024-05-04T21:00:33Z",
+    "lastUpdated": "2024-05-07T14:52:10Z",
     "stars": 6,
     "hasJava": true,
     "description": "NO HORNY IN MY SERVER!"
@@ -864,6 +864,15 @@
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
   },
   {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-24T08:56:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
+  },
+  {
     "repo": "Atomic-Laboratory/ChatTag",
     "name": "Chat Tag",
     "author": "Atomic Laboratories",
@@ -1152,7 +1161,7 @@
     "description": "Bug fixed: PayloadConveyor"
   },
   {
-    "repo": "MacchiatoNeko/norussians",
+    "repo": "kohakow/norussians",
     "name": "norussians",
     "author": "AtomSnow",
     "lastUpdated": "2023-04-05T06:48:51Z",
@@ -1290,7 +1299,7 @@
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
-    "lastUpdated": "2024-05-06T19:47:05Z",
+    "lastUpdated": "2024-05-07T14:26:03Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
