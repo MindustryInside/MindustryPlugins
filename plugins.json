@@ -558,15 +558,6 @@
     "description": "No more payload conveyor crashes."
   },
   {
-    "repo": "GitNeu256/LABORATORY",
-    "name": "LABORATORY",
-    "author": "Neu",
-    "lastUpdated": "2023-05-08T08:32:53Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "LABORATORY - new mindustry game mode."
-  },
-  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
@@ -880,15 +871,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
@@ -1317,7 +1299,7 @@
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
-    "lastUpdated": "2024-05-09T15:37:19Z",
+    "lastUpdated": "2024-05-10T07:05:06Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
