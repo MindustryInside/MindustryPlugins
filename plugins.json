@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-05-10T02:11:33Z",
+    "lastUpdated": "2024-05-10T19:33:31Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -153,6 +153,15 @@
     "description": "NO HORNY IN MY SERVER!"
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2024-05-10T19:00:43Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -187,15 +196,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "Adds a history command to display a tiles build/break history"
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2023-06-11T10:07:13Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -576,15 +576,6 @@
     "description": "Link mindustry to discord chat"
   },
   {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-05-10T12:52:29Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -871,6 +862,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
+  },
+  {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-24T08:56:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
