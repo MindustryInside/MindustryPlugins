@@ -72,15 +72,6 @@
     "description": "Plugin for my server"
   },
   {
-    "repo": "xzxADIxzx/Hex-Industry",
-    "name": "Hex Industry",
-    "author": "xzxADIxzx, Darkness6030",
-    "lastUpdated": "2023-03-27T13:45:00Z",
-    "stars": 11,
-    "hasJava": true,
-    "description": "It will work soon, I promise."
-  },
-  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -165,7 +156,7 @@
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-11T15:05:01Z",
+    "lastUpdated": "2024-05-11T17:44:42Z",
     "stars": 7,
     "hasJava": true,
     "description": "Fight against hordes of crawlers"
@@ -558,6 +549,15 @@
     "description": "No more payload conveyor crashes."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
@@ -583,6 +583,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "Link mindustry to discord chat"
+  },
+  {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-05-10T12:52:29Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Quezler/mindustry__plugin--weepingangel",
@@ -871,6 +880,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
+  },
+  {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-24T08:56:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
