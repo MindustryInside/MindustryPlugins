@@ -12,7 +12,7 @@
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
-    "lastUpdated": "2024-05-07T10:52:39Z",
+    "lastUpdated": "2024-05-11T12:26:15Z",
     "stars": 55,
     "hasJava": true,
     "description": "More commands and features."
@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-05-10T21:01:03Z",
+    "lastUpdated": "2024-05-11T14:18:18Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -70,6 +70,15 @@
     "stars": 11,
     "hasJava": true,
     "description": "Plugin for my server"
+  },
+  {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
   },
   {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
@@ -156,7 +165,7 @@
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-11T06:42:06Z",
+    "lastUpdated": "2024-05-11T15:05:01Z",
     "stars": 7,
     "hasJava": true,
     "description": "Fight against hordes of crawlers"
@@ -862,15 +871,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
