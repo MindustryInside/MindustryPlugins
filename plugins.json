@@ -72,6 +72,15 @@
     "description": "Plugin for my server"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -156,7 +165,7 @@
     "repo": "Ilya246/crawler_arena",
     "name": "crawler_arena",
     "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-11T17:44:42Z",
+    "lastUpdated": "2024-05-12T14:29:31Z",
     "stars": 7,
     "hasJava": true,
     "description": "Fight against hordes of crawlers"
@@ -1290,7 +1299,7 @@
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
-    "lastUpdated": "2024-05-10T07:05:06Z",
+    "lastUpdated": "2024-05-12T11:52:22Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
