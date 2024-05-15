@@ -576,6 +576,15 @@
     "description": "Link mindustry to discord chat"
   },
   {
+    "repo": "xpdustry/imperium",
+    "name": "Imperium",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-05-13T21:50:06Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
@@ -862,15 +871,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
