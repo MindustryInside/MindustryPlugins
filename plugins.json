@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-05-13T11:20:50Z",
+    "lastUpdated": "2024-05-16T19:56:15Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -151,15 +151,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "NO HORNY IN MY SERVER!"
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-12T14:29:31Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
@@ -862,6 +853,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
+  },
+  {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-24T08:56:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
