@@ -864,15 +864,6 @@
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
   },
   {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
-  },
-  {
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
@@ -889,6 +880,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "Adds a tag to a players name in chat"
+  },
+  {
+    "repo": "ericchase/java--mindustry-plugin",
+    "name": "java--mindustry-plugin",
+    "author": "Anuke",
+    "lastUpdated": "2024-05-16T10:35:37Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
