@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2024-05-06T15:43:00Z",
-    "stars": 87,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -102,7 +93,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-11T10:11:02Z",
+    "lastUpdated": "2024-05-17T07:42:41Z",
     "stars": 9,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -862,15 +853,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
-  },
-  {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
