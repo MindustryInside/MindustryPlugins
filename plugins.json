@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-05-16T19:56:15Z",
+    "lastUpdated": "2024-05-17T02:18:06Z",
     "stars": 12,
     "hasJava": true,
     "description": "No description provided."
@@ -862,6 +862,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
+  },
+  {
+    "repo": "kennarddh-mindustry/genesis",
+    "name": "GenesisCore",
+    "author": "Kennarddh",
+    "lastUpdated": "2024-04-24T08:56:38Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "Plugin"
   },
   {
     "repo": "thedimasNetwork/StellarPlugin",
