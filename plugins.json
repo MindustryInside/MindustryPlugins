@@ -1299,9 +1299,18 @@
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
-    "lastUpdated": "2024-05-12T11:52:22Z",
+    "lastUpdated": "2024-05-18T06:55:35Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "KapComrad/hexedplugin",
+    "name": "hexedplugin",
+    "author": "Anuke",
+    "lastUpdated": "2024-05-18T07:07:04Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A battle-royale-like gamemode."
   }
 ]
