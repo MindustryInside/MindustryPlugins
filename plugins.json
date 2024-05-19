@@ -864,15 +864,6 @@
     "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
   },
   {
-    "repo": "kennarddh-mindustry/genesis",
-    "name": "GenesisCore",
-    "author": "Kennarddh",
-    "lastUpdated": "2024-04-24T08:56:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin"
-  },
-  {
     "repo": "thedimasNetwork/StellarPlugin",
     "name": "StellarPlugin",
     "author": "thedimas & Ahsoka-501 & skykatik",
@@ -1305,15 +1296,6 @@
     "description": "TSR Core Library Plugin"
   },
   {
-    "repo": "sharrlotte/MindustryToolPlugin",
-    "name": "MindustryToolPlugin",
-    "author": "Sharrlotte",
-    "lastUpdated": "2024-05-18T06:55:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
     "repo": "KapComrad/hexedplugin",
     "name": "hexedplugin",
     "author": "Anuke",
@@ -1321,5 +1303,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
+  },
+  {
+    "repo": "sharrlotte/MindustryToolPlugin",
+    "name": "MindustryToolPlugin",
+    "author": "Sharrlotte",
+    "lastUpdated": "2024-05-19T08:55:59Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A plugin to demonstrate some basic features."
   }
 ]
