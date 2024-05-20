@@ -1296,15 +1296,6 @@
     "description": "TSR Core Library Plugin"
   },
   {
-    "repo": "KapComrad/hexedplugin",
-    "name": "hexedplugin",
-    "author": "Anuke",
-    "lastUpdated": "2024-05-18T19:40:28Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A battle-royale-like gamemode."
-  },
-  {
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
@@ -1312,5 +1303,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "KapComrad/hexedplugin",
+    "name": "hexedplugin",
+    "author": "Anuke",
+    "lastUpdated": "2024-05-19T22:02:03Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "A battle-royale-like gamemode."
   }
 ]
