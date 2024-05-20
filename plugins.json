@@ -102,7 +102,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-17T07:42:41Z",
+    "lastUpdated": "2024-05-20T13:29:45Z",
     "stars": 9,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -151,6 +151,15 @@
     "stars": 7,
     "hasJava": true,
     "description": "NO HORNY IN MY SERVER!"
+  },
+  {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2024-05-12T14:29:31Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "Fatonndev/Matrix-plugin",
