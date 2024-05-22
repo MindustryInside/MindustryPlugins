@@ -81,6 +81,15 @@
     "description": "Hub plugin for Mindustry"
   },
   {
+    "repo": "Darkdustry-Coders/DarkdustryPlugin",
+    "name": "Darkdustry Plugin",
+    "author": "Darkness & xzxADIxzx",
+    "lastUpdated": "2024-05-20T13:29:45Z",
+    "stars": 10,
+    "hasJava": true,
+    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
+  },
+  {
     "repo": "Pointifix/SectorizedPlugin",
     "name": "SectorizedPlugin",
     "author": "Pointifix",
@@ -97,15 +106,6 @@
     "stars": 9,
     "hasJava": true,
     "description": "The mindustry plugin that improves the input of console commands."
-  },
-  {
-    "repo": "Darkdustry-Coders/DarkdustryPlugin",
-    "name": "Darkdustry Plugin",
-    "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-20T13:29:45Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
   },
   {
     "repo": "MindustryInside/PluginBrowser",
