@@ -819,15 +819,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "xpdustry/Router",
-    "name": "RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-04-02T20:24:47Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
-  },
-  {
     "repo": "Atomic-Laboratory/Radon",
     "name": "Radon (A HQL Client)",
     "author": "Atomic Laboratories",
@@ -885,10 +876,19 @@
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "Xpdustry",
-    "lastUpdated": "2024-05-20T20:40:42Z",
+    "lastUpdated": "2024-05-23T08:44:19Z",
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
+  },
+  {
+    "repo": "xpdustry/Router",
+    "name": "RouterPlugin",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-05-23T08:56:52Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A Reddit-like server for sharing schematics."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -1269,15 +1269,6 @@
     "description": "AutoPausing Server"
   },
   {
-    "repo": "xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2024-04-02T20:24:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
-  },
-  {
     "repo": "Atomic-Laboratory/ChatTranslation",
     "name": "Chat Translation",
     "author": "Atomic Laboratories",
@@ -1312,5 +1303,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
+  },
+  {
+    "repo": "xpdustry/AfkPlugin",
+    "name": "Xpdustry AfkPlugin",
+    "author": "Phinner",
+    "lastUpdated": "2024-05-23T05:50:11Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Kick afk bois."
   }
 ]
