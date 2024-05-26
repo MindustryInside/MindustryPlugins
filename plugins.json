@@ -846,6 +846,15 @@
     "description": "Plugin for thedimas' servers."
   },
   {
+    "repo": "GaviTSRA/TSR-Core",
+    "name": "TSR-Core",
+    "author": "GaviTSRA",
+    "lastUpdated": "2024-05-02T12:51:35Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "TSR Core Library Plugin"
+  },
+  {
     "repo": "Atomic-Laboratory/ChatTag",
     "name": "Chat Tag",
     "author": "Atomic Laboratories",
@@ -1276,15 +1285,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Translate Chat through the power of API's"
-  },
-  {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2024-05-02T12:51:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
   },
   {
     "repo": "sharrlotte/MindustryToolPlugin",
