@@ -72,6 +72,15 @@
     "description": "Plugin for my server"
   },
   {
+    "repo": "xzxADIxzx/Hex-Industry",
+    "name": "Hex Industry",
+    "author": "xzxADIxzx, Darkness6030",
+    "lastUpdated": "2023-03-27T13:45:00Z",
+    "stars": 11,
+    "hasJava": true,
+    "description": "It will work soon, I promise."
+  },
+  {
     "repo": "ObvilionNetwork/mindustry-hub-plugin",
     "name": "mindustry-hub-plugin",
     "author": "FatonnDev",
@@ -84,7 +93,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-25T16:40:12Z",
+    "lastUpdated": "2024-05-26T19:36:36Z",
     "stars": 10,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
