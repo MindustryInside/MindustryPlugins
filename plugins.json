@@ -1,14 +1,5 @@
 [
   {
-    "repo": "way-zer/ScriptAgent4MindustryExt",
-    "name": "ScriptAgent4MindustryExt",
-    "author": "WayZer",
-    "lastUpdated": "2024-05-26T09:11:39Z",
-    "stars": 87,
-    "hasJava": true,
-    "description": "More commands and features."
-  },
-  {
     "repo": "Kieaer/Essentials",
     "name": "Essentials",
     "author": "Kieaer",
@@ -31,7 +22,7 @@
     "name": "morecommands",
     "author": "ZetaMap",
     "lastUpdated": "2024-01-08T18:59:52Z",
-    "stars": 24,
+    "stars": 25,
     "hasJava": true,
     "description": "This mindustry plugin add more commands for admins and players."
   },
@@ -79,24 +70,6 @@
     "stars": 10,
     "hasJava": true,
     "description": "Hub plugin for Mindustry"
-  },
-  {
-    "repo": "Darkdustry-Coders/DarkdustryPlugin",
-    "name": "Darkdustry Plugin",
-    "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-27T04:39:49Z",
-    "stars": 10,
-    "hasJava": true,
-    "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
-  },
-  {
-    "repo": "Pointifix/SectorizedPlugin",
-    "name": "SectorizedPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2023-01-15T17:56:34Z",
-    "stars": 9,
-    "hasJava": true,
-    "description": "Sectorized game mode"
   },
   {
     "repo": "osp54/BetterConsole",
@@ -153,15 +126,6 @@
     "description": "Fight against hordes of crawlers"
   },
   {
-    "repo": "xpdustry/nohorny",
-    "name": "NoHorny",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-05-26T00:37:17Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "NO HORNY IN MY SERVER!"
-  },
-  {
     "repo": "Fatonndev/Matrix-plugin",
     "name": "Matrix-plugin",
     "author": "KeviTV",
@@ -187,15 +151,6 @@
     "stars": 6,
     "hasJava": true,
     "description": "A plugin to change map by /rtv."
-  },
-  {
-    "repo": "Pointifix/HistoryPlugin",
-    "name": "HistoryPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2022-09-15T10:32:10Z",
-    "stars": 6,
-    "hasJava": true,
-    "description": "Adds a history command to display a tiles build/break history"
   },
   {
     "repo": "skykatik/AfkPlugin",
@@ -259,24 +214,6 @@
     "stars": 4,
     "hasJava": true,
     "description": "Help from above"
-  },
-  {
-    "repo": "hezhenwei/MTDDirtyWordMask",
-    "name": "MTDDirtyWordMask",
-    "author": "Myke.H",
-    "lastUpdated": "2021-08-09T06:50:15Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Mask dirty words."
-  },
-  {
-    "repo": "mindustry-antigrief/SteamServer",
-    "name": "SteamServer",
-    "author": "mindustry-antigrief",
-    "lastUpdated": "2021-10-19T02:04:14Z",
-    "stars": 4,
-    "hasJava": true,
-    "description": "Allows hosting proper servers on steam, you can even connect to them via the direct ip without steam."
   },
   {
     "repo": "Tornado-Technology/mindustry-plugin-tech-hexed",
@@ -378,15 +315,6 @@
     "description": "Plugin with various useful features that are mostly designed for use with Foo's client."
   },
   {
-    "repo": "L0615T1C5-216AC-9437/LogicUpdater",
-    "name": "LogicUpdater",
-    "author": "L0615T1C5.216AC#9437's cat",
-    "lastUpdated": "2023-03-22T19:56:47Z",
-    "stars": 3,
-    "hasJava": true,
-    "description": "Checks if logic can be updated"
-  },
-  {
     "repo": "osp54/Lumus",
     "name": "Lumus",
     "author": "OSPx",
@@ -450,15 +378,6 @@
     "description": "Strengthens the foothold of the enemy as time goes on. (aka: spawns become larger ever wave)"
   },
   {
-    "repo": "Slava0135/Recapture",
-    "name": "Recapture",
-    "author": "Slava0135",
-    "lastUpdated": "2021-01-24T16:13:13Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows teams to capture cores."
-  },
-  {
     "repo": "MindustryInside/RankedPlugin",
     "name": "RankedPlugin",
     "author": "MindustryInside",
@@ -475,15 +394,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "Simple login system"
-  },
-  {
-    "repo": "Slava0135/LuckyRouters",
-    "name": "LuckyRouters",
-    "author": "Slava0135",
-    "lastUpdated": "2021-07-28T13:51:00Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Totally unfair mindustry experience"
   },
   {
     "repo": "hezhenwei/MTDChatBot",
@@ -513,15 +423,6 @@
     "description": "(plugin only in French) Ce plugin mindustry donne la possibilité aux joueurs de faire spawn l'unité de leurs choix toute les 30 min (ou à définir)."
   },
   {
-    "repo": "L0615T1C5-216AC-9437/GlobalImageBan",
-    "name": "GlobalImageBan",
-    "author": "L0615T1C5.216AC:9437's cat",
-    "lastUpdated": "2022-11-15T23:43:22Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Checks if logic image code is banned"
-  },
-  {
     "repo": "pisceskkk/Mindustry_ServerAutoSave",
     "name": "Mindustry_ServerAutoSave",
     "author": "pisceskkk",
@@ -529,24 +430,6 @@
     "stars": 2,
     "hasJava": true,
     "description": "A plugin to auto save the game."
-  },
-  {
-    "repo": "Ilya246/mapChange",
-    "name": "mapChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2023-02-22T00:55:20Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Allows players to vote to override next map and vote to gameover. Contributors: [USMP]Даркнесс"
-  },
-  {
-    "repo": "xpdustry/NoPayloadConveyorCrash",
-    "name": "NoPayloadConveyorCrashPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2023-03-01T18:51:24Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No more payload conveyor crashes."
   },
   {
     "repo": "Kowkodivka/PluginJNIExample",
@@ -558,51 +441,6 @@
     "description": "..."
   },
   {
-    "repo": "TheRadioactiveBanana/BotEradicator",
-    "name": "BotEradicator",
-    "author": "TheRadioactiveBanana",
-    "lastUpdated": "2023-12-10T13:04:08Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Utterly eradicate DDoS bots."
-  },
-  {
-    "repo": "King-BR/Mindustry-Discord-Chat",
-    "name": "Mindustry-Discord-Chat",
-    "author": "King-BR",
-    "lastUpdated": "2024-03-04T01:47:55Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "Link mindustry to discord chat"
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--weepingangel",
-    "name": "mindustry__plugin--weepingangel",
-    "author": "Quezler",
-    "lastUpdated": "2020-01-22T18:09:11Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "!weepingangel"
-  },
-  {
-    "repo": "Jaskowicz1/Mindustry-Discord-Relay",
-    "name": "Mindustry-Discord-Relay",
-    "author": "ArchieJaskowicz",
-    "lastUpdated": "2020-02-02T13:41:36Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Mindustry plugin that allows users to send information to discord from Mindustry."
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--blackbox",
-    "name": "mindustry__plugin--blackbox",
-    "author": "Quezler",
-    "lastUpdated": "2020-02-07T16:59:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "That just sounds like autosave with extra steps..."
-  },
-  {
     "repo": "j-vds/mindustry__plugin--minduracing",
     "name": "mindustry__plugin--minduracing",
     "author": "Fishbuilder",
@@ -612,24 +450,6 @@
     "description": "don't touch the brakes"
   },
   {
-    "repo": "Recessive/grayscale",
-    "name": "grayscale",
-    "author": "Recessive",
-    "lastUpdated": "2020-03-10T07:55:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Removes individuality and makes for a very boring lobby."
-  },
-  {
-    "repo": "Pointifix/UniqueUsernamesPlugin",
-    "name": "UniqueUsernamesPlugin",
-    "author": "Pointifix",
-    "lastUpdated": "2020-04-24T21:37:19Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Saves the username of each joined user and prohibits impersonations."
-  },
-  {
     "repo": "MindustryParty/Plugin",
     "name": "Plugin",
     "author": "NoahvdAa",
@@ -637,69 +457,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "Core plugin of the mindustry.party server."
-  },
-  {
-    "repo": "Quezler/mindustry__plugin--bomberman",
-    "name": "mindustry__plugin--bomberman",
-    "author": "Quezler, Fishbuilder",
-    "lastUpdated": "2020-07-03T08:37:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "<insert thorium here>"
-  },
-  {
-    "repo": "Volas171/AlexServerPlugin",
-    "name": "AlexServerPlugin",
-    "author": "Alex and VolasYouKnow",
-    "lastUpdated": "2020-12-31T17:43:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some AlexServerPlugin features."
-  },
-  {
-    "repo": "B00M3000/Mindustry-Web-Dashboard-Plugin",
-    "name": "Mindustry-Web-Dashboard-Plugin",
-    "author": "MochaBoom",
-    "lastUpdated": "2021-01-11T14:41:38Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin to communicate with a dashboard web server."
-  },
-  {
-    "repo": "GaviTSRA/TSR-AntiLogicVirus",
-    "name": "TSR-AntiLogicVirus",
-    "author": "GaviTSRA",
-    "lastUpdated": "2021-04-05T19:41:35Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "The anti-virus plugin for mindustry."
-  },
-  {
-    "repo": "Gee-aitcH/GHMP-AdminChat",
-    "name": "GHMP-AdminChat",
-    "author": "(G_H)",
-    "lastUpdated": "2021-04-24T14:04:02Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Admin Chat plugin for server."
-  },
-  {
-    "repo": "ObvilionNetwork/mindustry-recapture-plugin",
-    "name": "mindustry-recapture-plugin",
-    "author": "FatonnDev",
-    "lastUpdated": "2021-06-17T19:18:14Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Recapture pvp minigame for Mindustry"
-  },
-  {
-    "repo": "j-vds/randomEnemySpawn",
-    "name": "randomEnemySpawn",
-    "author": "Fishbuilder",
-    "lastUpdated": "2021-06-27T17:54:44Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Spawns enemies in a random location..."
   },
   {
     "repo": "j-vds/TeamPlugin",
@@ -720,51 +477,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "Volas171/UnitSpawn",
-    "name": "UnitSpawn",
-    "author": "VolasYouknow",
-    "lastUpdated": "2021-07-18T02:27:22Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "MindustryParty/PluginV2",
-    "name": "PluginV2",
-    "author": "NoahvdAa",
-    "lastUpdated": "2021-11-13T16:57:26Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "The new plugin that powers Mindustry.Party. "
-  },
-  {
-    "repo": "ThePotatoChronicler/potato-mindustry-plugin",
-    "name": "potato-mindustry-plugin",
-    "author": "Potato Chronicler",
-    "lastUpdated": "2022-04-20T08:24:24Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Potato plugin to do potato specific things"
-  },
-  {
-    "repo": "deltanedas/MatrixBridge",
-    "name": "MatrixBridge",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-28T00:21:28Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Bridges mindustry server chat with matrix."
-  },
-  {
-    "repo": "Ilya246/teamChange",
-    "name": "teamChange",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2023-02-22T00:55:03Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Allows players to change team."
-  },
-  {
     "repo": "quantum-brokengrammar/kogtech_commands_plugin",
     "name": "kogtech_commands_plugin",
     "author": "quantum-brokengrammar",
@@ -772,96 +484,6 @@
     "stars": 1,
     "hasJava": true,
     "description": "A plugin for commands for the server."
-  },
-  {
-    "repo": "byzp/chatgpt-mindustry-plugin",
-    "name": "chatgpt-mindustry-plugin",
-    "author": "byzp",
-    "lastUpdated": "2023-07-04T10:40:27Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "chat. Use command /c."
-  },
-  {
-    "repo": "550W-HOST/the-mindustry-server-plugin",
-    "name": "the-mindustry-server-plugin",
-    "author": "PaperCube",
-    "lastUpdated": "2023-10-28T20:03:20Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Provides the following commands: /pause, /p, /tp, /here, /back"
-  },
-  {
-    "repo": "Kowkodivka/AntiBot",
-    "name": "AntiBot",
-    "author": "kwokodivka",
-    "lastUpdated": "2023-11-01T16:26:04Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "..."
-  },
-  {
-    "repo": "gerdoe-jr/Discustry",
-    "name": "Discustry",
-    "author": "gerdoe",
-    "lastUpdated": "2023-12-21T13:45:13Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Simple as fuck Discord-Mindustry bridge plugin."
-  },
-  {
-    "repo": "Redstonneur1256/Bot-Remover",
-    "name": "Bot-Remover",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2024-01-28T23:56:40Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
-    "repo": "Atomic-Laboratory/Radon",
-    "name": "Radon (A HQL Client)",
-    "author": "Atomic Laboratories",
-    "lastUpdated": "2024-04-16T05:01:30Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Mindustry HQL library. Interact with a SQL database"
-  },
-  {
-    "repo": "Atomic-Laboratory/Argon",
-    "name": "Argon (A RabbitMQ Client)",
-    "author": "Atomic Laboratories",
-    "lastUpdated": "2024-04-19T02:23:46Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Mindustry RabbitMQ library. Send Mindustry-like events across servers! Achieve peak integration."
-  },
-  {
-    "repo": "thedimasNetwork/StellarPlugin",
-    "name": "StellarPlugin",
-    "author": "thedimas & Ahsoka-501 & skykatik",
-    "lastUpdated": "2024-04-27T14:37:49Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Plugin for thedimas' servers."
-  },
-  {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2024-05-02T12:51:35Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
-  },
-  {
-    "repo": "Atomic-Laboratory/ChatTag",
-    "name": "Chat Tag",
-    "author": "Atomic Laboratories",
-    "lastUpdated": "2024-05-09T04:46:51Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Adds a tag to a players name in chat"
   },
   {
     "repo": "ericchase/java--mindustry-plugin",
@@ -873,51 +495,6 @@
     "description": "A plugin to demonstrate some basic features."
   },
   {
-    "repo": "xpdustry/Simple-Blacklist",
-    "name": "Simple Blacklist",
-    "author": "ZetaMap",
-    "lastUpdated": "2024-05-19T15:30:18Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
-  },
-  {
-    "repo": "xpdustry/kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-05-23T08:44:19Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
-    "repo": "xpdustry/Router",
-    "name": "RouterPlugin",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-05-23T08:56:52Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A Reddit-like server for sharing schematics."
-  },
-  {
-    "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
-    "name": "Xenon-Mindustry-Plugin",
-    "author": "Iapetus11",
-    "lastUpdated": "2020-02-03T18:57:34Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "idk"
-  },
-  {
-    "repo": "Neba-MD/The-worst-mindustry-plugin",
-    "name": "The-worst-mindustry-plugin",
-    "author": "Mlokis",
-    "lastUpdated": "2020-03-28T14:39:31Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the worst server ewer."
-  },
-  {
     "repo": "Recessive/MindustryFFA",
     "name": "MindustryFFA",
     "author": "Recessive",
@@ -925,15 +502,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "epic mindustry battle royale"
-  },
-  {
-    "repo": "Blockzilla101/linker",
-    "name": "linker",
-    "author": "Blockzilla",
-    "lastUpdated": "2020-05-09T13:19:59Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to tie player admin status with a discord role"
   },
   {
     "repo": "jakubDoka/TWS-plugin",
@@ -954,141 +522,6 @@
     "description": "A new gamemode for mindustry."
   },
   {
-    "repo": "Vortetty/SimpleUtilsPlugin",
-    "name": "SimpleUtilsPlugin",
-    "author": "Anuke",
-    "lastUpdated": "2020-09-28T03:46:40Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Patryk434/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2020-09-29T17:16:36Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "Kickbut101/MultiplayerPausePlugin",
-    "name": "MultiplayerPausePlugin",
-    "author": "Andy",
-    "lastUpdated": "2020-12-20T22:11:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Compatible with Mindustry 6.0 - A super simple plugin to pause serverstate when players leave"
-  },
-  {
-    "repo": "deltanedas/JSEval",
-    "name": "JSEval",
-    "author": "Summet, DeltaNedas",
-    "lastUpdated": "2021-01-11T11:22:08Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Allows admins to execute JavaScript code using a special command, /js."
-  },
-  {
-    "repo": "fuzzbuck/io-global-bans",
-    "name": "io-global-bans",
-    "author": "fuzzbuck",
-    "lastUpdated": "2021-01-26T23:57:12Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that disallows players that are banned on the io server network from joining your server."
-  },
-  {
-    "repo": "unjown/playerDam",
-    "name": "playerDam",
-    "author": "Unjown",
-    "lastUpdated": "2021-03-04T05:03:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "lol"
-  },
-  {
-    "repo": "Volas171/Anti-Spam",
-    "name": "Anti-Spam",
-    "author": "VolasYouKnow",
-    "lastUpdated": "2021-03-16T16:34:46Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "heck"
-  },
-  {
-    "repo": "mindustry-antigrief/PacketPlugin",
-    "name": "PacketPlugin",
-    "author": "foo",
-    "lastUpdated": "2021-05-01T17:09:35Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that provides a network interface for foo's client."
-  },
-  {
-    "repo": "skykatik/AntiBot",
-    "name": "Anti Bot",
-    "author": "Skat",
-    "lastUpdated": "2021-05-21T21:58:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A simple plugin for kick bot accounts."
-  },
-  {
-    "repo": "Quezler/Nukedustry",
-    "name": "Nukedustry",
-    "author": "Slava0135",
-    "lastUpdated": "2021-05-26T12:35:54Z",
-    "stars": 0,
-    "hasJava": false,
-    "description": "Units spawn a nuke on death"
-  },
-  {
-    "repo": "AnoyingShulkerMC/blank-mindustry-plugin",
-    "name": "blank-mindustry-plugin",
-    "author": "AnoyingShulker",
-    "lastUpdated": "2021-07-26T00:25:58Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A recreation of IO's plugin"
-  },
-  {
-    "repo": "jakubDoka/mindustry-plugin-utils",
-    "name": "Mindustry Plugin Kotlin",
-    "author": "Seungjae Park",
-    "lastUpdated": "2021-08-30T09:12:08Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Mindustry Server Plugin Template written by Kotlin"
-  },
-  {
-    "repo": "laxtiz/mindustry-cheat",
-    "name": "mindustry-cheat",
-    "author": "laxtiz",
-    "lastUpdated": "2021-11-15T14:19:11Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Cheat like in StarCraft, need admin."
-  },
-  {
-    "repo": "Yu-Vitaqua-fer-Chronos/MindustryUndergroundServer",
-    "name": "MindustryUndergroundServer",
-    "author": "Forest",
-    "lastUpdated": "2021-12-02T19:47:18Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin that implements an underground layer to Mindustry because why tf not"
-  },
-  {
-    "repo": "FitmoF/FHistory",
-    "name": "FHistory",
-    "author": "Fitmo",
-    "lastUpdated": "2022-01-03T12:45:52Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Tile History Plugin"
-  },
-  {
     "repo": "nilederg/MindustryPlaguePublic",
     "name": "MindustryPlaguePublic",
     "author": "Fitmo",
@@ -1096,42 +529,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "Plague Plugin"
-  },
-  {
-    "repo": "Yu-Vitaqua-fer-Chronos/Mindustry.py",
-    "name": "Mindustry.py",
-    "author": "Anuke",
-    "lastUpdated": "2022-03-28T17:53:22Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "Allen-B1/mindustry-plugin-template",
-    "name": "Kotlin Example Plugin",
-    "author": "Allen-B1",
-    "lastUpdated": "2022-05-22T02:18:33Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "An example plugin"
-  },
-  {
-    "repo": "KotMilkMeoWtwo/Domination",
-    "name": "domination game mode",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2022-06-08T15:11:42Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "nya"
-  },
-  {
-    "repo": "MindustryVN/SimpleRTV",
-    "name": "SimpleRTV",
-    "author": "NgLam2911",
-    "lastUpdated": "2022-09-08T03:55:07Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin to change map by /rtv."
   },
   {
     "repo": "NgLam2911/ExampleMindustryPlugin",
@@ -1143,78 +540,6 @@
     "description": "I haz no idea ..."
   },
   {
-    "repo": "FIRE-WATER799/admin-commands-plugin",
-    "name": "admin-commands-plugin",
-    "author": "Salatosik",
-    "lastUpdated": "2022-10-27T21:07:43Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin for the Mindustry game server that adds ban and mut commands and works all this on a database!"
-  },
-  {
-    "repo": "MV-Studio14/autopause",
-    "name": "autopause",
-    "author": "MV-Studio14",
-    "lastUpdated": "2022-12-11T12:49:38Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Auto pause your game when there aren't players online"
-  },
-  {
-    "repo": "Agzam4/Mindustry-bugfixes-plugin",
-    "name": "Mindustry-bugfixes-plugin",
-    "author": "Agzam4",
-    "lastUpdated": "2023-01-01T09:01:19Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Bug fixed: PayloadConveyor"
-  },
-  {
-    "repo": "kohakow/norussians",
-    "name": "norussians",
-    "author": "AtomSnow",
-    "lastUpdated": "2023-04-05T06:48:51Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Plugin created to declare a war against Russian players raiding raiding other English servers. "
-  },
-  {
-    "repo": "Recessive/Assimilation",
-    "name": "Assimilation",
-    "author": "Recessive",
-    "lastUpdated": "2023-05-28T05:23:13Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for the assimilation gamemode"
-  },
-  {
-    "repo": "xpdustry/mod-loader",
-    "name": "ModLoader",
-    "author": "xpdustry",
-    "lastUpdated": "2023-07-27T11:26:21Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A custom mod loader plugin for jvm plugins/mods that rely on dependencies. "
-  },
-  {
-    "repo": "MindustryModSeeker1/spawnUnit",
-    "name": "spawnUnit",
-    "author": "Nipple",
-    "lastUpdated": "2023-09-22T22:46:36Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for spawn units."
-  },
-  {
-    "repo": "MiguelEXE/DynamicDesc",
-    "name": "DynamicDesc",
-    "author": "MiguelEX3",
-    "lastUpdated": "2023-10-28T17:08:26Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Changes description every 1/10 of a second."
-  },
-  {
     "repo": "cursedctf/MindustryHexedPlugin",
     "name": "MindustryHexedPlugin",
     "author": "Anuke",
@@ -1222,24 +547,6 @@
     "stars": 0,
     "hasJava": true,
     "description": "A battle-royale-like gamemode."
-  },
-  {
-    "repo": "Ilya246/randomArena",
-    "name": "randomArena",
-    "author": "Ilya246",
-    "lastUpdated": "2023-11-28T18:07:09Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A gamemode plugin that makes players fight using randomly selected units"
-  },
-  {
-    "repo": "kennarddh-mindustry/anti-bot-mindustry-plugin",
-    "name": "anti-bot-mindustry-plugin",
-    "author": "Kennarddh",
-    "lastUpdated": "2023-11-29T05:14:27Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A plugin for kicking bot"
   },
   {
     "repo": "Shadow53/MindustryAutoPausePlugin",
@@ -1269,24 +576,6 @@
     "description": "A plugin to run admin commands from the chat"
   },
   {
-    "repo": "Geeri45/Mindustry-AutoPausePlugin",
-    "name": "Mindustry-AutoPausePlugin",
-    "author": "Geeri45",
-    "lastUpdated": "2024-02-05T10:28:21Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "AutoPausing Server"
-  },
-  {
-    "repo": "Atomic-Laboratory/ChatTranslation",
-    "name": "Chat Translation",
-    "author": "Atomic Laboratories",
-    "lastUpdated": "2024-04-22T20:56:26Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Translate Chat through the power of API's"
-  },
-  {
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
@@ -1294,23 +583,5 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
-  },
-  {
-    "repo": "KapComrad/hexedplugin",
-    "name": "hexedplugin",
-    "author": "Anuke",
-    "lastUpdated": "2024-05-19T22:02:03Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "A battle-royale-like gamemode."
-  },
-  {
-    "repo": "xpdustry/AfkPlugin",
-    "name": "Xpdustry AfkPlugin",
-    "author": "Phinner",
-    "lastUpdated": "2024-05-23T05:50:11Z",
-    "stars": 0,
-    "hasJava": true,
-    "description": "Kick afk bois."
   }
 ]
