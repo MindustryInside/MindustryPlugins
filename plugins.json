@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-05-27T18:01:11Z",
+    "lastUpdated": "2024-05-28T17:21:59Z",
     "stars": 13,
     "hasJava": true,
     "description": "No description provided."
@@ -142,6 +142,15 @@
     "stars": 7,
     "hasJava": true,
     "description": "interaction with discord"
+  },
+  {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2024-05-21T08:58:51Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "xpdustry/nohorny",
