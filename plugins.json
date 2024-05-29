@@ -93,7 +93,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-05-27T13:05:26Z",
+    "lastUpdated": "2024-05-29T12:53:38Z",
     "stars": 10,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -846,15 +846,6 @@
     "description": "Plugin for thedimas' servers."
   },
   {
-    "repo": "GaviTSRA/TSR-Core",
-    "name": "TSR-Core",
-    "author": "GaviTSRA",
-    "lastUpdated": "2024-05-02T12:51:35Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "TSR Core Library Plugin"
-  },
-  {
     "repo": "Atomic-Laboratory/ChatTag",
     "name": "Chat Tag",
     "author": "Atomic Laboratories",
@@ -898,6 +889,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "A Reddit-like server for sharing schematics."
+  },
+  {
+    "repo": "GaviTSRA/TSR-Core",
+    "name": "TSR-Core",
+    "author": "GaviTSRA",
+    "lastUpdated": "2024-05-29T13:45:57Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "TSR Core Library Plugin"
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
