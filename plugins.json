@@ -549,6 +549,15 @@
     "description": "No more payload conveyor crashes."
   },
   {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
+  },
+  {
     "repo": "Kowkodivka/PluginJNIExample",
     "name": "PluginJNIExample",
     "author": "kowkodivka",
@@ -579,7 +588,7 @@
     "repo": "xpdustry/imperium",
     "name": "Imperium",
     "author": "Xpdustry",
-    "lastUpdated": "2024-05-30T19:08:01Z",
+    "lastUpdated": "2024-05-30T23:02:09Z",
     "stars": 2,
     "hasJava": true,
     "description": "No description provided."
@@ -903,7 +912,7 @@
     "repo": "GaviTSRA/TSR-Core",
     "name": "TSR-Core",
     "author": "GaviTSRA",
-    "lastUpdated": "2024-05-29T16:02:55Z",
+    "lastUpdated": "2024-05-30T22:23:15Z",
     "stars": 1,
     "hasJava": true,
     "description": "TSR Core Library Plugin"
