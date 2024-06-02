@@ -873,15 +873,6 @@
     "description": "Allows to prohibit nicknames with a blacklist, all nicknames containing one from the list, or matches with one regex, will be banned or kicked"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-05-23T08:44:19Z",
-    "stars": 1,
-    "hasJava": true,
-    "description": "A companion plugin for Kotlin based plugins."
-  },
-  {
     "repo": "xpdustry/Router",
     "name": "RouterPlugin",
     "author": "Xpdustry",
@@ -898,6 +889,15 @@
     "stars": 1,
     "hasJava": true,
     "description": "TSR Core Library Plugin"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-06-01T20:44:26Z",
+    "stars": 1,
+    "hasJava": true,
+    "description": "A companion plugin for Kotlin based plugins."
   },
   {
     "repo": "Iapetus-11/Xenon-Mindustry-Plugin",
@@ -1312,5 +1312,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "xpdustry/watchdog",
+    "name": "Watchdog",
+    "author": "xpdustry",
+    "lastUpdated": "2024-06-01T21:55:03Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Monitor your mindustry server."
   }
 ]
