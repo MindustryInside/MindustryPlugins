@@ -144,6 +144,15 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2024-05-21T08:58:51Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "xpdustry/nohorny",
     "name": "NoHorny",
     "author": "Xpdustry",
@@ -1042,6 +1051,15 @@
     "stars": 0,
     "hasJava": true,
     "description": "A recreation of IO's plugin"
+  },
+  {
+    "repo": "Prosta4okua/ExamplePlugin",
+    "name": "Example Plugin",
+    "author": "Darkness6030",
+    "lastUpdated": "2021-08-11T18:43:10Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "Example plugin to show some basic features."
   },
   {
     "repo": "jakubDoka/mindustry-plugin-utils",
