@@ -40,7 +40,7 @@
     "name": "JSEval",
     "author": "Summet",
     "lastUpdated": "2023-02-22T00:53:00Z",
-    "stars": 15,
+    "stars": 16,
     "hasJava": true,
     "description": "Allows admins to execute JavaScript code using a special command."
   },
@@ -108,6 +108,15 @@
     "description": "The mindustry plugin that improves the input of console commands."
   },
   {
+    "repo": "MindustryInside/LightweightHub",
+    "name": "LightweightHub",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2023-02-23T14:26:21Z",
+    "stars": 9,
+    "hasJava": true,
+    "description": "A lightweight hub plugin for servers."
+  },
+  {
     "repo": "MindustryInside/PluginBrowser",
     "name": "Plugin Browser",
     "author": "Mindustry Inside",
@@ -115,15 +124,6 @@
     "stars": 8,
     "hasJava": true,
     "description": "Mindustry plugin/mod browser for Mindustry servers."
-  },
-  {
-    "repo": "MindustryInside/LightweightHub",
-    "name": "LightweightHub",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2023-02-23T14:26:21Z",
-    "stars": 8,
-    "hasJava": true,
-    "description": "A lightweight hub plugin for servers."
   },
   {
     "repo": "Astro36/mindustry-pause-plugin",
@@ -142,15 +142,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-21T08:58:51Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "xpdustry/nohorny",
