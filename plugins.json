@@ -144,15 +144,6 @@
     "description": "interaction with discord"
   },
   {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-21T08:58:51Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
-  },
-  {
     "repo": "xpdustry/nohorny",
     "name": "NoHorny",
     "author": "Xpdustry",
@@ -547,6 +538,15 @@
     "stars": 2,
     "hasJava": true,
     "description": "No more payload conveyor crashes."
+  },
+  {
+    "repo": "GitNeu256/LABORATORY",
+    "name": "LABORATORY",
+    "author": "Neu",
+    "lastUpdated": "2023-05-08T08:32:53Z",
+    "stars": 2,
+    "hasJava": true,
+    "description": "LABORATORY - new mindustry game mode."
   },
   {
     "repo": "Kowkodivka/PluginJNIExample",
