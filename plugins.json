@@ -13,7 +13,7 @@
     "name": "Essentials",
     "author": "Kieaer",
     "lastUpdated": "2024-06-03T08:29:19Z",
-    "stars": 56,
+    "stars": 57,
     "hasJava": true,
     "description": "More commands and features."
   },
@@ -75,7 +75,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-06-05T14:37:58Z",
+    "lastUpdated": "2024-06-06T05:42:49Z",
     "stars": 11,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -142,15 +142,6 @@
     "stars": 7,
     "hasJava": true,
     "description": "interaction with discord"
-  },
-  {
-    "repo": "Ilya246/crawler_arena",
-    "name": "crawler_arena",
-    "author": "[USMP]Ilya246 & Darkness6030",
-    "lastUpdated": "2024-05-21T08:58:51Z",
-    "stars": 7,
-    "hasJava": true,
-    "description": "Fight against hordes of crawlers"
   },
   {
     "repo": "xpdustry/nohorny",
@@ -1317,7 +1308,7 @@
     "repo": "sharrlotte/MindustryToolPlugin",
     "name": "MindustryToolPlugin",
     "author": "Sharrlotte",
-    "lastUpdated": "2024-06-04T18:37:28Z",
+    "lastUpdated": "2024-06-06T10:01:19Z",
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
