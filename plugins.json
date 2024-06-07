@@ -894,7 +894,7 @@
     "repo": "xpdustry/kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "Xpdustry",
-    "lastUpdated": "2024-06-01T20:44:26Z",
+    "lastUpdated": "2024-06-07T05:11:16Z",
     "stars": 1,
     "hasJava": true,
     "description": "A companion plugin for Kotlin based plugins."
