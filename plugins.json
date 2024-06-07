@@ -144,10 +144,19 @@
     "description": "interaction with discord"
   },
   {
+    "repo": "Ilya246/crawler_arena",
+    "name": "crawler_arena",
+    "author": "[USMP]Ilya246 & Darkness6030",
+    "lastUpdated": "2024-05-21T08:58:51Z",
+    "stars": 7,
+    "hasJava": true,
+    "description": "Fight against hordes of crawlers"
+  },
+  {
     "repo": "xpdustry/nohorny",
     "name": "NoHorny",
     "author": "Xpdustry",
-    "lastUpdated": "2024-06-04T02:17:17Z",
+    "lastUpdated": "2024-06-06T16:14:10Z",
     "stars": 7,
     "hasJava": true,
     "description": "NO HORNY IN MY SERVER!"
