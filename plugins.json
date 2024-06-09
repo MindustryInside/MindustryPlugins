@@ -576,15 +576,6 @@
     "description": "Link mindustry to discord chat"
   },
   {
-    "repo": "xpdustry/imperium",
-    "name": "Imperium",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-06-09T00:56:47Z",
-    "stars": 2,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "Quezler/mindustry__plugin--weepingangel",
     "name": "mindustry__plugin--weepingangel",
     "author": "Quezler",
