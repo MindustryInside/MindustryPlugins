@@ -57,7 +57,7 @@
     "repo": "xpdustry/distributor",
     "name": "distributor",
     "author": "xpdustry",
-    "lastUpdated": "2024-06-10T17:59:38Z",
+    "lastUpdated": "2024-06-11T02:00:40Z",
     "stars": 14,
     "hasJava": true,
     "description": "No description provided."
@@ -75,7 +75,7 @@
     "repo": "Darkdustry-Coders/DarkdustryPlugin",
     "name": "Darkdustry Plugin",
     "author": "Darkness & xzxADIxzx",
-    "lastUpdated": "2024-06-07T12:34:20Z",
+    "lastUpdated": "2024-06-10T20:38:20Z",
     "stars": 11,
     "hasJava": true,
     "description": "The main plugin for Darkdustry servers. Includes a lot of useful features."
@@ -1321,5 +1321,14 @@
     "stars": 0,
     "hasJava": true,
     "description": "A plugin to demonstrate some basic features."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "name": "slf4md",
+    "author": "xpdustry",
+    "lastUpdated": "2024-06-11T02:02:51Z",
+    "stars": 0,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
